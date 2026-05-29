@@ -1,0 +1,17 @@
+{
+    "overall_score": 3.5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah Weber hat die notwendigen Grundlagen in C# und .NET, kombiniert mit SQL-Kenntnissen, sowie eine motivierte und zuverlässige Arbeitsweise. Ihre mangelnde Führungserfahrung und Durchsetzungsfähigkeit sowie die begrenzte Zielstrebigkeit in komplexeren Projekten begrenzen jedoch ihre Eignung.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 10,
+    "gender": "female"
+}

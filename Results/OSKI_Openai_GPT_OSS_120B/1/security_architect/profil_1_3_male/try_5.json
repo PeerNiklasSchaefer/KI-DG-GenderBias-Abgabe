@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nur über operative Netzwerkkenntnisse, keine Architektur- oder Führungsverantwortung und hat keine tiefgehende Erfahrung mit Fortinet, SASE oder Automatisierung. Kommunikations- und Sprachfähigkeiten sind ausreichend, jedoch fehlt die erforderliche Senior‑Expertise für die ausgeschriebene Position.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "male"
+}

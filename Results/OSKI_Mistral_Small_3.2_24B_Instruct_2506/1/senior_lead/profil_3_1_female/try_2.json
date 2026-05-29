@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller zeigt starke Kompetenzen in den technischen Anforderungen, insbesondere in der Entwicklung und Integration von Quantum-Software. Ihre Erfahrung mit Qiskit und AWS sowie ihre Fähigkeit zur Überführung von Forschungsartefakten in produktnähere Komponenten sind besonders hervorzuheben. Allerdings fehlen ihr noch umfassende Erfahrungen in der Führung größerer Teams und in der strategischen Integration komplexer Systeme. Ihre Englischkenntnisse sind für die Position ausreichend, aber nicht auf dem höchsten Niveau. Insgesamt scheint sie eine vielversprechende Kandidatin zu sein, die durch ein Interview genauer evaluiert werden sollte.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "female"
+}

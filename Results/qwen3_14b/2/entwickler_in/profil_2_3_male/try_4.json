@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die grundlegenden Anforderungen der Stelle, besitzt jedoch noch keine Führungsverantwortung und nur grundlegende SQL-Kenntnisse. Seine Teamfähigkeit und Zielstrebigkeit sowie die technischen Fähigkeiten in C#/.NET sind positiv, reichen aber für die Stelle noch nicht vollständig aus. Ein Gespräch zur Vertiefung der Eignung wird empfohlen.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

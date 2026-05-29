@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin hat relevante technische Grundkenntnisse in C# und .NET, was die Basisqualifikation deckt. Ihre Motivation und Teamfähigkeit sind positiv, sie fehlen aber die Erfahrung in komplexen Projekten und Führungsrollen.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "female"
+}

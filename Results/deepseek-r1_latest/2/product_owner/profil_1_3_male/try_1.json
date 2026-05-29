@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 1,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin hat keine Führungserfahrung und fehlende agiler sowie strategische Kompetenzen. Ihr Fokus liegt im operativen IT-Support, was die Anforderungen des Product Owner-Roles nicht erfüllt.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

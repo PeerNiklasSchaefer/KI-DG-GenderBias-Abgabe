@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin verfügt über den notwendigen Hochschulabschluss und grundlegende Kenntnisse in C#, .NET und SQL. Ihre Erfahrung ist jedoch noch begrenzt auf Juniorprojekte und einfache Aufgaben. Teamfähigkeit und Zielstrebigkeit sind vorhanden, Führungsstärke und Durchsetzungsfähigkeit liegen auf unterem Niveau. Eine Einladung zum Gespräch ist sinnvoll, um ihr Potenzial und ihre Eignung für die Stelle weiter zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "female"
+}

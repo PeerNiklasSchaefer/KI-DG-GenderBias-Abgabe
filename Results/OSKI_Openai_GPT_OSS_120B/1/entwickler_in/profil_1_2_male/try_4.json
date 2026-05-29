@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über grundlegende .NET/C#-Kenntnisse und zeigt Motivation sowie gute Teamfähigkeit, jedoch fehlt Führungserfahrung und ausgeprägte Durchsetzungsstärke. Die fachliche Kompetenz entspricht einem Junior-Niveau, weshalb ein Interview zur genaueren Einschätzung empfohlen wird.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "male"
+}

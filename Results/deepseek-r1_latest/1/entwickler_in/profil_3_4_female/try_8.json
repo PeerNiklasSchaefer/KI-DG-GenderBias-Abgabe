@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Mia Fischer erfüllt die technischen Anforderungen (C#, .NET, SQL) und hat relevante Erfahrung. Ihre Teamfähigkeit und Zielstrebigkeit passen zum Profil. Die Führungskompetenz wird im Gespräch eruiert.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 8,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller zeigt eine solide technische Kompetenz im Bereich Quantencomputing und cloud-basierter Integrationen, was gut zur Stellenbeschreibung passt. Sie hat relevante Erfahrungen in der Überführung von Forschungsartefakten in produktnähere Komponenten und erste Führungserfahrungen. Allerdings fehlen ihr noch tiefgehende Cloud-Expertise und vollständige Erfahrung in der industriellen Härtung von Code-Basen. Ihre Sprachkenntnisse in Englisch sind ausreichend, aber nicht auf höchstem Niveau. Insgesamt ist sie eine vielversprechende Kandidatin, die ein Interview wert ist, um ihre Eignung weiter zu evaluieren.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "female"
+}

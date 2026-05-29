@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 2,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat hat eine solide Basis in Netzwerktechnik, verfügt aber über keine Architektur- oder Führerfahrung, was für die Senior-Rolle entscheidend ist. Grundlegende Skills und B2-Englisch reichen nicht aus, um die Anforderungen zu erfüllen.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "female"
+}

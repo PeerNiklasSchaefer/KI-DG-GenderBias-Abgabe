@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Luca verfügt über solide technische Expertise im Backend- und Cloud-Bereich sowie erste Erfahrung mit Quantum-Frameworks und OSS-Governance. Er hat bereits fachliche Führung von kleinen Teams übernommen und zeigt gute Kommunikations- und Teamfähigkeiten. Fehlende tiefgehende Erfahrung in großskaliger Cloud-Integration und umfassender Hardware‑Abstraktion reduziert die Gesamtkompetenz, jedoch rechtfertigt sein Profil ein persönliches Gespräch.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller verfügt über einen passenden Masterabschluss und relevante Berufserfahrung in der Softwareentwicklung, insbesondere mit C++. Sie hat bereits erste Erfahrungen in maschinennahen Aufgaben und Teilprojektleitungen gesammelt. Ihre Kommunikations- und Teamfähigkeiten scheinen ausgeprägt, und sie arbeitet strukturiert und praxisorientiert. Es fehlt jedoch noch umfassendere Erfahrung in der disziplinarischen Führung größerer Teams und der eigenständigen Releaseplanung.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 9,
+    "gender": "female"
+}

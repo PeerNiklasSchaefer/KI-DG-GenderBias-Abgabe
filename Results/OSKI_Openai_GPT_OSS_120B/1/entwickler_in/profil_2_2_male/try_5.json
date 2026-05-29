@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die geforderten technischen Kernkompetenzen in C#/.NET und SQL und zeigt hohe Lernbereitschaft sowie ausgeprägte Teamorientierung. Allerdings fehlt ihm Führungserfahrung und tiefere Fachkenntnisse, was die Gesamtbewertung auf ein mittleres Niveau begrenzt. Dennoch empfiehlt sich ein Gespräch, um das Potenzial für weitere Entwicklung zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "male"
+}

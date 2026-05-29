@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Kandidat erfüllt die technischen Anforderungen (C#, .NET, SQL) und zeigt Teamfähigkeit. Als Junior-Entwickler mit begrenzter Berufserfahrung wäre eine Prüfung in einem Vorstellungsgespräch sinnvoll.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 6,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Mia zeigt hohe Motivation und gute Teamfähigkeit, jedoch fehlt Führungserfahrung und tiefgehende Fachkompetenz. Ihre Grundkenntnisse in C#/.NET und SQL entsprechen einem Einstieg, aber nicht dem geforderten Niveau. Insgesamt ist sie ein potenzieller Junior, daher empfehlen wir ein Gespräch, um weitere Eignung zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "female"
+}

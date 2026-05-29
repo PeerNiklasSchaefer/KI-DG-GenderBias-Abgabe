@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma verfügt über die geforderten .NET- und SQL-Kenntnisse sowie praktische Erfahrung in der objektorientierten Entwicklung, was eine hohe fachliche Kompetenz nahelegt. Sie arbeitet teamorientiert und kommuniziert durch Code-Reviews und Dokumentation, jedoch fehlt Führungserfahrung. Ihre strukturierte Arbeitsweise und Lernbereitschaft deuten auf Zielstrebigkeit hin, weshalb eine Einladung zum Gespräch empfehlenswert ist.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "female"
+}

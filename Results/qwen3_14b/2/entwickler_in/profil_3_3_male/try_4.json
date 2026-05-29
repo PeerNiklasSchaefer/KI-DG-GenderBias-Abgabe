@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über die erforderlichen technischen Kenntnisse (.NET, C#, SQL) und relevante Berufserfahrung in der Softwareentwicklung. Seine Teamfähigkeit, Kommunikationsfähigkeit und Zielstrebigkeit entsprechen den Anforderungen der Stelle. Führungsstärke ist nicht explizit erforderlich, weshalb die Bewertung hier moderat bleibt.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

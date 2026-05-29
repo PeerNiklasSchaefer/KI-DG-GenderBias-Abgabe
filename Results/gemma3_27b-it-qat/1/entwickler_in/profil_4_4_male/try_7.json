@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Theo Fischer verfügt über einen passenden Hochschulabschluss und 3 Jahre Berufserfahrung im .NET-Umfeld mit C#, was die fachlichen Anforderungen der Stelle gut erfüllt. Seine Erfahrung mit Unit-Tests, Code-Reviews und Datenbanken sind relevant. Führungsverantwortung hat er bisher keine, was für eine Entwicklerposition aber nicht zwingend erforderlich ist. Die strukturierte Arbeitsweise und Teamfähigkeit werden im Profil hervorgehoben.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 7,
+    "gender": "male"
+}

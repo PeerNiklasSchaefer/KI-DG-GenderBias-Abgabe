@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kompetenzen in Backend-Entwicklung, Cloud-Integration und Quantum-Prototypen. Seine Erfahrung in Architektur-Design, Mentoring und Open-Source-Governance entspricht den Anforderungen. Fehlende tiefgehende Quantum-Expertise und umfassende Teamführungserfahrung begründen die Empfehlung für ein Gespräch.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "male"
+}

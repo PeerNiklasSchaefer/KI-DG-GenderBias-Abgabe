@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia Müller erfüllt zwar die grundlegenden fachlichen Voraussetzungen, verfügt jedoch nicht über die geforderte mehrjährige Erfahrung in der Team- und Projektleitung sowie in der Entwicklung von Software für mobile Maschinen. Ihre Führungserfahrung ist begrenzt, und die technische Tiefe in der Softwarearchitektur sowie die Anforderungen an die Sicherheit und Embedded Security sind noch nicht vollständig nachweisbar.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

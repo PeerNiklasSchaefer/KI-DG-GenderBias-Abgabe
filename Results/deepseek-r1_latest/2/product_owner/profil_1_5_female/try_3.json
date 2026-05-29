@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin hat keine Führungserfahrung und fehlende relevante Expertise für die Produktsteuerung. Ihre Berufserfahrung liegt im operativen IT-Support, was die Anforderungen an Produktlebenszyklus-Management und agiles Arbeiten nicht deckt.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "female"
+}

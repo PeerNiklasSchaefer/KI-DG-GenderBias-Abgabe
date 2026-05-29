@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat hat erste Führungserfahrung mit kleinen Teams und gute technische Skills, insbesondere in C++. Allerdings fehlen umfangreiche Team- und Projektleitungserfahrungen sowie tiefgreifende Kenntnisse in Software-Architektur und modellbasierter Entwicklung.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "male"
+}

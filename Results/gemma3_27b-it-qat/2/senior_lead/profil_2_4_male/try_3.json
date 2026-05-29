@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über eine sehr hohe fachliche Kompetenz im Bereich Backend-Entwicklung und Cloud-Technologien sowie erste Erfahrungen im Quantum Computing. Er hat bereits erfolgreich Projekte mit Qiskit umgesetzt und kennt sich mit der Integration neuer Services in bestehende Cloud-Umgebungen aus. Seine Führungserfahrung ist bisher auf kleinere Arbeitspakete beschränkt, was im Interview noch genauer geprüft werden sollte.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

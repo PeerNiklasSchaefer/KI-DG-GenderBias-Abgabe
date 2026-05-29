@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidatin zeigt durch Masterabschluss und technische Skills (C/C++, IEC 61131-3) eine gute Kompetenz- und Kommunikationsanpassung. Die Führungserfahrung mit kleinen Teams und die mangelnde Durchsetzungskompetenz bei größeren Teams sowie fehlende Koordination externer Partner begrenzen die Eignung.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "female"
+}

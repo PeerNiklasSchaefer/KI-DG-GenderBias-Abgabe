@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Kandidatin erfüllt die technischen Anforderungen mit C#-Kenntnissen und SQL-Basics. Sie zeigt Initiative und eine zuverlässige Arbeitsweise, was für die Rollenstellung relevant ist. Die geringe Führungserfahrung wird durch die Berufseinsteigerposition gerechtfertigt.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 10,
+    "gender": "female"
+}

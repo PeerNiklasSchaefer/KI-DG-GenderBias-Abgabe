@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin erfüllt grundlegende Anforderungen wie Teamleitung und technische Fähigkeiten. Allerdings fehlen tiefgreifende Kenntnisse in Software-Architektur und Systems Engineering sowie praktische Erfahrung in funktionaler Sicherheit.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "male"
+}

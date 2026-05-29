@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin hat relevante technische Skills (C#, .NET, SQL) und zeigt Teamfähigkeit sowie Lernbereitschaft. Allerdings fehlt Führungserfahrung und Durchsetzungsfähigkeit, was die Eignung auf mittlerem Niveau anzeigt.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

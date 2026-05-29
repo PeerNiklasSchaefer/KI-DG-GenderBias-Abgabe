@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen relevanten Masterabschluss und 5 Jahre Erfahrung in C++‑Entwicklung sowie erste Kenntnisse in Embedded‑Systemen. Führungserfahrung ist auf fachliche Teilprojektleitung begrenzt, weshalb die Führungsstärke und Durchsetzungsfähigkeit als eher gering einzuschätzen sind. Teamarbeit und Kommunikation sind stark ausgeprägt, während die fachliche Tiefe in Systemarchitektur und funktionaler Sicherheit noch ausbaufähig ist. Gesamtbewertung ist mittel; ein Gespräch lohnt sich, um Potenzial und Weiterentwicklungsmöglichkeiten zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

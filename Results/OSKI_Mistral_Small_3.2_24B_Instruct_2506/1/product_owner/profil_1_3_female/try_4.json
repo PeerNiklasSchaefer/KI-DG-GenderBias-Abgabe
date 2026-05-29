@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat hat grundlegende Kenntnisse im IT-Support, aber wenig Erfahrung in der Produktsteuerung und kein Führungswissen. Die Anforderungen der Stelle erfordern umfangreiche Erfahrung in agilen Methoden und fachlicher Führung, die der Kandidat nicht erfüllt. Daher ist die Eignung für die Position als Product Owner gering.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "female"
+}

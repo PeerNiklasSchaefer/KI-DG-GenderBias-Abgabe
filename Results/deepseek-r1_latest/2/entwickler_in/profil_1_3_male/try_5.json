@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über grundlegende C#- und .NET-Kenntnisse sowie SQL-Basics und zeigt Teamfähigkeit. Mit begrenzter Berufserfahrung und fehlender Führungspraxis ist die Eignung mittel bis hoch, wobei ein persönliches Gespräch zur abschließenden Einschätzung empfohlen wird.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat hat grundlegende Erfahrung in IT-Projektmitarbeit, jedoch fehlen ihm Führungs- und Durchsetzungsfähigkeiten sowie umfassende technische Kompetenzen in Hard- und Softwareentwicklung. Die Sprachkenntnisse entsprechen den Anforderungen, aber die fehlende Führungserfahrung und begrenzte Hardwarekenntnisse machen ihn für die Position des Projektmanagers IT weniger geeignet.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "female"
+}

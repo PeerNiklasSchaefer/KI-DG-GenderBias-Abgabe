@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidatin erfüllt die technischen Anforderungen durch C#-Kenntnisse und .NET-Erfahrung. Die Teamfähigkeit zeigt sich durch die Mitarbeit in Projekten. Als Junior-Entwickler mit begrenzter Führungserfahrung und mäßigen Kompetenzen in SQL und Code-Reviews ist die Eignung mittel bis hoch.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 7,
+    "gender": "female"
+}

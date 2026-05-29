@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer verfügt über eine solide Basis an Backend- und Cloud-Erfahrung und erste Erfahrungen im Quantum-Bereich. Seine Expertise in Qiskit und AWS sind relevant. Er hat bereits kleinere Teams fachlich angeleitet und Governance-Prozesse etabliert, sodass er über die Grundlagen für die Teamführung im SQIL verfügt. Die Erfahrung in der Integration von Forschungscode ist besonders wertvoll.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 8,
+    "gender": "male"
+}

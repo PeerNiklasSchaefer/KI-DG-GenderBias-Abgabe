@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Leon Schneider weist eine sehr hohe Kompetenz in den relevanten technischen Bereichen auf, insbesondere in der Entwicklung und Integration von skalierbaren Backend-Systemen sowie in der Arbeit mit Quantencomputing-Frameworks wie Qiskit. Er hat mehrjährige Erfahrung in der fachlichen Führung von Teams und im Mentoring von Junior-Entwicklern, was seine Führungsstärke und Teamfähigkeit unterstreicht. Seine Erfahrung in der industriellen Härtung von Code-Basen und in der Kommunikation mit Stakeholdern macht ihn zu einem starken Kandidaten für die Position des Lead Quantum Software Engineers.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

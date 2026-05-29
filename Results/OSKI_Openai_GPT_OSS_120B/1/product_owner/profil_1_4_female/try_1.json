@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nur über begrenzte Erfahrung im operativen Client-Support, hat keine Führungs- oder Budgetverantwortung und besitzt nur Basiskenntnisse in den geforderten Technologien. Die fehlende Erfahrung mit agilen Methoden, internationalen Projekten und strategischer Produktentwicklung macht ihn für die Position des Product Owner ungeeignet.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "female"
+}

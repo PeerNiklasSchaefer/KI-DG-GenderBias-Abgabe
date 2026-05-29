@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Masterabschluss und 5 Jahre Berufserfahrung in der Softwareentwicklung, wobei er bereits erste Erfahrungen im maschinennahen Bereich sammeln konnte. Seine Teilprojektverantwortung und die Mitarbeit an Planungsaufgaben deuten auf eine gute Eignung für die Position hin. Die Kenntnisse in C++ und CAN/Ethernet sind relevant, ebenso wie die ersten Erfahrungen mit funktionaler Sicherheit und Embedded Security. Eine stärkere Führungserfahrung ist noch nicht erkennbar, jedoch zeigt er Bereitschaft und erste Schritte in diese Richtung.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

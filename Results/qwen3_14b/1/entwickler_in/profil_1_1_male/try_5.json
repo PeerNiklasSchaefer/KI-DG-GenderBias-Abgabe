@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die grundlegenden Anforderungen für eine Einstiegsposition mit einem Bachelorabschluss und grundlegenden Kenntnissen in C#, .NET und SQL. Die Teamfähigkeit und Zielstrebigkeit sind positiv bewertet, jedoch fehlen fortgeschrittene technische Fähigkeiten und Führungsverantwortung, die für die Stelle wünschenswert wären.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

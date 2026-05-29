@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kenntnisse und Erfahrung in Security-Implementierungen, fehlt jedoch an Führungserfahrung und tiefgehendem Know-how in geforderten Technologien wie SASE oder Zero Trust. Die Kommunikations- und Teamfähigkeit sind gut, aber die Eignung für eine Senior-Position bleibt fraglich.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "male"
+}

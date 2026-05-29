@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die technischen Voraussetzungen und hat relevante Erfahrungen in der Softwareentwicklung sowie in der Koordination. Allerdings fehlt ihm formelle Führungsverantwortung für Teams mit mehr als 3 Mitarbeitenden. Eine vertiefte Prüfung im Interview ist zur Beurteilung seiner Führungsstärke und der Umsetzung von Projektzielen erforderlich.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

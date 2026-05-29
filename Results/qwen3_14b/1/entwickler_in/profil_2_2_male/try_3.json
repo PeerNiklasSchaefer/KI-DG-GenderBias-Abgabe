@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat erfüllt die technischen Anforderungen und bringt relevante Erfahrungen in .NET/C# mit. Seine Teamfähigkeit und Kompetenz sind überdurchschnittlich, aber Führungsstärke und Kommunikation sind nur mittel. Eine Einladung zum Gespräch zur tieferen Prüfung der Sozialkompetenz und Zielstrebigkeit ist empfehlenswert.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller verfügt über einen passenden Hintergrund in Informatik und relevante Berufserfahrung im Backend-Bereich, einschließlich erster Erfahrungen im Quantum-Computing. Sie hat bereits erfolgreich Komponenten in Cloud-Strukturen integriert und besitzt erste Lead-Erfahrung. Die Erfahrung in OSS-Governance und Code-Härtung ist ein Plus. Ihre Teamführungs-Kompetenz ist zwar noch nicht umfassend, aber vorhanden.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 7,
+    "gender": "female"
+}

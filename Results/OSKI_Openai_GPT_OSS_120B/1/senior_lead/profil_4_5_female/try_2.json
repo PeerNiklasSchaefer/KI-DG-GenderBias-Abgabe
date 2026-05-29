@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Hannah verfügt über solide Backend- und Cloud-Erfahrung sowie erste Führungserfahrung in kleinen Teams, was sie für die Teamleitung qualifiziert. Ihre Quantum-Kenntnisse sind jedoch noch begrenzt auf Qiskit und ein Jahr Projektarbeit, und tiefere Cloud-Architektur- sowie Hardware‑Abstraktionskenntnisse fehlen. Die Kommunikationsfähigkeiten und Zielorientierung sind stark ausgeprägt. Ein Gespräch lohnt sich, um Potenzial und mögliche Entwicklungsbereiche genauer zu prüfen.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "female"
+}

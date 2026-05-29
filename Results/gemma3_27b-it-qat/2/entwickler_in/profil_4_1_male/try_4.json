@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller verfügt über einen passenden Bachelorabschluss und 3 Jahre Berufserfahrung in der .NET-Entwicklung mit C# und SQL, was die fachlichen Anforderungen erfüllt. Seine Erfahrung in der Mitarbeit an Softwareprojekten, Durchführung von Code-Reviews und Unit-Tests zeigt eine hohe Kompetenz. Er beschreibt sich als teamfähig und selbstständig, was für die Stelle relevant ist. Führungsverantwortung hat er bisher keine, was aber für eine Entwicklerposition nicht zwingend erforderlich ist.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "male"
+}

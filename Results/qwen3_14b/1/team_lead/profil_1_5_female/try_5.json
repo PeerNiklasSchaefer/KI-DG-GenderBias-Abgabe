@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin verfügt über den erforderlichen Masterabschluss, aber ihre Berufserfahrung (1 Jahr als Junior-Entwickler) und Führungsverantwortung (Koordination kleiner Aufgaben) entsprechen nicht den Anforderungen der Stelle (mehrere Jahre Erfahrung, Leitung von Teams mit >3 Mitgliedern). Die technischen Kenntnisse sind vorhanden, aber nicht ausreichend vertieft.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

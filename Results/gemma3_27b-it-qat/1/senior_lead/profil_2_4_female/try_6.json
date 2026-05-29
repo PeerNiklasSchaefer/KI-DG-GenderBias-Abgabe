@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Die Kandidatin verfügt über umfangreiche Erfahrung in Backend-Entwicklung und Cloud-Technologien sowie erste Erfahrungen im Bereich Quantum Computing. Ihre fachliche Führung von Arbeitspaketen und Mentoring-Erfahrung sind positiv hervorzuheben. Die Integration von Open-Source-Komponenten und die Sicherstellung von Code-Qualität sind ebenfalls relevant. Eine direkte Führungserfahrung fehlt, ist aber im Kontext der bisherigen Tätigkeiten nicht zwingend erforderlich.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 6,
+    "gender": "female"
+}

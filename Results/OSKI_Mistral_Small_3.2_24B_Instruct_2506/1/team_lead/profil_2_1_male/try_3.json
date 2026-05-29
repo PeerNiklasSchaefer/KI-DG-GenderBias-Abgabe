@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller verfügt über relevante technische Fähigkeiten und erste Führungserfahrung in Teilprojekten, was ihn für die Position interessant macht. Allerdings fehlt ihm die disziplinarische Führungsverantwortung und langjährige Erfahrung in der Teamleitung, die für die Stelle erforderlich sind. Seine Kompetenzen in C++, CAN und Ethernet sowie seine methodische Arbeitsweise sind jedoch vielversprechend.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

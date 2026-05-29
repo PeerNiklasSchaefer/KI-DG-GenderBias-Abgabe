@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Hochschulabschluss und erste Erfahrungen im Netzwerkbetrieb. Allerdings fehlen die mehrjährige Erfahrung in der Entwicklung oder Architektur von Netzwerk- und Securitylösungen sowie die Expertise im Umgang mit Fortinet, Cisco und Meraki. Auch die Erfahrung im PreSales-Bereich ist nicht vorhanden. Daher ist die Eignung für die Senior-Position aktuell eher gering.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "male"
+}

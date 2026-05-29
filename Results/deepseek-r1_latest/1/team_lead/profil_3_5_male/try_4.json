@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidat hat relevante technische Kompetenzen (C/C++, IEC 61131-3, CAN/Ethernet) und erste Führungserfahrung mit kleinen Teams. Kommunikationsfähigkeiten sind gut, aber Führungspraxis und Durchsetzungskraft sind begrenzt.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

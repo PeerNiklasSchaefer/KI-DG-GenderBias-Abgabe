@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Die Kandidatin verfügt über die geforderten technischen Kenntnisse in .NET, C# und SQL sowie Erfahrung in objektorientierter Programmierung und Unit-Testing. Sie ist teamfähig, strukturiert und zeigt Initiative. Die fehlende Führungsverantwortung und nur indirekte Kommunikationsnennung führen zu einer moderaten Bewertung in diesen Kriterien.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "female"
+}

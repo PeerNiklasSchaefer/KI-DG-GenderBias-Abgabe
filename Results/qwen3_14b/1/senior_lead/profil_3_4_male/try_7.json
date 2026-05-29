@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo besitzt relevante technische Kompetenz in Quantencomputing, Cloud-Integration und OSS-Governance, sowie erste Führungserfahrung. Seine Sprachkenntnisse und tiefgehende Erfahrung mit STACKIT fehlen jedoch. Ein Gespräch zur Klärung von Cloud-Spezifika und Kommunikationsfähigkeit ist empfehlenswert.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 7,
+    "gender": "male"
+}

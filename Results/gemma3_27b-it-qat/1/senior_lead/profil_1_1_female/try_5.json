@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller verfügt über einen passenden akademischen Hintergrund und mehrjährige Erfahrung in der Quantum-Entwicklung. Sie hat bereits erste Erfahrungen in der Integration von Quantum-Prototypen in produktnahe Umgebungen gesammelt und zeigt Mentoring-Potenzial. Ihre Kenntnisse in Python und Qiskit sind relevant, und sie besitzt Grundkenntnisse in Cloud-Technologien. Die Führungsverantwortung ist bisher noch gering, was sie aber durch ihre Teamfähigkeit und Kommunikationsstärke kompensieren könnte.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

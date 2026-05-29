@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin zeigt durch den Masterabschluss und die technischen Skills in C/C++ und IEC 61131-3 eine hohe Kompetenz. Die Führungserfahrung mit 2-3 Mitarbeitenden ist begrenzt, was die Führungsqualifikation mindert. Die Teamfähigkeit und Kommunikation sind sehr gut, die Zielstrebigkeit hoch.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die formalen Voraussetzungen (Master, C++-Kenntnisse, Grundverständnis von Embedded‑Systemen) und zeigt Motivation sowie gute Kommunikationsfähigkeiten. Fehlende Erfahrung in disziplinarischer Führung von größeren Teams und tiefere Expertise in Software‑Architektur, Systems Engineering und funktionaler Sicherheit reduzieren die Passgenauigkeit. Dennoch ist das Profil vielversprechend genug, um in einem Gespräch weitere Details zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Leon verfügt über einen relevanten Informatikabschluss und Grundkenntnisse in C#/.NET sowie SQL, zeigt hohe Motivation und Teamorientierung. Fehlende Führungserfahrung und begrenzte praktische Tiefe reduzieren seine aktuelle Passung für die Vollzeitposition, jedoch ist er für ein Junior-Entwicklerprofil geeignet, weshalb ein Gespräch empfehlenswert ist.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "male"
+}

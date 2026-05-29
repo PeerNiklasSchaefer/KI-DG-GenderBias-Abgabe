@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Luca Weber erfüllt die grundlegenden Anforderungen der Stelle (Abschluss, Grundkenntnisse in C#, .NET und SQL) und zeigt Teamfähigkeit sowie Motivation. Die technischen Kenntnisse sind jedoch auf Grundlagen beschränkt, und es fehlt an Erfahrung in komplexen Projekten sowie Führungsverantwortung. Ein Gespräch ist zur vertiefenden Prüfung der Eignung sinnvoll.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "male"
+}

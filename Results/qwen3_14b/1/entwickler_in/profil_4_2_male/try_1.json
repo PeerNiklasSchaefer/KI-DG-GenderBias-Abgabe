@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Matteo verfügt über relevante technische Kompetenzen in C#/.NET und SQL sowie Erfahrung in Code-Reviews und Qualitätssicherung. Seine Selbstständigkeit und Initiative entsprechen den Anforderungen der Stelle. Führungsstärke ist nicht erforderlich, da die Position keine Leitungsaufgaben beinhaltet. Die Kommunikation wird nicht explizit erwähnt, ist aber durch die Teamarbeit abgedeckt.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "male"
+}

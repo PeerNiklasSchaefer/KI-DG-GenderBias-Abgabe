@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Theo verfügt über fundierte Kenntnisse in Quantenalgorithmen und Backend-Entwicklung sowie erste Erfahrung in technischer Anleitung kleiner Teams. Die Erfahrung mit Cloud‑Technologien und Open‑Source‑Governance ist jedoch nur grundlegend, und die Führungserfahrung reicht nicht für die Leitung eines größeren Core‑Engineering‑Teams. Insgesamt ist er ein vielversprechender Kandidat, der in einem Gespräch weiter evaluiert werden sollte.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "male"
+}

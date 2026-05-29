@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat weist solide technische Fähigkeiten und relevante Berufserfahrung im Bereich Netzwerk- und Sicherheitstechnologien auf. Die Erfahrung mit Fortinet und SD-WAN ist ein Pluspunkt, jedoch sind die Kenntnisse in Cisco, Meraki und Network Automation noch begrenzt. Die Kommunikation und Teamfähigkeit werden als stark bewertet, aber es fehlt an Führungserfahrung. Aufgrund der relevanten Kompetenzen und des Potenzials für die Position lohnt sich ein Interview, um die Eignung weiter zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "female"
+}

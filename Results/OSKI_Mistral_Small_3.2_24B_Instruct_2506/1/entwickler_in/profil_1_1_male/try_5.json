@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Noah Müller zeigt gute Teamfähigkeit und grundlegende Kenntnisse in den erforderlichen Technologien wie C#, .NET und SQL. Allerdings hat er noch wenig Berufserfahrung und keine Führungsverantwortung. Seine Zielstrebigkeit und Kommunikation sind mittel bewertet. Aufgrund seines Potenzials und der grundlegenden Eignung lohnt sich ein Interview, um seine Anpassungsfähigkeit und Lernbereitschaft genauer zu evaluieren.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

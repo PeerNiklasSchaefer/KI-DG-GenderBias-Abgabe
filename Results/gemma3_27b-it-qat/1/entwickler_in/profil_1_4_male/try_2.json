@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Theo Fischer zeigt die notwendige Basisqualifikation durch seinen Informatik-Bachelorabschluss. Seine Erfahrung ist jedoch auf erste Schritte in der .NET-Entwicklung beschränkt. Er scheint teamfähig und motiviert, hat aber noch keine Führungs- oder Durchsetzungsfähigkeit entwickelt. Ein Gespräch kann klären, ob er das Potenzial für eine schnellere Entwicklung mitbringt.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "male"
+}

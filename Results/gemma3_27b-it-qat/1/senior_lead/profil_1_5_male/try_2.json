@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber verfügt über einen passenden akademischen Hintergrund und mehrjährige Erfahrung in Quantum-Projekten mit ersten Industrieeinsätzen. Seine Expertise in Python und Qiskit sowie seine Kenntnisse in Cloud-Technologien sind relevant. Erste Führungserfahrung und die Fähigkeit zur technischen Anleitung sind vorhanden, jedoch ist weiteres Wachstum in dieser Hinsicht zu erwarten. Insgesamt zeigt das Profil eine gute Eignung für die Position.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "male"
+}

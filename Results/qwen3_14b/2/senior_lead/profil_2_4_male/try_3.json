@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer verfügt über relevante technische Kompetenzen in Cloud-Integration, Qiskit und Architekturdesign sowie Erfahrung in Teamführung und Code-Härtung. Seine Quantum-nahe Projekte und Führungsrolle in kleineren Teams entsprechen den Anforderungen, sind jedoch nicht vollständig auf die Lead-Rolle im Quantum Software Stack abgestimmt. Kommunikation mit Stakeholdern wird nicht detailliert beschrieben, rechtfertigt aber eine Gesprächseinladung.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

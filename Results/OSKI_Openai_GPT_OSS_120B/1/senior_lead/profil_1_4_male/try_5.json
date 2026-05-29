@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Theo verfügt über erste Führungserfahrung in kleinen Teams und zeigt starkes technisches Know-how in Quantum-Software und Backend-Entwicklung. Seine Kommunikationsfähigkeiten in Deutsch und Englisch sowie seine Teamarbeit sind gut ausgeprägt. Allerdings fehlt ihm tiefgehende Erfahrung mit großen Cloud-Plattformen und der umfassenden industriellen Härtung von Open-Source-Code, weshalb die Gesamtbewertung mittel bleibt. Ein Gespräch kann Aufschluss über seine Skalierbarkeit in einer Leitungsfunktion geben.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

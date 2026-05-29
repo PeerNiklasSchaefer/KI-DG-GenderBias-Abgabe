@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin hat technische Grundkenntnisse, aber fehlt die erforderliche Erfahrung in SD-WAN, Cloud Networking und Fortinet. Keine Führungserfahrung. Eignet sich für eine Junior-Rolle, nicht für Senior-Architekt.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "female"
+}

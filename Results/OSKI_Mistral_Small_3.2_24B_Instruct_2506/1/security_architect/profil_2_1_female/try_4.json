@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat weist solide technische Kompetenzen in den relevanten Bereichen auf, insbesondere in der Implementierung von Security-Lösungen und SD-WAN. Die Erfahrung mit Fortinet und erste Kenntnisse in Network Automation sind vorteilhaft. Die Kommunikation und Teamfähigkeit werden als stark eingeschätzt, jedoch fehlt es an Führungs- und disziplinarischer Erfahrung. Die Zielstrebigkeit und Durchsetzungsfähigkeit sind mittelmäßig, was auf Potenzial, aber auch auf Entwicklungsbedarf hindeutet. Ein Interview ist empfehlenswert, um das genaue Potenzial und die Passung zur Stelle zu evaluieren.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "female"
+}

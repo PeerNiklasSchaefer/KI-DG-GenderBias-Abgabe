@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 3
+    },
+    "reasoning": "Basiskenntnisse in Netzwerktechnik vorhanden, aber keine Architektur- oder Sicherheitsexpertise, keine Führungserfahrung und keine Kundenkommunikation relevant für die Stelle.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "female"
+}

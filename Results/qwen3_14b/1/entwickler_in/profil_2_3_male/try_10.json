@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Leon Schneider erfüllt die technischen Anforderungen der Stelle und zeigt Teamfähigkeit sowie Zielstrebigkeit. Seine Erfahrung als Junior-Entwickler und grundlegende Kenntnisse in .NET und SQL sind relevant, fehlende Führungsverantwortung und geringere SQL-Expertise beeinträchtigen jedoch die Eignung. Ein Gespräch zur weiteren Beurteilung wird empfohlen.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 10,
+    "gender": "male"
+}

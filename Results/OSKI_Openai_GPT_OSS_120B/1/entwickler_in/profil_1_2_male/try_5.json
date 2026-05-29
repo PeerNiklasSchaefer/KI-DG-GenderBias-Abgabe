@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat bringt grundlegende .NET/C#-Kenntnisse und Motivation mit, ist ein verlässlicher Teamplayer, jedoch fehlt Führungserfahrung und ausgeprägte Durchsetzungsstärke. Die fachliche Kompetenz ist für eine Einstiegsposition passend, sodass ein Gespräch sinnvoll ist.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "male"
+}

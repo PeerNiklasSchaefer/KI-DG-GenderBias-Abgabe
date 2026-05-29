@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat erfüllt die technischen Anforderungen weitgehend, besitzt jedoch nur eingeschränkte Erfahrung in der Leitung größerer Teams. Seine Kompetenz in Cloud-Integration, Open-Source-Governance und Quantum-Frameworks (Qiskit) sowie seine Mentoring-Erfahrung sprechen für eine Einladung zum Gespräch.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Noah Müller zeigt die notwendigen Grundlagen für eine Einstiegsposition in der .NET-Entwicklung. Er verfügt über einen passenden Hochschulabschluss und erste Erfahrungen mit C#, .NET und SQL.  Seine Teamfähigkeit wird positiv hervorgehoben, allerdings fehlen bisher umfangreichere Berufserfahrung und Führungsqualitäten. Ein Gespräch kann klären, inwieweit er seine Motivation und Lernbereitschaft in der Praxis umsetzen kann.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

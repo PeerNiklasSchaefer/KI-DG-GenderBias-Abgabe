@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia Müller zeigt die notwendigen Grundlagen in C# und .NET, gepaart mit einem Hochschulabschluss in Informatik. Ihre Berufserfahrung ist jedoch noch begrenzt und beschränkt sich auf Junior-Aufgaben. Sie scheint ein motivierter Teamplayer zu sein, verfügt aber noch nicht über ausgeprägte Führungs- oder Durchsetzungsfähigkeiten. Ein Gespräch kann Aufschluss darüber geben, ob sie das Potential für eine erfolgreiche Entwicklung im Unternehmen hat.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

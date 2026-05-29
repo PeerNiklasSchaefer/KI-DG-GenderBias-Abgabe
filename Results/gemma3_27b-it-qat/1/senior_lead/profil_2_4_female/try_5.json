@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Mia Fischer verfügt über eine sehr hohe fachliche Kompetenz im Bereich Backend-Entwicklung und hat bereits Erfahrungen im Quantum Computing-Umfeld gesammelt. Sie hat mehrjährige Erfahrung in der Integration neuer Services und der Härtung von Code-Basen, was für die Position wichtig ist. Ihre Führungserfahrung, insbesondere im Rahmen von Teilprojekten, deutet auf gute Teamführungsqualitäten hin. Die Erfahrung mit Qiskit und AWS ist ebenfalls positiv hervorzuheben.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "female"
+}

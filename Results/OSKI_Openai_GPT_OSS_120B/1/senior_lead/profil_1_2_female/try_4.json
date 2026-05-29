@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emilia verfügt über solide Fachkenntnisse in Quantum-Software und Backend-Entwicklung sowie gute Kommunikationsfähigkeiten in Deutsch und Englisch. Ihre Führungserfahrung beschränkt sich auf die technische Anleitung eines kleinen Teams, was für die Leitungsfunktion eines Core Engineering Teams noch nicht ausreichend ist. Die Cloud‑ und Hardware‑Integrationskenntnisse entsprechen eher Grundkenntnissen, nicht jedoch dem geforderten tiefgehenden, produktiven Niveau. Ein Interview ist empfehlenswert, um ihr Potenzial für die strategische Rolle genauer zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "female"
+}

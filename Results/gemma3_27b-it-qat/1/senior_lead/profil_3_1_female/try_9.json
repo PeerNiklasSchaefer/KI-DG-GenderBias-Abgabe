@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller verfügt über einen passenden Hintergrund und relevante Berufserfahrung im quantum-nahen Umfeld. Sie besitzt Expertise in Qiskit und erste Cloud-Erfahrung mit AWS. Erste Mentoring-Aufgaben und Teamkoordination deuten auf Führungsqualitäten hin, die jedoch noch ausgebaut werden können. Ihre Fähigkeit zur Überführung von Forschungsergebnissen in industrielle Anwendungen ist ein Plus.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 9,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über solide Backend- und Cloud-Erfahrung sowie erste Führungserfahrung in kleinen Teams, was für die Position relevant ist. Fehlende tiefgehende Erfahrung in der industriellen Härtung von Forschungs‑Code, der Hardware‑Abstraktionsschicht und umfassender Cloud‑Integration reduziert die Gesamtbewertung. Ein Gespräch ist empfehlenswert, um das Potenzial für die Lead‑Rolle genauer zu prüfen.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

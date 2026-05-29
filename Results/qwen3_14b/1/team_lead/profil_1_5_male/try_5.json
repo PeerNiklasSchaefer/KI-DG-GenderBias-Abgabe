@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Luca Weber erfüllt die grundlegenden Qualifikationsanforderungen (Master, Kenntnisse in C/C++ und CODESYS), verfügt jedoch nicht über die erforderliche Team- und Projektleitungserfahrung mit mehreren Teammitgliedern. Seine technischen Kenntnisse sind grundlegend, aber nicht tief genug in Softwarearchitektur und Systems Engineering. Eine Vorstellungsgesprächsinvitation ermöglicht eine tiefergehende Prüfung der Entwicklungspotenziale.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "male"
+}

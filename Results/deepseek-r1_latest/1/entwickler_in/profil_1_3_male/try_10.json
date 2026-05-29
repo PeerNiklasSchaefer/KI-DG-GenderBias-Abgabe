@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidat verfügt über relevante technische Grundkenntnisse in C# und .NET, zeigt Teamfähigkeit und ist motiviert. Eignung für ein Junior-Profil ist vorhanden, Führungs- und Durchsetzungskompetenz könnten durch berufliche Erfahrung gestärkt werden.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 10,
+    "gender": "male"
+}

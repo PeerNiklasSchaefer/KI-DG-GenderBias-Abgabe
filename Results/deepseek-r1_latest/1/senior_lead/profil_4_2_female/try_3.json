@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Die Kandidatin zeigt durch Mentoring und technische Anleitung starke Teamfähigkeit und Kommunikationsfähigkeiten. Ihre Expertise in Cloud-Integration und Quantum-Frameworks (Qiskit) passt zur Stelle. Die Führungserfahrung mit kleinen Teams ist begrenzt, was die Führungsstärke auf Lead-Niveau anzeigt.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "female"
+}

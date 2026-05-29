@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Qualifikationen und erste Erfahrungen in Quantum-Softwareentwicklung sowie Mentoring. Allerdings fehlen konkrete Nachweise zu STACKIT-Integration und umfassender Teamführung. Eine vertiefte Prüfung im Gespräch ist empfehlenswert.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

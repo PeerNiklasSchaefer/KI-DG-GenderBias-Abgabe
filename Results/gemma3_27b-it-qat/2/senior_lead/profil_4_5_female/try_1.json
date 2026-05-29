@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah Weber verfügt über einen passenden Bildungshintergrund und relevante Berufserfahrung im Backend-Bereich mit ersten Erfahrungen im Quantum Computing. Ihre Erfahrung in der Integration neuer Komponenten in Cloud-Strukturen und die Mitarbeit an Architekturentscheidungen sind für die Position wertvoll. Die fachliche Anleitung kleiner Teams und die Kenntnisse in OSS-Governance deuten auf Führungspotenzial hin. Es fehlt jedoch die umfassende Erfahrung in der Leitung großer Teams und der strategischen Überführung von Forschungscode in industrielle Standards.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "female"
+}

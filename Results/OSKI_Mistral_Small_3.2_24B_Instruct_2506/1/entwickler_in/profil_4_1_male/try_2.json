@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller zeigt eine starke Übereinstimmung mit den Anforderungen der Stelle als .NET C#-Entwickler. Er verfügt über relevante Ausbildung und Berufserfahrung in der Softwareentwicklung mit C# und .NET, sowie über gute SQL-Kenntnisse. Seine Erfahrungen in der Qualitätssicherung, Code-Reviews und Prozessoptimierung sind besonders hervorzuheben. Obwohl er keine Führungsverantwortung hat, zeigt er hohe Teamfähigkeit, Zielstrebigkeit und Kommunikationsfähigkeit. Aufgrund seiner Kompetenzen und Erfahrungen wird empfohlen, ihn zu einem Interview einzuladen.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "male"
+}

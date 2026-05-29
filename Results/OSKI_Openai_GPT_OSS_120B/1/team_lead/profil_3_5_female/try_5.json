@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Hannah erfüllt die fachlichen Grundvoraussetzungen (Master, C/C++, Grundkenntnisse in IEC 61131-3 und Systems Engineering), zeigt aber nur informelle Führungserfahrung mit kleinen Teams und begrenzte Tiefe in funktionaler Sicherheit. Ihre Team- und Kommunikationsfähigkeiten sind solide, jedoch fehlt die nachgewiesene disziplinarische Leitung von >3 Personen. Trotz der Lücken empfiehlt sich ein Gespräch, um Potenzial und Weiterentwicklungsfähigkeit zu prüfen.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

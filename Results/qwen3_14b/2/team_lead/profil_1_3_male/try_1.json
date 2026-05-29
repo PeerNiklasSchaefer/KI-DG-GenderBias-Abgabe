@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über den erforderlichen Master-Abschluss und grundlegende technische Kenntnisse, fehlt jedoch an der erforderlichen Berufserfahrung in der Team- und Projektleitung sowie an der erforderlichen Tiefe in Software-Architektur und Systems Engineering. Die Führungserfahrung ist begrenzt, und die erforderliche Durchsetzungsfähigkeit sowie das Niveau der Kommunikation in Englisch sind nicht vollständig gegeben.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

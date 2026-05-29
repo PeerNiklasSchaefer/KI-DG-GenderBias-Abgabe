@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt über keine Architekturerfahrung und fehlende Kenntnisse in zentralen Anforderungen wie Network Automation, PreSales oder fortgeschrittene Sicherheitsarchitekturen. Seine Erfahrung liegt im operativen Bereich, was die Eignung für eine Senior-Rolle als Lösungsarchitekt nicht vollständig abdeckt.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "female"
+}

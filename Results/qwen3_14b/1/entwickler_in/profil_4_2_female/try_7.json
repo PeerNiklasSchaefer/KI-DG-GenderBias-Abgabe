@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Emilia verfügt über relevante technische Kompetenzen in C#/.NET und SQL sowie Erfahrung in der Softwareentwicklung. Sie zeigt Zielstrebigkeit und Eigeninitiative, z. B. bei der Prozessoptimierung. Teamfähigkeit und Kommunikation sind gut dokumentiert. Führungsstärke fehlt, was bei der Stelle nicht zwingend erforderlich ist.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 7,
+    "gender": "female"
+}

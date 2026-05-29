@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über solide Fachkenntnisse in Quantum-Software und Backend-Entwicklung sowie nachweisliche Erfahrung in der Umsetzung von Prototypen zu produktnahen Piloten. Führungserfahrung ist jedoch auf kleine Teams und erste Mentoring‑Aufgaben beschränkt, sodass die Führungsstärke für eine Lead‑Position noch ausbaufähig ist. Kommunikationsfähigkeiten und Zielorientierung sind gut, während die tiefgehende Cloud‑ und Hardware‑Integrationserfahrung fehlt, weshalb ein Interview empfohlen wird, um das Potenzial weiter zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "male"
+}

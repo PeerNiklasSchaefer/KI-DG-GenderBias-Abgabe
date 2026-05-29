@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat hat grundlegende Erfahrung im IT-Projektmanagement, jedoch fehlen ihm Führungs- und Hardwarenkenntnisse. Seine Methodenkompetenz und Teamfähigkeit sind auf Junior-Niveau. Aufgrund der fehlenden Erfahrung in der Steuerung von Entwicklungsteams und der begrenzten Kompetenz in Hard- und Softwareentwicklung ist er für die Stelle nicht geeignet.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

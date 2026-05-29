@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über solide Backend- und Cloud-Erfahrung sowie erste Quantum-Projekte, jedoch fehlt ihm tiefgehende Erfahrung mit großen Cloud-Plattformen und der industriellen Härtung von Forschungssoftware. Führungserfahrung beschränkt sich auf fachliche Anleitung kleiner Teams, was für die geforderte technische Gesamtleitung noch nicht ausreichend ist. Trotzdem zeigt er starke Team- und Kommunikationsfähigkeiten, sodass ein Interview sinnvoll ist, um Potenzial und mögliche Entwicklungsbereiche genauer zu prüfen.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "male"
+}

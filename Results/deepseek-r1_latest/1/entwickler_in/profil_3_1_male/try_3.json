@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Noah hat relevante technische Kenntnisse (C#, .NET, SQL) und eine abgeschlossene Ausbildung. Mit zwei Jahren Erfahrung in Softwareentwicklung zeigt er Selbstständigkeit und Teamfähigkeit. Seine Lernbereitschaft bei komplexen Anforderungen spricht für hohe Kompetenz. Allerdings fehlt eine Führungserfahrung.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

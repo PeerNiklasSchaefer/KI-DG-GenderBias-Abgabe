@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma Schneider verfügt über einen Master in Software Engineering und hat 5 Jahre Entwicklungserfahrung sowie 2 Jahre Projektleitungs­erfahrung mit einem 4‑köpfigen Team. Sie zeigt solide technische Kenntnisse in C/C++, CODESYS und relevanten Kommunikationsprotokollen sowie Grundwissen in funktionaler Sicherheit. Ihre Führungserfahrung und Kommunikationsfähigkeiten entsprechen den Anforderungen, jedoch fehlt ihr noch tiefere Erfahrung in systematischer Architektur und einer längerfristigen Leitungsrolle. Daher empfehle ich ein Gespräch, um die Passung weiter zu prüfen.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "female"
+}

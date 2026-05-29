@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma Schneider hat relevante Erfahrung in der Softwareentwicklung und erste Führungsanteile in Teilprojekten. Ihre Kenntnisse in C++ und Grundlagen in CAN, Ethernet und SPS-Umfeld sind für die Stelle nützlich. Allerdings fehlt ihr die Erfahrung in der disziplinarischen Führung eines Teams und die tiefgehende Expertise in modellbasierter Entwicklung sowie funktionaler Sicherheit. Ein Interview wäre sinnvoll, um ihre Potenziale und Entwicklungsmöglichkeiten genauer einzuschätzen.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "female"
+}

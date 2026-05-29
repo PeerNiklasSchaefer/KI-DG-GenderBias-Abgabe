@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia verfügt über den notwendigen technischen Hintergrund und Erfahrung in .NET/C#-Entwicklung. Sie zeichnet sich durch Teamfähigkeit, Zielstrebigkeit und strukturierte Arbeitsweise aus. Die fehlende Führungsverantwortung und geringere Vertiefung in OOP/Architektur sind auf die Junior-Ebene zurückzuführen, rechtfertigen aber keine Abwertung. Ein Gespräch zur Vertiefung ist sinnvoll.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "female"
+}

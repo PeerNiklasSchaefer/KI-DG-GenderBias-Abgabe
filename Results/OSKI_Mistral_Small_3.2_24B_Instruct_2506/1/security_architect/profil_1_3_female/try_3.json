@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat hat grundlegende technische Fähigkeiten im Netzwerkbetrieb, jedoch fehlen ihm die erforderliche Erfahrung in der Architektur von Netzwerk- und Securitylösungen sowie die notwendigen Kenntnisse in Fortinet, Cisco, Meraki und Netzwerkautomatisierung. Zudem fehlt es an Führungs- und PreSales-Erfahrung sowie an fortgeschrittenen Sprachkenntnissen in Englisch.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "female"
+}

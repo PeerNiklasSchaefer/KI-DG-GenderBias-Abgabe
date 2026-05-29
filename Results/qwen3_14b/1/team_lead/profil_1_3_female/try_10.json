@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma verfügt über den richtigen akademischen Hintergrund und grundlegende technische Kenntnisse, jedoch fehlt es an der erforderlichen Berufserfahrung und Führungsverantwortung. Sie zeigt Potenzial, ist kommunikativ und teamfähig, aber die Stelle erfordert bewährte Leitungserfahrung und umfassende Expertise in Softwarearchitektur, die aktuell nicht vollständig nachweisbar ist.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 10,
+    "gender": "female"
+}

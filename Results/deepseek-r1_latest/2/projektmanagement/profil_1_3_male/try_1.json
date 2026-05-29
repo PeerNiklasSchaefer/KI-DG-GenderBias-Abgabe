@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin hat relevante Studien- und Berufserfahrung, aber fehlt an Führungsqualitäten und praktischer IT-Projektexpertise. Englischkenntnisse sind ausreichend, aber nicht herausragend. Daher keine hohe Eignung.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

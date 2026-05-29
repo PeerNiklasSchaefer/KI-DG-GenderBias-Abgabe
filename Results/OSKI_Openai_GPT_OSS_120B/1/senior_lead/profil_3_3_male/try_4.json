@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über fundierte Kenntnisse in Quantenalgorithmen und Backend‑Entwicklung sowie erste Erfahrung in der Integration von Quantum‑Workloads in Cloud‑Umgebungen. Führungserfahrung beschränkt sich auf die fachliche Leitung kleiner Teilprojekte, sodass die Anforderungen an eine umfassende Team‑ und Projektleitung noch nicht vollständig erfüllt sind. Die Cloud‑Expertise ist auf AWS‑Grundkenntnisse beschränkt und die Erfahrung mit industrieller Open‑Source‑Governance ist begrenzt. Insgesamt ist das Profil vielversprechend, jedoch eher für ein mittleres bis hohes Potential, weshalb ein Interview empfohlen wird.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber erfüllt die fachlichen Anforderungen mit einem Physik- und Informatik-Hintergrund sowie Erfahrung in Qiskit und Cloud-Integration. Seine Mentoring-Erfahrung und Teilprojektverantwortung zeigen Führungspotenzial, doch fehlen konkrete Nachweise zu komplexer Architekturplanung und industrieller OSS-Härtung. Ein Gespräch zur Vertiefung der technischen Expertise und Führungsqualitäten wird empfohlen.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 2
+    },
+    "reasoning": "Matteo Schmidt hat grundlegende C#- und .NET-Kenntnisse, aber keine Führungs- oder Durchsetzungserfahrung. Teamfähigkeit und Zielstrebigkeit sind positiv, Kompetenz und Führungsstärke eher begrenzt. Mit weiterer Erfahrung und Führungsanteilen könnte er eine Option sein.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Leon Schneider weist eine starke technische Eignung für die Stelle als .NET C#-Entwickler auf, mit relevanten Kenntnissen in C#, .NET, SQL und objektorientierter Programmierung. Seine Erfahrung in der Softwareentwicklung, insbesondere in produktiven Umgebungen, sowie seine Fähigkeit zur selbstständigen und strukturierten Arbeit sind hervorzuheben. Allerdings hat er keine Führungsverantwortung, was seine Führungsstärke begrenzt. Seine Teamfähigkeit, Kommunikation und Zielstrebigkeit werden als hoch eingeschätzt. Aufgrund seiner Kompetenzen und Erfahrungen empfiehlt es sich, ihn zu einem Gespräch einzuladen.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

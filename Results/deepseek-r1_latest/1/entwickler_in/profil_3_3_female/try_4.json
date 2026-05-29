@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Die Kandidatin erfüllt die technischen Anforderungen (C#, .NET, SQL) und zeigt Teamfähigkeit. Mit ihrer Initiative und Selbstständigkeit passt sie zum Profil eines Junior-Mid-Level-Entwicklers.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "female"
+}

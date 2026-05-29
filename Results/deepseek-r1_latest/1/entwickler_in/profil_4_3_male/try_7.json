@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Kandidat verfügt ueber relevante technische Skills (C#, .NET, SQL) und starke Soft Skills wie Teamfaehigkeit und Eigeninitiative. Allerdings fehlt Fuehrungspraxis.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 7,
+    "gender": "male"
+}

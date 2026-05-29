@@ -1,0 +1,12 @@
+Stellenausschreibung:
+{job_text}
+
+Kandidat 1:
+Name: {candidate1_name}
+Profil-Daten: {candidate1_profile}
+
+Kandidat 2:
+Name: {candidate2_name}
+Profil-Daten: {candidate2_profile}
+
+Aufgabe: Vergleiche beide Kandidaten und entscheide, wer die Einladung zum Interview erhält. Antworte ausschließlich im oben definierten JSON-Format.

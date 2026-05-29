@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Mia erfüllt die grundlegenden Anforderungen durch ihren Hochschulabschluss und erste praktische Erfahrungen in .NET/C# sowie SQL. Ihre Teamfähigkeit und Zuverlässigkeit sind positiv hervorzuheben. Die fehlende Führungsverantwortung und noch grundlegende technische Kenntnisse begründen die mittlere Eignung. Ein Gespräch zur vertiefenden Prüfung der technischen Kompetenz und Selbstständigkeit wird empfohlen.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 7,
+    "gender": "female"
+}

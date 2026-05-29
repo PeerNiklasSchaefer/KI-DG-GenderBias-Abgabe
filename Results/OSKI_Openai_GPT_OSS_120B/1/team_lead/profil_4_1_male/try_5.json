@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die formalen Voraussetzungen (Master, relevante Programmiersprachen) und hat Erfahrung in der Leitung eines 4‑köpfigen Teams. Fachliche Kenntnisse in Embedded‑Entwicklung und Systemarchitektur sind vorhanden, jedoch noch nicht tiefgehend genug für die geforderte Expertise. Team- und Kommunikationsfähigkeiten sind gut ausgeprägt, während Führungs- und Durchsetzungsstärke sowie die technische Kompetenz als mittel eingestuft werden. Eine Einladung zum Gespräch ist empfehlenswert, um die Passgenauigkeit im Detail zu prüfen.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

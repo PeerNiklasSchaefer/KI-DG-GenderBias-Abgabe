@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia verfügt über relevante technische Kompetenzen in Cloud-Integration, Qiskit und OSS-Governance sowie erste Führungserfahrung. Ihre Erfahrung in quantum-nahen Projekten und Architekturentscheidungen ist jedoch nicht umfassend genug, um die Führungsverantwortung für ein gesamtes Engineering-Team und die komplexe Hardware-Anbindung vollständig abzudecken. Ein Gespräch zur Vertiefung der Quantum-Expertise und Teamführungserfahrung wird empfohlen.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 7,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah Weber verfügt über relevante technische Skills in Python, Qiskit und Cloud-Integration (AWS), sowie erste Führungserfahrungen. Ihre Erfahrung in der Überführung von Forschung in Anwendung passt zum Profile. Allerdings fehlen tiefergehende Cloud-Plattform-Expertenkenntnisse (STACKIT) und umfangreiche Teamleitungserfahrung.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

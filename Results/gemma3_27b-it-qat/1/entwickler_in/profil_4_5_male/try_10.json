@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber verfügt über einen Bachelor-Abschluss in Informatik und drei Jahre Berufserfahrung als Softwareentwickler im .NET-Umfeld, was gut zur Stellenbeschreibung passt. Er besitzt fundierte Kenntnisse in C#, .NET und SQL und hat Erfahrung mit Unit-Tests und Code-Reviews. Seine Arbeitsweise wird als strukturiert und selbstständig beschrieben, und er zeigt Eigeninitiative. Führungsverantwortung hat er bisher keine, was für eine Entwicklerposition aber auch nicht zwingend erforderlich ist.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 10,
+    "gender": "male"
+}

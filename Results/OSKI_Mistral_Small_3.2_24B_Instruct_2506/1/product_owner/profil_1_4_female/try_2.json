@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat hat zwar grundlegende Kenntnisse im Client-Betrieb und agilen Methoden, jedoch fehlen ihm die notwendige Führungserfahrung und das umfassende Know-how in der IT-Produktsteuerung. Die fehlende internationale Projektverantwortung und die begrenzte Erfahrung mit den erforderlichen Tools und Methoden machen ihn für die Position des Product Owners ungeeignet.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia verfügt über solide Backend- und Cloud-Erfahrung sowie erste Führungserfahrungen in kleinen Teams, was sie für die Team- und Kommunikationsaspekte qualifiziert. Ihre Quantum-Erfahrung ist jedoch noch begrenzt (ein Jahr, primär Qiskit) und fehlt an tiefgehender Hardware‑Anbindungs‑ und Architekturkompetenz. Die Gesamtpassung ist mittel, jedoch lohnt ein persönliches Gespräch, um Potenzial und mögliche Entwicklungsbereiche genauer zu prüfen.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "female"
+}

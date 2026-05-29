@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer verfügt über einen relevanten Master-Abschluss und vier Jahre Erfahrung im quantum-nahen Umfeld, was eine gute Basis für die Stelle darstellt. Sie hat bereits erste Mentoring-Erfahrungen gesammelt und Teilverantwortung für Module übernommen. Ihre Kenntnisse in Qiskit und ersten AWS-Integrationen sind positiv hervorzuheben. Die Führungsverantwortung ist bisher noch begrenzt, aber vorhanden.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "female"
+}

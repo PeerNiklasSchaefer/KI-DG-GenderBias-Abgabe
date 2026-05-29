@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller hat eine relevante Ausbildung und Erfahrung in der Softwareentwicklung für maschinennahen Anwendungen. Sie zeigt Teamfähigkeit und erste Führungserfahrung, allerdings mit kleinerem Team. Ihre Kompetenzen in C/C++, IEC 61131-3 und Grundkenntnissen in Systems Engineering sind für die Stelle geeignet. Allerdings fehlen ihr noch mehrjährige Erfahrung in einer Team- oder Projektleitungsrolle mit mehr als 3 Teammitgliedern und diskussionsfeste Englischkenntnisse.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

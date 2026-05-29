@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Hochschulabschluss, jedoch fehlt es an relevanter Berufserfahrung in Produktsteuerung und Budgetverantwortung. Die bisherige Tätigkeit im IT-Support und die fehlende Führungserfahrung passen nicht zum Anforderungsprofil. Kenntnisse in agilen Methoden sind lediglich oberflächlich vorhanden.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "male"
+}

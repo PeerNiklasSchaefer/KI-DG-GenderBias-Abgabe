@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die meisten fachlichen Vorgaben, verfügt über einen relevanten Masterabschluss und leitet seit zwei Jahren ein vierköpfiges Team. Technisch bringt er solide C/C++-Kenntnisse, Grundkenntnisse in CODESYS und relevante Protokolle mit, jedoch fehlt noch tiefere Erfahrung in funktionaler Sicherheit. Seine Kommunikationsfähigkeiten in Deutsch und Englisch sowie seine Erfahrung in Stakeholder‑Abstimmungen passen gut zur Position. Trotz kleinerer Defizite in disziplinarischer Führung und fortgeschrittener Sicherheit ist ein Gespräch empfehlenswert.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "male"
+}

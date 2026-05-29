@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Mia Fischer verfügt über einen passenden Hochschulabschluss und 3 Jahre Berufserfahrung in der .NET-Entwicklung mit C# und SQL, was die fachlichen Anforderungen der Stelle sehr gut erfüllt. Ihre Erfahrungen mit Code-Reviews, Unit-Tests und der Mitarbeit an Architekturentscheidungen sind relevant. Führungsverantwortung hat sie bisher nicht übernommen, was aber für diese Position auch nicht zwingend erforderlich ist. Die Teamfähigkeit und Eigeninitiative werden im Profil positiv hervorgehoben.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 8,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo verfügt über relevante technische Kompetenzen, einschließlich Qiskit und Cloud-Integration, sowie Erfahrung in OSS-Governance und Teamführung. Die fehlende direkte Erfahrung mit STACKIT und die begrenzte Führungsverantwortung sind jedoch zu berücksichtigen. Eine vertiefende Prüfung im Gespräch wird empfohlen.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin verfügt über solide Backend- und Cloud-Erfahrung sowie erste Führungserfahrungen in kleinen Teams, was gut zu den Team- und Kommunikationsanforderungen passt. Ihre Quantum-Kenntnisse und Erfahrung mit Hardware-Anbindung sind jedoch noch begrenzt, und sie hat noch keine umfassende Leitung eines größeren Engineering-Teams übernommen. Insgesamt ist sie ein vielversprechender Kandidat, der im Interview weiter evaluiert werden sollte.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "female"
+}

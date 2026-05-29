@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die grundlegenden Voraussetzungen durch den Hochschulabschluss und erste praktische Erfahrungen in C#, .NET und SQL. Allerdings fehlen weitergehende technische Kenntnisse und Führungsverantwortung, die für die Stelle relevant sind. Eine Vorstellungsgespräch könnte klären, ob er sich weiterentwickeln kann.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 5,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Mia verfügt über alle geforderten technischen Kenntnisse (.NET, C#, SQL) und relevante Berufserfahrung in der Softwarearchitektur und Qualitätssicherung. Ihre Führungsstärke und Zielstrebigkeit sind durch Projektleitungen und Innovationen nachweisbar. Die Teamfähigkeit und Kommunikation lassen sich aus ihrer agilen Zusammenarbeit und Code-Reviews ableiten.",
+    "file_name": "profil_5.md",
+    "rank": 4,
+    "try": 6,
+    "gender": "female"
+}

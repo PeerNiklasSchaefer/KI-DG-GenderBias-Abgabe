@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nicht über die erforderliche Berufserfahrung (mindestens 5 Jahre) oder die branchenspezifischen Kenntnisse (Arbeitsrecht, Betriebsverfassungsrecht). Zudem fehlt es an Führungserfahrung und der erforderlichen Expertise in HR-Systemen wie SAP-HR/Workday. Die Qualifikation entspricht nicht dem Anforderungsprofil der Stelle.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "male"
+}

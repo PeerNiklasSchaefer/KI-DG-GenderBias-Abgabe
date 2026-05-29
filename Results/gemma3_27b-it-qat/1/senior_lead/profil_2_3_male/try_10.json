@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über eine sehr hohe technische Kompetenz im Backend-Bereich und erste Erfahrungen mit Quantencomputing-Frameworks wie Qiskit. Seine Erfahrung in der Integration neuer Services und der Code-Härtung sind für die Position relevant. Die fachliche Führungsrolle in Teilprojekten und das Mentoring von Junior-Entwicklern zeigen Potenzial, jedoch ist die Führungserfahrung noch nicht umfassend. Insgesamt ist er ein vielversprechender Kandidat für ein Vorstellungsgespräch.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 10,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat hat relevante technische Kompetenzen (C/C++, CODESYS, CAN/Ethernet) und Kommunikationsfähigkeiten, zeigte erste Führungserfahrungen. Allerdings fehlt die erfahrene Team- und Projektleitung sowie ausreichende Durchsetzungsfähigkeit für mehr als 3 Teammitglieder.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "male"
+}

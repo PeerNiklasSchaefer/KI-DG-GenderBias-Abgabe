@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über die technischen Kompetenzen (.NET, C#, SQL) und relevante Erfahrung in der Softwareentwicklung. Teamfähigkeit, Kommunikation und Zielstrebigkeit sind gut ausgeprägt. Führungsstärke fehlt, was jedoch für diese Stelle nicht zwingend erforderlich ist. Ein Gespräch zur weiteren Beurteilung der Soft Skills wird empfohlen.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "male"
+}

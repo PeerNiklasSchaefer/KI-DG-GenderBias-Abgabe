@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über fundierte Fachkenntnisse in Quantenalgorithmen und erste Erfahrung mit Cloud-Integration, jedoch fehlt ihm tiefgehende Erfahrung in großen Cloud-Plattformen und umfassende Führungs- bzw. Governance-Expertise. Seine bisherigen Führungsaufgaben beschränken sich auf kleine Teilprojekte, was die Führungsstärke begrenzt. Trotzdem zeigen seine technische Kompetenz und Teamfähigkeit Potenzial, das in einem Gespräch weiter evaluiert werden sollte.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

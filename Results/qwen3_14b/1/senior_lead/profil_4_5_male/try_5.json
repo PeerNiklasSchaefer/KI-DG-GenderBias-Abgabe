@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Luca Weber verfügt über relevante technische Kompetenzen, einschließlich Erfahrung mit Qiskit und Cloud-Integrationen, sowie Führungserfahrung in kleineren Teams. Seine Kenntnisse in OSS-Governance und Code-Härtung entsprechen den Anforderungen. Ein Gespräch zur Klärung der STACKIT-Spezifika und strategischen Planungsfähigkeiten wird empfohlen.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "male"
+}

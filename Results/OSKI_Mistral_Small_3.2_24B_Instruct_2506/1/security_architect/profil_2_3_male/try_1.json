@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat hat relevante Erfahrung in der Umsetzung und dem Betrieb von Security-Lösungen, jedoch fehlt es an Führungserfahrung und tieferem Wissen in den geforderten Technologien wie SASE, Zero Trust und Herstellerkommunikation. Die Kompetenzen entsprechen eher einem mittleren Niveau, was für die geforderte Senior-Position nicht ausreicht.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

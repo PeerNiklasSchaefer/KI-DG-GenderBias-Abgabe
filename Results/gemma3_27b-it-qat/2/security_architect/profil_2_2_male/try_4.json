@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Hochschulabschluss und 4 Jahre Berufserfahrung im relevanten Bereich. Die Kenntnisse in Firewalls, SD-WAN und Fortinet sind positiv hervorzuheben. Es fehlt jedoch die Erfahrung in der Konzeption von Netzwerksicherheitsarchitekturen und in der direkten Kundenkommunikation im PreSales-Bereich. Die Führungsstärke ist bisher nicht ausgeprägt.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "male"
+}

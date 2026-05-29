@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidat hat relevante Skills in Quantum Computing und Software Engineering, erste Führungserfahrung. Aber Erfahrung in Cloud-Integration und tiefe technische Führung fehlen. Empfehlung für ein Gespräch zur Überprüfung.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 10,
+    "gender": "male"
+}

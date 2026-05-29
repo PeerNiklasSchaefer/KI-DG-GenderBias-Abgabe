@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer zeigt eine starke technische Kompetenz im Bereich Backend-Engineering und Cloud-Anwendungen, die gut zur Stellenbeschreibung passt. Ihre Erfahrung mit Qiskit und AWS sowie ihre Fähigkeit, Forschungscode in produktionsfähigen Umgebungen zu härten, sind besonders relevant. Ihre Führungserfahrung ist beeindruckend, insbesondere in der fachlichen Anleitung kleiner Teams und der Sicherstellung der Codequalität. Allerdings könnte ihre Erfahrung in der industriellen Härtung von Open-Source-Code und der Anbindung von Quantenhardware an Cloud-Plattformen vertieft werden.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer hat relevante Führungserfahrung mit einem Team und technische Kompetenzen, die die Stelle ansprechen. Allerdings fehlen tiefgreifende Erfahrungen in Software-Architektur, modellbasierter Entwicklung und Functional Safety, was Einschränkungen bei komplexen Projekten mit sich bringt.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

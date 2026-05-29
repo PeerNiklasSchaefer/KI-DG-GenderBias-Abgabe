@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Matteo Schmidt zeigt grundlegende technische Fähigkeiten in C#, .NET und SQL, die für die Stelle relevant sind. Seine Teamfähigkeit und Arbeitsweise sind positiv hervorzuheben. Allerdings fehlt ihm bisher Führungs- und Durchsetzungsfähigkeit, was bei einem Berufseinsteiger jedoch nicht ungewöhnlich ist. Aufgrund seiner guten Teamfähigkeit und grundlegenden Kompetenzen lohnt sich ein Interview, um sein Potenzial und seine Motivation näher zu evaluieren.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller verfügt über relevante technische Erfahrung in Backend-Entwicklung, Cloud-Integration und Quantum-Frameworks wie Qiskit. Ihre Führungserfahrung in kleinen Teams zeigt Teamkompetenz. Mit der Härtung von Open-Source-Code und der praktischen Anwendung von Engineering-Prinzipien im Portfolio untermauert sie die erforderlichen Kompetenzen. Die eingeschränkte Führungserfahrung in größeren Teams könnte bei einem persönlichen Gespräch näher erfragt werden.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 9,
+    "gender": "female"
+}

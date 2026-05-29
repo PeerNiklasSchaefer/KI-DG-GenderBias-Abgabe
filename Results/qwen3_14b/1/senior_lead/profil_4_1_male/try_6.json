@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Noah Müller verfügt über relevante technische Kompetenz, Cloud- und Quantum-Erfahrung sowie Führungserfahrung in Teilprojekten. Seine Fähigkeiten in Qiskit, AWS und OSS-Governance entsprechen der Stellenbeschreibung. Eine vertiefte Prüfung im Gespräch ist zur Beurteilung der Führungsstärke und Durchsetzungsfähigkeit erforderlich.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 6,
+    "gender": "male"
+}

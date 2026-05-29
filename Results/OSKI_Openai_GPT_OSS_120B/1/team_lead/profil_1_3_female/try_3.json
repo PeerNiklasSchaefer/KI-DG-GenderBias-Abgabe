@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin erfüllt die formalen Bildungsanforderungen, besitzt jedoch nur ein Jahr Berufserfahrung und nur begrenzte Führungsaufgaben. Tiefgehende Kenntnisse in Softwarearchitektur, Systems Engineering und funktionaler Sicherheit fehlen, ebenso wie nachweisliche Leitung von Teams mit mehr als drei Mitgliedern. Daher ist die Eignung für die Leitungsposition gering.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "female"
+}

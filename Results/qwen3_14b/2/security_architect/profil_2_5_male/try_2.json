@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat erfüllt die technischen Anforderungen und bringt relevante Erfahrung in der Umsetzung von Security-Lösungen mit. Die fehlende Führungsverantwortung und die begrenzte Architekturverantwortung sprechen jedoch gegen eine direkte Eignung für die Senior-Position. Ein Gespräch zur Klärung der Weiterentwicklungspotenziale ist empfehlenswert.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "male"
+}

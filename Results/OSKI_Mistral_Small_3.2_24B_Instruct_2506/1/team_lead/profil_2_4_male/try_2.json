@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Theo Fischer hat relevante Erfahrungen in der Softwareentwicklung und erste Führungserfahrung in Teilprojekten. Seine Kenntnisse in C++ und Basiswissen in CAN, Ethernet und SPS-Umfeld sind für die Stelle hilfreich. Allerdings fehlen ihm mehrjährige Erfahrung in einer Team- oder Projektleitungsrolle mit mehr als 3 Teammitgliedern sowie tiefere Kenntnisse in modellbasierten SW-Entwicklungsmethoden. Dennoch ist er ein vielversprechender Kandidat für ein Vorstellungsgespräch.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider verfügt über einen relevanten Master-Abschluss in Informatik und 5 Jahre Backend-Erfahrung, wovon 1 Jahr Quantum-nahe Vorhaben umfasst. Sie hat bereits Erfahrung in der Integration neuer Komponenten in Cloud-Strukturen und die Anleitung kleiner Teams, was für die Position wichtig ist. Ihre Kenntnisse in Qiskit und AWS sind passend, obwohl eine tiefgehende Erfahrung mit STACKIT fehlt. Insgesamt zeigt sie ein gutes Profil für die Stelle.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "female"
+}

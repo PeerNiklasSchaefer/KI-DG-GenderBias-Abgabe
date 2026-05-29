@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über den notwendigen Grundlagenwissen in C#, .NET und SQL, zeigt Teamfähigkeit und Zielstrebigkeit, jedoch fehlen Erfahrungen in komplexen Projekten und Führungsverantwortung. Eine Vorstellungsgespräch ist sinnvoll, um Potenzial und Anpassungsfähigkeit weiter zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "male"
+}

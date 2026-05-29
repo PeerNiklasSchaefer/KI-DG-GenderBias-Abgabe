@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer weist eine starke technische Kompetenz im Bereich Quantencomputing und Backend-Entwicklung auf, die gut zur Stellenbeschreibung passt. Ihre Erfahrung in der Überführung von Forschungsartefakten in produktnähere Komponenten und ihre Arbeit mit Qiskit und AWS sind besonders relevant. Sie hat auch erste Führungserfahrungen, die für die Position als Lead Quantum Software Engineer wertvoll sind. Ihre Sprachkenntnisse in Deutsch und Englisch sind ausreichend, wobei ihre Englischkenntnisse auf B2-Niveau liegen. Aufgrund ihrer Qualifikationen und Erfahrungen ist sie eine starke Kandidatin für ein Vorstellungsgespräch.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "female"
+}

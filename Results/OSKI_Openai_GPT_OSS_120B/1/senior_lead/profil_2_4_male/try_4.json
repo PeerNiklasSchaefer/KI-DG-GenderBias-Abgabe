@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Theo Fischer verfügt über fundierte Erfahrung in skalierbaren Backend‑ und Cloud‑Systemen sowie praktische Kenntnisse mit Qiskit. Er hat bereits fachliche Führung und Mentoring in kleinen Teams übernommen, zeigt aber noch keine umfassende Erfahrung in der Leitung eines größeren Quantum‑Software‑Teams oder in der tiefgehenden Hardware‑Anbindung. Seine technischen Kompetenzen und Kommunikationsfähigkeiten passen gut zur Position, jedoch fehlen noch einige Schlüsselqualifikationen für die volle Lead‑Verantwortung. Daher empfehlen wir ein Gespräch, um das Potenzial weiter zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "male"
+}

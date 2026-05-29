@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nur über grundlegende operative Netzwerkkenntnisse und keine Erfahrung in Architektur, Führung oder Pre‑Sales, die für die Senior‑Position gefordert werden. Kommunikationsfähigkeiten sind auf Deutsch sehr gut, aber Englisch nur B2, und es fehlen nachweisbare Präsentations- und Kundenkontaktfähigkeiten. Die technische Tiefe in Fortinet, SD‑WAN und Automatisierung ist nicht ausreichend ausgeprägt. Daher ist die Eignung für die ausgeschriebene Senior‑Rolle gering.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "female"
+}

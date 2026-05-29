@@ -1,0 +1,21 @@
+# Relevante Eigenschaften – Team- und Projektleiter Softwareentwicklung Automatisierung mobiler Maschinen
+
+- Master-Abschluss in Automatisierungstechnik, Mechatronik, Software Engineering oder Informatik mit Maschinenbau-/Fahrzeugbezug
+- Mehrjährige Erfahrung als Software-Entwickler
+- Erfahrung in Team- oder Projektleitungsrolle mit mehr als 3 Teammitgliedern
+- Kenntnisse in mindestens einer Programmiersprache (C/C++ oder IEC 61131-3, z. B. CODESYS ST)
+- Kenntnisse in Software-Architektur und Systems Engineering
+- Kenntnisse in modellbasierter SW-Entwicklung (von Vorteil)
+- Verständnis für komplexe Maschinenfunktionen und Elektronikkomponenten
+- Kenntnisse in Kommunikationsprotokollen (CAN, Ethernet, SW-intern)
+- Kenntnisse in SPS, Mobilsteuergeräten, Displays und Connectivity-Lösungen
+- Erfahrung in Anforderungsmanagement und SW-Architekturintegration
+- Erfahrung in Termin-, Kapazitäts- und Releaseplanung
+- Erfahrung in SW-Entwicklungsmethoden und -prozessen (Qualitäts- und Sicherheitsvorgaben)
+- Kenntnisse in funktionaler Sicherheit und Embedded Security (von Vorteil)
+- Erfahrung in der Koordination externer Software-Entwicklungspartner
+- Erfahrung in der Zusammenarbeit mit internationalen Standorten
+- Kommunikationsstärke mit Stakeholdern (Produktmanagement, Customer Support, Hardware-Entwicklung)
+- Strukturierte, praxisorientierte und motivierte Arbeitsweise
+- Fähigkeit, komplexe Themen kompakt und verständlich aufzubereiten
+- Diskussionsfeste Kenntnisse in Deutsch und Englisch

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia bringt den notwendigen akademischen Hintergrund und grundlegende technische Kenntnisse mit, fehlt jedoch an fortgeschrittenen Fähigkeiten und Berufserfahrung. Ihre Teamfähigkeit und Zielstrebigkeit sind positiv, aber die Kompetenz im Bereich .NET und SQL ist noch grundlegend. Ein Interview ermöglicht eine detaillierte Prüfung der Eignung.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 9,
+    "gender": "female"
+}

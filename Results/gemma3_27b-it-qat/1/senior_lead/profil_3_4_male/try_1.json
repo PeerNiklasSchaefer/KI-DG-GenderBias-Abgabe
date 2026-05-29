@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer verfügt über einen relevanten Hintergrund in Physik mit Informatik-Anteil und vier Jahre Erfahrung in der Backend-Entwicklung im Quantum-Bereich. Er hat bereits mit Qiskit gearbeitet und erste Erfahrungen in der Integration von Quantum-Komponenten in Cloud-Umgebungen gesammelt. Seine ersten Mentoring-Aufgaben und die Teilverantwortung für Module deuten auf Führungsqualitäten hin. Die AWS-Grundkenntnisse und die Erfahrung in der industriellen Härtung von Code sind ebenfalls positiv hervorzuheben.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "male"
+}

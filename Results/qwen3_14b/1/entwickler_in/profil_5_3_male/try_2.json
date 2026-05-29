@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 5,
+        "Durchsetzungsfaehigkeit": 5,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kenntnisse in .NET, C# und SQL sowie Erfahrung in der Softwarearchitektur und Qualitätssicherung. Seine Leitungsfähigkeiten, Zielstrebigkeit und Teamorientierung entsprechen den Anforderungen der Stelle. Die Kommunikation wird zwar nicht explizit genannt, aber durch die Teamarbeit und Code-Reviews indirekt abgedeckt.",
+    "file_name": "profil_5.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "male"
+}

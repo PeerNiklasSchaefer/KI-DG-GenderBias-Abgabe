@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller zeigt eine starke technische Kompetenz im Bereich Quantencomputing und Backend-Entwicklung, was gut zur Stellenbeschreibung passt. Er hat relevante Erfahrung in der Integration von Quantum-Komponenten und erste Führungserfahrung. Allerdings fehlen ihm tiefgehende Cloud-Plattform-Erfahrungen und vollständige Führungserfahrung, was seine Bewertung in diesen Bereichen begrenzt. Insgesamt ist er ein vielversprechender Kandidat für ein Interview.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "male"
+}

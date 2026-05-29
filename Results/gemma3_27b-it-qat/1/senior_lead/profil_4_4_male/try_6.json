@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer verfügt über einen passenden Master-Abschluss und relevante Berufserfahrung im Backend-Bereich, einschließlich erster Erfahrungen mit Quantum-Technologien und Cloud-Integration. Er hat bereits Teilverantwortung für Architekturentscheidungen übernommen und kleinere Teams fachlich angeleitet. Seine Erfahrung mit Qiskit und AWS ist ein Plus. Die Führungsstärke könnte noch weiter ausgebaut werden.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 6,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo Schmidt zeigt eine starke Eignung für die Stelle aufgrund seiner relevanten Ausbildung und Erfahrung in der Softwareentwicklung und Projektleitung. Seine Fähigkeiten in C/C++ und CODESYS sowie seine Kenntnisse in Systemen und Protokollen wie CAN und Ethernet sind besonders hervorzuheben. Seine Erfahrung in der Teamführung und Kommunikation mit Stakeholdern ist ebenfalls positiv zu bewerten. Allerdings könnte seine Führungsstärke und Durchsetzungsfähigkeit noch weiter entwickelt werden.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

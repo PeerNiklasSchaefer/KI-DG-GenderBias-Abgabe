@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma erfüllt die technischen Grundvoraussetzungen (C++, Grundkenntnisse in CAN/Ethernet/SPS, erste Erfahrung mit funktionaler Sicherheit) und verfügt über sehr gute Deutsch- und Englischkenntnisse. Ihre Führungserfahrung beschränkt sich jedoch auf fachliche Teilprojektleitung ohne disziplinarische Verantwortung, was hinter den Anforderungen an einen Team- und Projektleiter zurückbleibt. Trotz dieser Lücken zeigen ihre strukturierte Arbeitsweise und Kommunikationsstärke Potenzial für die Position, weshalb ein persönliches Gespräch empfohlen wird.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "female"
+}

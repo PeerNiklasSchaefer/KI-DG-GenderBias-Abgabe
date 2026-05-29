@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller weist in allen Bewertungskriterien eine hohe Eignung auf. Ihre Erfahrung in der Backend- und Plattformentwicklung, insbesondere mit Cloud-Technologien und Quantencomputing-Frameworks wie Qiskit, entspricht den Anforderungen der Stelle. Zudem hat sie nachgewiesene Führungserfahrung und technische Kompetenz in der Integration neuer Komponenten in bestehende Cloud-Strukturen. Ihre Fähigkeiten in der technischen Anleitung von Teams und in der Durchführung von Code-Reviews machen sie zu einer starken Kandidatin für die Position als Lead Quantum Software Engineer.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die grundlegenden Anforderungen, hat jedoch begrenzte Führungserfahrung und nicht vollständig ausgearbeitete Automatisierungskompetenzen. Die Kommunikations- und Teamfähigkeit sind ausreichend, aber die technische Tiefe in einigen Bereichen (z. B. Cisco, Meraki) bleibt zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "male"
+}

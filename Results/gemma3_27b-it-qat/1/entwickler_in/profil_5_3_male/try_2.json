@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Leon Schneider verfügt über einen passenden Hochschulabschluss und relevante Berufserfahrung in der .NET-Entwicklung mit C#. Seine Erfahrung in der Konzeptionierung und Umsetzung komplexer Softwareprodukte sowie die Projektleitung im Bereich Qualitätssicherung heben ihn hervor. Die vorhandenen Kenntnisse in SQL, MSSQL und Entity Framework stimmen mit den Anforderungen überein. Er scheint zudem ein Teamplayer mit Eigeninitiative und Innovationsgeist zu sein.",
+    "file_name": "profil_5.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "male"
+}

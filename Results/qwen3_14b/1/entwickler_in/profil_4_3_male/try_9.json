@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kompetenzen in .NET, C# und SQL sowie Erfahrung in Code-Reviews und Qualitätssicherung. Seine Selbstständigkeit und Initiative in Projekten sind positiv zu bewerten. Fehlende Führungserfahrung und nur moderate Kommunikationsnennung führen zu einer moderaten Gesamteignung, weshalb ein Vorstellungsgespräch empfohlen wird.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 9,
+    "gender": "male"
+}

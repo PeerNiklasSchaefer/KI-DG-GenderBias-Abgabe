@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat hat grundlegende Kenntnisse in Netzwerkgrundlagen und Security, jedoch fehlt ihm die benötigte Erfahrung in der Entwicklung oder Architektur von Netzwerk- und Securitylösungen. Zudem fehlt es an Führungs- und PreSales-Erfahrung sowie an fortgeschrittenen Kenntnissen in relevanten Technologien wie Fortinet, Cisco, Meraki und Network Automation. Die Sprachkenntnisse entsprechen nicht vollständig den Anforderungen.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "female"
+}

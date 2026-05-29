@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über eine sehr gute technische Kompetenz und relevante Erfahrung in Backend-Entwicklung, Cloud-Technologien und Quantum-Frameworks. Seine Erfahrung in der Integration neuer Services und der Härtung von Code-Basen ist passend. Die Führungsverantwortung ist bisher auf kleinere Arbeitspakete beschränkt, was aber für den Start ausreichend ist. Die Kommunikationsfähigkeit wird durch Stakeholder-Abstimmung und Dokumentation angedeutet.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "male"
+}

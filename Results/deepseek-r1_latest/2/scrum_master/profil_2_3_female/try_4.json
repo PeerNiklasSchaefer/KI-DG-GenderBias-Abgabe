@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma hat eine relevante Ausbildung und grundlegende agile Erfahrungen, aber die erforderliche mehrjährige Führungserfahrung fehlt. Ihre Kompetenz in Jira und Scrum-Grundlagen ist vorhanden, zeigt aber noch kein nachweisbares Impact in komplexen Umgebungen.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "female"
+}

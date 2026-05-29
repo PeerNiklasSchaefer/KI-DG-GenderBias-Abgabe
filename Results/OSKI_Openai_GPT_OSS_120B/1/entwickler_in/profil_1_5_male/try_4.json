@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über ein abgeschlossenes Informatik‑Studium und Grundkenntnisse in C#, .NET und SQL, was ihn für die technische Basis der Position qualifiziert. Führungserfahrung und ausgeprägte Durchsetzungsfähigkeit fehlen, während Teamfähigkeit und Zielstrebigkeit als gut einzuschätzen sind. Die Kompetenz ist für ein Einstiegsniveau passend, jedoch noch nicht ausreichend für komplexe Architekturaufgaben. Insgesamt empfehlen wir ein Gespräch, um das Entwicklungspotenzial zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

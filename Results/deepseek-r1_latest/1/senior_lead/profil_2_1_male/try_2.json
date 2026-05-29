@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Kandidat verfügt über relevante technische Skills (Python, Qiskit, AWS) und erste Führungs-/Mentor-Erfahrung. Die Kombination von Engineering-Know-how und quantenrelevanter Expertise entspricht den Anforderungen.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "male"
+}

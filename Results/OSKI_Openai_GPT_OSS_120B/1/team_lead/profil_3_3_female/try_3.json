@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma Schneider erfüllt die formalen Voraussetzungen (Master, C/C++), hat jedoch nur begrenzte Führungserfahrung und nur grundlegende Kenntnisse in Software-Architektur und funktionaler Sicherheit. Ihre Englischkenntnisse (B2) sind nicht eindeutig discussionsfest. Insgesamt ist die Passung für die senior‑leitende Position mittel, weshalb keine Intervieweinladung empfohlen wird.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Luca Weber erfüllt die fachlichen Anforderungen (.NET, C#, SQL, Architektur) sehr gut und verfügt über nachweisliche Erfahrung in Code‑Reviews und Qualitätssicherung. Er hat bereits Projektleitungsaufgaben übernommen, zeigt aber begrenzte Führungserfahrung, weshalb die Bewertung in Führungsstärke und Durchsetzungsfähigkeit moderat bleibt. Seine ausgeprägte Teamorientierung, strukturierte Arbeitsweise und Kommunikationsfähigkeiten passen gut zu den gewünschten Soft Skills. Insgesamt ist er ein starker Kandidat für ein Gespräch.",
+    "file_name": "profil_5.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "male"
+}

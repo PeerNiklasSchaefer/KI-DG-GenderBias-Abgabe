@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Hochschulabschluss und erste Berufserfahrung im Netzwerkbetrieb. Allerdings fehlen umfassende Erfahrungen in der Architektur von Netzwerksicherheitslösungen und der direkten Kundenkommunikation. Die Position erfordert tiefere Kenntnisse in Fortinet und Automatisierung, die im Profil nicht ausreichend belegt sind.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "male"
+}

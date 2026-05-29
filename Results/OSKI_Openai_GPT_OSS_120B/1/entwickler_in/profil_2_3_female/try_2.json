@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma erfüllt die fachlichen Grundanforderungen (C#, .NET, SQL) und zeigt hohe Lernbereitschaft sowie strukturierte, teamorientierte Arbeitsweise. Sie hat jedoch keine Führungserfahrung und nur begrenzte Durchsetzungsfähigkeit, was die Bewertung in diesen Bereichen niedrig hält. Insgesamt ist sie als Junior‑Entwicklerin geeignet, ein Gespräch zu führen, um Potenzial und Passung weiter zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "female"
+}

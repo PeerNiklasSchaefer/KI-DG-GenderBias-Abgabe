@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia Schmidt verfügt über einen passenden Studienhintergrund und vier Jahre Erfahrung im quantum-nahen Umfeld. Sie hat bereits an der Integration von Quantum-Komponenten in Cloud-Umgebungen mitgewirkt und erste Mentoring-Erfahrungen gesammelt. Ihre Kompetenz im Umgang mit Qiskit und ihre AWS-Grundkenntnisse sind relevant. Die Führungsstärke ist noch ausbaufähig, jedoch zeigt sie Bereitschaft und erste Erfahrungen in der Koordinierung kleinerer Teams.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 7,
+    "gender": "female"
+}

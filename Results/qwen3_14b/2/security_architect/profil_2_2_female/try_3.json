@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kompetenzen und Erfahrungen in Security-Implementierungen sowie gute Kommunikationsfähigkeiten. Die fehlende Führungsverantwortung und begrenzte Herstellerkenntnisse (z. B. Cisco, Meraki) sind jedoch zu beachten. Eine Vorstellungsgespräch empfiehlt sich, um die Eignung für komplexe Architekturaufgaben und Leadership-Potenziale weiter zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "female"
+}

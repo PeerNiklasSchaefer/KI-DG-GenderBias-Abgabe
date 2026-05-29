@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia verfügt über relevante Führungs- und technische Kompetenzen, inklusive Erfahrung in der Leitung eines 4-köpfigen Teams und Kenntnisse in C/C++ sowie CODESYS. Sie erfüllt die Kernanforderungen, weicht jedoch in der Tiefe von Kenntnissen zu SPS und Mobilsteuergeräten leicht ab. Eine detaillierte Prüfung im Gespräch ist empfehlenswert.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "female"
+}

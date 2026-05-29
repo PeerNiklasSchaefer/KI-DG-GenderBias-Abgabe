@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin oder der Kandidat hat relevante praktische Erfahrung in Netzwerk- und Security-Betrieb, jedoch fehlt es an Führungserfahrung und tieferen Kenntnissen in den geforderten Technologien wie SASE, Zero Trust und Network Automation. Die Kommunikationsfähigkeiten und Zielstrebigkeit sind vorhanden, jedoch nicht ausreichend, um die komplexen Anforderungen der Stelle zu erfüllen.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "female"
+}

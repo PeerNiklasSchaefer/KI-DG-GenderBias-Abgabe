@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Sophia Müller erfüllt die technischen Anforderungen durch C#/.NET-Expertenkenntnisse und relevante Erfahrung. Ihre strukturierte Arbeitsweise und Teamfähigkeit passen zur Stelle. Keine Führungserfahrung, aber ausreichend für die Entwicklungsniveau.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "female"
+}

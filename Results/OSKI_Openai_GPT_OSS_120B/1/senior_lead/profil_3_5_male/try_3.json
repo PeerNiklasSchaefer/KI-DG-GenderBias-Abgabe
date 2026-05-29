@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über solide Fachkenntnisse in Quantenalgorithmen und Backend-Entwicklung, jedoch fehlt ihm umfassende Erfahrung in Cloud‑Architekturen und in der Führung größerer Teams. Seine bisherigen Führungsaufgaben beschränken sich auf kleine Teilprojekte, was die Führungsstärke und Durchsetzungsfähigkeit limitiert. Die Team‑ und Kommunikationsfähigkeiten sind gut ausgeprägt, die technische Kompetenz ist für die Position teilweise vorhanden. Aufgrund des Potenzials für Weiterentwicklung empfehlen wir ein Gespräch.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "male"
+}

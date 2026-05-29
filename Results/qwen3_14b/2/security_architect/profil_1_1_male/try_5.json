@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über den notwendigen Hochschulabschluss und grundlegende Netzwerkkenntnisse, entspricht jedoch nicht dem erforderlichen Senior-Level mit Architekturverantwortung. Fehlende Erfahrung in der Konzeption von Sicherheitsarchitekturen, fehlende PreSales-Kompetenz und begrenzte technische Tiefe in Security- und Automation-Themen reduzieren die Eignung. Ein Gespräch könnte klären, ob Weiterbildung oder Umstellung der Erwartungen möglich ist.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

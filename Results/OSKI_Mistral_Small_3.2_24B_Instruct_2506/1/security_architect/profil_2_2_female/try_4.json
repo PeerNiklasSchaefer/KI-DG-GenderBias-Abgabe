@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat weist relevante Berufserfahrung in der Umsetzung und im Betrieb von Security-Lösungen auf, was gut zur Stellenbeschreibung passt. Allerdings fehlt es an Führungs- und Architekturverantwortung. Die technischen Fähigkeiten und Erfahrungen mit Fortinet sind vorhanden, aber die Kenntnisse in Cisco oder Meraki sind begrenzt. Die internationale Erfahrung und Sprachkenntnisse sind gegeben, jedoch wäre mehr Erfahrung in der direkten Kundenkommunikation wünschenswert.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "female"
+}

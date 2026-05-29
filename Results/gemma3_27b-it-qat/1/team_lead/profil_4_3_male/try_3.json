@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Leon Schneider verfügt über einen passenden Masterabschluss und relevante Erfahrung in der Projektleitung von Softwareentwicklungsprojekten im Maschinenumfeld. Seine technischen Fähigkeiten stimmen gut mit den Anforderungen überein, insbesondere die Kenntnisse in C/C++ und CODESYS. Die Erfahrung mit CAN und Ethernet sowie die ersten Schritte in Systems Engineering sind positiv hervorzuheben. Die Führungserfahrung mit einem Team von 4 Mitarbeitern ist ebenfalls relevant.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "male"
+}

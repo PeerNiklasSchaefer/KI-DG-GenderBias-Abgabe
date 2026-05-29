@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah erfüllt die technischen Voraussetzungen und zeigt Teamfähigkeit sowie Zielstrebigkeit. Ihre Kompetenz in C#, .NET und SQL ist relevant, aber die fehlende Führungsverantwortung und geringere Berufserfahrung (Junior) beeinflussen die Eignung. Ein Gespräch zur Vertiefung der Soft Skills und Erfahrungsnachweise wird empfohlen.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

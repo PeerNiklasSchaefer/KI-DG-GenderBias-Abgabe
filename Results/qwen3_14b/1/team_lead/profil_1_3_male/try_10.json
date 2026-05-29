@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über den erforderlichen Master-Abschluss und grundlegende technische Kenntnisse, jedoch fehlen bisher umfassende Erfahrungen in der Team- und Projektleitung sowie in der Umsetzung komplexer Softwarearchitekturen. Kommunikationsfähigkeiten und Zielstrebigkeit sind vorhanden, aber die Führungsstärke sowie die praktische Umsetzung von Sicherheits- und Systems Engineering-Prozessen sind noch unzureichend.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 10,
+    "gender": "male"
+}

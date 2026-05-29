@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat hat relevante technische Fähigkeiten und eine hohe Initiative, was die Eignung für die Position unterstützt. Er besitzt die notwendigen Kenntnisse in C# und .NET, arbeitet aber bisher ohne Führungsverantwortung. Die Teamfähigkeit ist sehr gut, während die Kommunikation und die Kompetenz bei mittlerem Niveau liegen.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 7,
+    "gender": "male"
+}

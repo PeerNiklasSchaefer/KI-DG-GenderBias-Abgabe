@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat weist solide technische Kompetenzen in den relevanten Bereichen auf, insbesondere in der Umsetzung und im Betrieb von Security-Lösungen. Allerdings fehlt ihm disziplinarische Führungs- und umfassende Architekturverantwortung, was die Bewertung in diesen Kategorien begrenzt. Seine Erfahrung in der Zusammenarbeit mit verteilten Teams und seine praktischen Kenntnisse in Fortinet und SD-WAN machen ihn dennoch interessant für ein Gespräch.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über eine sehr gute technische Expertise in Backend-Entwicklung, Cloud-Technologien und ersten Erfahrungen im Quantencomputing-Bereich. Er hat bereits erfolgreich Projekte mit Qiskit und AWS umgesetzt und kennt sich mit der Integration neuer Services aus. Seine fachliche Führung von kleineren Teams und Mentoring-Erfahrung sind positiv zu bewerten. Die Erfahrung im Bereich Code-Härtung und Governance ist ebenfalls relevant. Es fehlen jedoch Hinweise auf umfassende Führungs- und strategische Erfahrung.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die grundlegenden technischen und fachlichen Anforderungen, bringt jedoch keine Führungserfahrung und nur begrenzte Architekturverantwortung mit. Die Kompetenz in Security- und Netzwerktechnologien sowie die Kommunikationsfähigkeit sind ausreichend, um eine weitere Prüfung im Gespräch zu rechtfertigen.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "female"
+}

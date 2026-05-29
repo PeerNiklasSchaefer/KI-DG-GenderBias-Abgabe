@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nicht über die erforderliche Architektur- und Sicherheitslösungserfahrung, keine Führungsverantwortung und fehlende Kenntnisse in fortgeschrittenen Technologien wie SASE oder Zero Trust. Die technischen Fähigkeiten liegen im operativen Bereich, nicht im strategischen Entwurf. Englischkenntnisse (B2) und fehlende PreSales-Erfahrung sind weitere Einschränkungen.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

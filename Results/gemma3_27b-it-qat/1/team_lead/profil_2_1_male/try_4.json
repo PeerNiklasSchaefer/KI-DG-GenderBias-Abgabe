@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Masterabschluss und 5 Jahre Berufserfahrung in der Softwareentwicklung, einschließlich erster Embedded-Einsätze. Er hat bereits Teilprojektverantwortung übernommen und zeigt erste Führungserfahrung. Die Kenntnisse in C++ und die Basiskenntnisse in CAN, Ethernet und SPS sind relevant. Die Erfahrung in der Dokumentation qualitätsrelevanter Abläufe ist ebenfalls positiv. Es fehlt jedoch die mehrjährige Erfahrung in einer vergleichbaren Team- oder Projektleitungsrolle mit mehr als 3 Teammitgliedern.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "male"
+}

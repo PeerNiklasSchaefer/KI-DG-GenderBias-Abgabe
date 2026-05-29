@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo Schmidt verfügt über einen passenden Masterabschluss und relevante Erfahrung in der Softwareentwicklung im Maschinenumfeld. Seine 2-jährige Leitungserfahrung mit einem Team von 4 Personen ist ein guter Einstiegspunkt, und er zeigt technisches Verständnis. Die Kenntnisse in C/C++ und CODESYS sowie die Erfahrung mit CAN und Ethernet sind relevant. Verbesserungsbedarf besteht eventuell in der Tiefe der Systems Engineering-Kenntnisse und der Erfahrung mit funktionaler Sicherheit.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 9,
+    "gender": "male"
+}

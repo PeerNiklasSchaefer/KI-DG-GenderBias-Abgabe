@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Noah Müller erfüllt die grundlegenden Anforderungen an Technikkenntnisse und Sprachkenntnisse. Seine Erfahrung in C++ und maschinennahen Aufgaben sowie erste Führungsanteile sind relevant. Die Kompetenz in Softwarearchitektur und Systems Engineering bleibt jedoch eingeschränkt, was eine weiterführende Prüfung im Gespräch rechtfertigt.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "male"
+}

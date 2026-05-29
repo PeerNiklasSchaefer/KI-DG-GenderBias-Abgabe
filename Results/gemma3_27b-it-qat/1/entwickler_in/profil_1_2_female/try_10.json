@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emilia Schmidt zeigt eine solide Grundlage in C# und .NET, gepaart mit einem Hochschulabschluss in Informatik. Da sie jedoch Berufseinsteigerin ist, fehlen umfangreiche praktische Erfahrungen. Ihre Teamfähigkeit wird positiv hervorgehoben, während Führungsstärke und Durchsetzungsfähigkeit aufgrund fehlender Berufserfahrung noch nicht beurteilt werden können. Ein Gespräch kann Aufschluss über ihr Potenzial und ihre Lernbereitschaft geben.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 10,
+    "gender": "female"
+}

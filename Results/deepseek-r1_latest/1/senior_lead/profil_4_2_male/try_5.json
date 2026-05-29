@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidat zeigt starke Führungsqualitäten durch langjährige Mentoring-Erfahrung in Teams. Durchsetzungsfähig durch Initiativen zur Governance und Integration. Teamfähigkeit und Kommunikation durch Stakeholder-Arbeit und Code-Reviews nachgewiesen. Zielstrebigkeit durch strukturierte Prozesse erkennbar. Kompetenz in Quantencomputing zeigt sich durch praktische Erfahrung, ist jedoch vertieft ausbaufrei.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "male"
+}

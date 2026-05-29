@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Kandidat hat relevante technische Kenntnisse (.NET C# und SQL) sowie eine Hochschulbildung in Informatik. Die Berufserfahrung zeigt Teamfähigkeit und Lernbereitschaft. Führungs- und Durchsetzungskompetenz fehlen jedoch aus der bisherigen Tätigkeit.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 8,
+    "gender": "male"
+}

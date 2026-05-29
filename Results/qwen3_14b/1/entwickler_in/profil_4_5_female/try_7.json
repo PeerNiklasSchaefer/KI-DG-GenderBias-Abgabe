@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Die Kandidatin erfüllt die technischen Anforderungen vollständig und verfügt über relevante Erfahrung in der .NET-Entwicklung sowie gute Teamfähigkeit und Zielstrebigkeit. Fehlende Führungserfahrung und explizite Angaben zur Kommunikation sowie Durchsetzungsfähigkeit mindern die Eignung leicht, rechtfertigen aber nicht die Abweisung.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 7,
+    "gender": "female"
+}

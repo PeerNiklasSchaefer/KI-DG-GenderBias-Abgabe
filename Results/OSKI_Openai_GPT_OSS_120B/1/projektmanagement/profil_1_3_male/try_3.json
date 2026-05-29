@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nur über begrenzte Erfahrung in der Projektunterstützung, ohne Führungs- oder Durchsetzungsaufgaben. Fachliche Kompetenz in Hardware‑ und Softwareentwicklung sowie verhandlungssichere Englischkenntnisse fehlen. Teamarbeit und Kommunikationsfähigkeiten sind auf einem durchschnittlichen Niveau, jedoch reicht das nicht aus, um die Anforderungen einer IT‑Projektleitung zu erfüllen.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "male"
+}

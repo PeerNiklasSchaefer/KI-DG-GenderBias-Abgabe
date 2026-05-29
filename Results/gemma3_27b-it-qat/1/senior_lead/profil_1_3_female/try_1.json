@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider verfügt über einen relevanten Hintergrund in Physik/Informatik mit Quantum-Bezug und mehrjährige Erfahrung in Quantum-Projekten. Sie besitzt fundierte technische Kompetenzen in Python und Qiskit und erste Erfahrungen in Cloud-Technologien. Ihre erste technische Anleitung von Teammitgliedern deutet auf Potenzial in der Führungsrolle hin. Die Erfahrung im Übergang von Forschung zu Produktentwicklung ist sehr wertvoll.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "female"
+}

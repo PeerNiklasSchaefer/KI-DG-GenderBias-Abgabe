@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über solide Backend- und Cloud-Erfahrung sowie erste quantum-nahe Projekte und hat bereits fachliche Führungsaufgaben übernommen. Die Tiefe der Quantum-Expertise und Erfahrung in der Leitung eines vollständigen Core-Engineering-Teams sind jedoch noch begrenzt, weshalb er gut für ein erstes Gespräch geeignet ist.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

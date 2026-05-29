@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber weist eine solide technische Kompetenz in den relevanten Bereichen Quantencomputing und Backend-Entwicklung auf. Die Erfahrung mit Qiskit und AWS sowie die ersten Integrationspraxis sind vielversprechend. Allerdings fehlt es an tiefergehender Cloud-Expertise und umfassender Führungs- sowie Teamführungserfahrung. Die Sprachkenntnisse in Englisch sind ausreichend, aber nicht auf höchstem Niveau. Aufgrund der relevanten Erfahrungen und des Potenzials lohnt sich ein Interview.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die fachlichen Grundvoraussetzungen (Master, C/C++-Kenntnisse, erste Erfahrung mit Maschinensoftware), jedoch fehlt ihm nachweisbare disziplinarische Führungserfahrung und tiefgehendes Know-how in Softwarearchitektur und funktionaler Sicherheit. Kommunikationsfähigkeiten in Englisch sind noch ausbaufähig. Trotz dieser Defizite lohnt ein persönliches Gespräch, um Potenzial und Motivation genauer zu prüfen.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "male"
+}

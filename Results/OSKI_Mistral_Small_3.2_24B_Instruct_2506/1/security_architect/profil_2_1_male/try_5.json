@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat weist grundlegende Kenntnisse und Erfahrungen in den relevanten Technologien auf, verfügt jedoch über keine Führungs- oder Architekturverantwortung. Die Erfahrung in der Umsetzung und im Betrieb von Security-Lösungen ist vorhanden, jedoch nicht auf dem Niveau eines Senior Network & Security Solutions Architects. Die begrenzten Herstellerkenntnisse (Cisco, Meraki) und die fehlende Erfahrung in der ganzheitlichen Konzeption von Netzwerksicherheitsarchitekturen machen eine Einladung zum Gespräch derzeit nicht sinnvoll.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

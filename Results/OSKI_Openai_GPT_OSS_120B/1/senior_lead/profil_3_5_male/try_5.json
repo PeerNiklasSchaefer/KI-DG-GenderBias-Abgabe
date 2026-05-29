@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Luca verfügt über grundlegende Erfahrung in Quantum-Software und erste Mentoring-Aufgaben, jedoch fehlt ihm die nachgewiesene Führungserfahrung, tiefgehende Cloud- und Architekturkompetenz sowie umfassende Open-Source-Governance, die für die Lead-Position erforderlich sind.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "male"
+}

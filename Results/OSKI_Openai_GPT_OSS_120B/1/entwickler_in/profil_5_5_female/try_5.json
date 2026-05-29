@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Hannah verfügt über fundierte .NET/C#‑Kenntnisse, Erfahrung mit SQL und umfangreiche Praxis in Softwarearchitektur und Qualitätssicherung, was die fachliche Kompetenz stark unterstreicht. Sie hat bereits Projektleitungsaufgaben übernommen und zeigt damit Führungsstärke sowie Durchsetzungsfähigkeit. Ihre ausgeprägte Teamorientierung, agile Erfahrung und strukturierte Arbeitsweise sprechen für hohe Teamfähigkeit und Zielstrebigkeit. Kommunikationsfähigkeiten lassen sich aus ihrer Rolle in Code‑Reviews und QA‑Leitung ableiten, sodass sie gut ins Unternehmen passen dürfte.",
+    "file_name": "profil_5.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

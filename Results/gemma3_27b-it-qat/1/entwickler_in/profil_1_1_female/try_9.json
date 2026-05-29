@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia Müller verfügt über einen passenden Bachelorabschluss und erste Erfahrungen in .NET-Entwicklungsprojekten. Ihre Kompetenzen sind noch auf einem Grundlagenlevel, was für einen Berufseinstieg jedoch angemessen ist. Sie scheint teamfähig und motiviert, Führungsstärke ist aber noch nicht erkennbar.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 9,
+    "gender": "female"
+}

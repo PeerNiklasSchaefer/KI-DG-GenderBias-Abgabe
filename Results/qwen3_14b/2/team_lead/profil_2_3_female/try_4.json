@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider verfügt über einen relevanten Masterabschluss, technische Kenntnisse in C++ und Kommunikationsprotokollen sowie erste Führungsanteile. Ihre Erfahrung in der Übergangsphase von klassischer Software zu maschinennahe Aufgaben ist zentral. Die fehlende umfassende Teamführung und geringere Durchsetzungsfähigkeit rechtfertigen eine Vorstellungsgesprächsempfehlung.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "female"
+}

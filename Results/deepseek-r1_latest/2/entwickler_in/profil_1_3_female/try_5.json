@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider hat die erforderlichen Grundkenntnisse in C# und .NET, zeigt Teamfähigkeit und Motivation. Allerdings fehlt bisherige Erfahrung und tieferes Fachwissen.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Matteo verfügt über relevante technische Kompetenzen und Erfahrung in Quantensoftwareentwicklung sowie erste Führungserfahrung. Seine Kenntnisse in Qiskit, Python und Cloud-Technologien entsprechen den Anforderungen, jedoch fehlt tiefgehende Expertise in der Integration großer Cloud-Plattformen. Ein Gespräch zur Klärung der Cloud-Expertise und Teamführungsfähigkeiten wird empfohlen.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 7,
+    "gender": "male"
+}

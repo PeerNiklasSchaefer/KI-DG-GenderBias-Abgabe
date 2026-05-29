@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Bildungsabschluss und erste Erfahrungen im Netzwerkbetrieb. Es fehlen jedoch umfassende Erfahrungen in der Architektur von Netzwerksicherheitslösungen, der direkten Kundenkommunikation und der Herstellerkommunikation, die für die Position des Senior Network & Security Solutions Architect vorausgesetzt werden. Die bisherige Tätigkeit beschränkt sich auf den operativen Betrieb ohne Architekturverantwortung.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emilia Schmidt ist eine motivierte Informatik-Absolventin mit ersten Erfahrungen in .NET-Entwicklungsprojekten. Ihre Kompetenzen in C#, .NET und SQL sind auf Grundlagen-Niveau, was für einen Berufseinstieg passend ist. Sie scheint ein Teamplayer zu sein, Führungsverantwortung hat sie bisher nicht übernommen. Ein Gespräch kann klären, inwieweit sie sich schnell in komplexere Aufgaben einarbeiten kann.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "female"
+}

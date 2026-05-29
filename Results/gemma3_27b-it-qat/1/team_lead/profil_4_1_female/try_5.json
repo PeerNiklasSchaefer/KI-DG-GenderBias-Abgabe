@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller verfügt über einen passenden Masterabschluss und relevante Erfahrung in der Projektleitung softwarenaher Projekte im Maschinenumfeld. Ihre 2-jährige Leitungserfahrung und die technische Umsetzungskompetenz sind positiv hervorzuheben. Die Kenntnisse in C/C++ und CODESYS sowie die Erfahrung mit CAN und Ethernet sind ebenfalls relevant. Verbesserungsbedarf besteht eventuell in der Tiefe der Systems-Engineering-Kenntnisse und der Erfahrung mit funktionaler Sicherheit.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

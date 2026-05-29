@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah Weber weist eine starke fachliche Eignung für die Position als Lead Quantum Software Engineer auf, insbesondere durch ihre mehrjährige Erfahrung in der Quantum-Entwicklung und ihre Kenntnisse in relevanten Frameworks wie Qiskit. Ihre Erfahrung in der cloud-nahen Entwicklung und ihre ersten Führungs- und Mentoring-Erfahrungen sind ebenfalls positiv zu bewerten. Allerdings könnte ihre Erfahrung in der Führung größerer Teams und in der Integration neuer Stacks in bestehende Cloud-Umgebungen noch vertieft werden.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "female"
+}

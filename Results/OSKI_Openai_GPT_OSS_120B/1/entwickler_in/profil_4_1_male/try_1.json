@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat erfüllt die fachlichen Anforderungen (C#, .NET, SQL, OOP) und zeigt selbstständige, strukturierte Arbeitsweise sowie Initiative. Teamfähigkeit und Kommunikationsfähigkeit werden durch enge Zusammenarbeit mit QA und Produktmanagement belegt. Fehlende Führungserfahrung wird durch die Position nicht gefordert, sodass die Gesamtbewertung hoch ist und ein Gespräch empfohlen wird.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "male"
+}

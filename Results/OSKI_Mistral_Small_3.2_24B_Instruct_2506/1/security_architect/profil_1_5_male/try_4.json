@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin oder der Kandidat hat zwar einen relevanten Hochschulabschluss und erste Berufserfahrung im Netzwerkbetrieb, jedoch fehlen entscheidende Qualifikationen und Erfahrungen für die Position als Senior Network & Security Solutions Architect. Besonders die fehlende Erfahrung in der Architektur von Netzwerk- und Securitylösungen, sowie die fehlende Führungserfahrung und PreSales-Erfahrung, machen die Kandidatin oder den Kandidaten für die Stelle nicht geeignet. Zudem sind die technischen Fähigkeiten im Bereich Network Automation und fortgeschrittene Security-Technologien nicht ausreichend ausgeprägt.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Theo Fischer zeigt durch Mentoring und fachliche Führung hohes Potenzial. Seine Expertise in Backend, Cloud und Code-Härtung deckt die Kernanforderungen ab. Mit Qiskit-Erfahrung und Engineering-Know-how ist die fachliche Eignung sehr hoch, die Führungserfahrung bei kleinen Teams entspricht den Anforderungen. Die geringfügige Einschränkung liegt in der Tiefe der Quantencomputing-Kenntnisse.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "male"
+}

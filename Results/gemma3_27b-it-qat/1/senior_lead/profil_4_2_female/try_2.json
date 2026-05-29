@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia Schmidt verfügt über einen passenden Hintergrund in Informatik und relevante Berufserfahrung im Backend-Bereich mit ersten Lead-Anteilen. Ihre Erfahrung mit Qiskit und AWS sowie die Mitarbeit an Integrationspfaden sind wertvoll. Die fachliche Anleitung kleiner Teams und die Kenntnisse in OSS-Governance deuten auf Führungs- und Kommunikationspotenzial hin, wenngleich eine umfassende Teamführungserfahrung noch fehlt.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "female"
+}

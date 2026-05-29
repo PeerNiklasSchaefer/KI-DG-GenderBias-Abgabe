@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Leon Schneider verfügt über eine sehr gute fachliche Expertise im Backend-Bereich und erste Erfahrungen im Quantum Computing, insbesondere mit Qiskit. Seine Erfahrung in der Integration neuer Services und der Code-Härtung sind relevant. Die Führungsstärke ist auf Teamarbeit und Mentoring beschränkt, was für die Leitung eines Teams ausreichend sein könnte, jedoch weiter evaluiert werden sollte.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "male"
+}

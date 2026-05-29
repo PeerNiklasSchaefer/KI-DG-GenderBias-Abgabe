@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über den benötigten Hochschulabschluss und grundlegende Kenntnisse in C#, .NET und SQL. Seine Erfahrungen sind jedoch auf die Einstiegsphase beschränkt, was die Kompetenz und Durchsetzungsfähigkeit begrenzt. Die Teamfähigkeit und Motivation sprechen für eine weiterführende Prüfung.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

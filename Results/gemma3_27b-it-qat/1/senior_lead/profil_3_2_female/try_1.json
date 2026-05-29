@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia Schmidt verfügt über einen passenden Hintergrund in Physik mit Informatik-Anteil und relevante Berufserfahrung im quantum-nahen Umfeld. Sie besitzt bereits Erfahrung in Backend-Entwicklung, Cloud-Integrationen und der Arbeit mit Qiskit. Erste Mentoring-Erfahrung und die Teilverantwortung für Module deuten auf Führungsansätze hin. Ihre Englischkenntnisse sind auf B2-Niveau, was für die Kommunikation mit externen Partnern ausreichend ist.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "female"
+}

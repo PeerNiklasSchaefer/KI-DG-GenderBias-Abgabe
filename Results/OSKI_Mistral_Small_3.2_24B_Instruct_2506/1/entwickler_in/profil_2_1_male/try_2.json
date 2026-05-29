@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller zeigt starke technische Kompetenzen in C# und .NET, die gut zur Stellenbeschreibung passen. Seine Teamfähigkeit und Kommunikation sind ebenfalls hervorzuheben. Aufgrund seiner bisherigen Erfahrungen und seiner strukturierten Arbeitsweise ist er eine vielversprechende Kandidatur für die Position als .NET C#-Entwickler. Allerdings hat er noch keine Führungsverantwortung, was für eine Junior-Position jedoch nicht zwingend erforderlich ist.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma bringt grundlegende C#/.NET- und SQL-Kenntnisse sowie Motivation und Teamfähigkeit mit, jedoch fehlt ihr Führungserfahrung und tiefere technische Expertise. Sie passt als Junior-Entwickler, weshalb ein Gespräch sinnvoll ist.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "female"
+}

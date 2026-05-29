@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Leon Schneider erfüllt die technischen und fachlichen Anforderungen der Stelle vollständig, einschließlich der erforderlichen Kenntnisse in .NET, C# und SQL. Seine Erfahrung in Code-Reviews, Unit-Tests und der Weiterentwicklung von Softwareprodukten spricht für seine Kompetenz. Teamfähigkeit und Selbstständigkeit sind nachweisbar, lediglich Führungsstärke fehlt. Die Eignung ist hoch, sodass ein Vorstellungsgespräch empfohlen wird.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

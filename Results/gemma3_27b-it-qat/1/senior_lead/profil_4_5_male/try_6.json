@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber verfügt über einen relevanten Master-Abschluss und 5 Jahre Backend-Erfahrung, inklusive eines Jahres in quantum-nahen Projekten. Er hat bereits erste Lead-Anteile übernommen und Erfahrung mit der Integration in Cloud-Strukturen. Die vorhandenen Kenntnisse in Qiskit und AWS sind vorteilhaft, ebenso wie die Erfahrung in Code-Governance. Die Führungsverantwortung ist bisher auf die fachliche Anleitung kleiner Teams beschränkt, was im Interview weiter erfragt werden sollte.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 6,
+    "gender": "male"
+}

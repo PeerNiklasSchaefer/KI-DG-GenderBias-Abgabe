@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia hat die notwendigen Grundkenntnisse in C# und .NET sowie SQL, kombiniert mit einer motivierten und teamorientierten Arbeitsweise. Sie ist jedoch noch wenig in komplexen Projekten erfahren.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 7,
+    "gender": "female"
+}

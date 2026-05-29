@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Luca Weber hat relevante Führungserfahrung mit einem 4er-Team und zeigt technische Kompetenz in C/C++ und CODESYS. Die Berufserfahrung deckt die Kernanforderungen teilweise ab, obwohl die tiefgreifenden Kenntnisse in Software-Architektur und modellbasierter Entwicklung noch ausgebaut werden müssen. Die sprachlichen Fähigkeiten und die Fähigkeit, komplexe Themen aufzubereiten, sind ausreichend.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "male"
+}

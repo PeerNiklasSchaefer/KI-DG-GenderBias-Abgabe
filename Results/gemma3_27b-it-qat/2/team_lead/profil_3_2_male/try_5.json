@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo Schmidt verfügt über einen passenden Masterabschluss und relevante Berufserfahrung in der Maschinensoftwareentwicklung. Seine Kenntnisse in C/C++ und IEC 61131-3 sind vorhanden, ebenso erste Erfahrungen mit CAN und Ethernet. Er hat bereits Koordinationsaufgaben übernommen und zeigt Engagement in der teamübergreifenden Abstimmung. Die Führungsverantwortung ist bisher noch informell, was im Gespräch vertieft werden kann.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "male"
+}

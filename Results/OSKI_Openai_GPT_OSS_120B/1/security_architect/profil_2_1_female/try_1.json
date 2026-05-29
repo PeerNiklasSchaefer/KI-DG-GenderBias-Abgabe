@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat zeigt solide technische Grundlagen und gute Team‑ und Kommunikationsfähigkeiten, jedoch fehlt ihm Erfahrung in Führungs- und Architekturverantwortung, die für die Senior‑Position zentral sind. Die Fachkenntnisse in Fortinet und Automation sind vorhanden, jedoch nicht auf Senior‑Level. Daher ist die Gesamteignung mittel und wir empfehlen, den Kandidaten nicht zum Gespräch einzuladen.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "female"
+}

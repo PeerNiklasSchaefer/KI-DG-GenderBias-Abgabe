@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Emma Schneider verfügt über relevante technische Kompetenzen (Qiskit, AWS) und Erfahrung in Cloud-Integration sowie Open-Source-Governance. Ihre Führungsstärke ist eingeschränkt, da sie bisher nur kleine Teams fachlich geleitet hat. Die Kommunikation und Zielstrebigkeit sind jedoch gut, was die Eignung für ein Vorstellungsgespräch rechtfertigt.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "female"
+}

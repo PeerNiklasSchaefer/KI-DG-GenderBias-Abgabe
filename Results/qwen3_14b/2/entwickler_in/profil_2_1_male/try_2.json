@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat erfüllt die technischen Anforderungen und zeigt strukturierte Arbeitsweise sowie Teamfähigkeit. Die fehlende Führungsverantwortung und nur grundlegende SQL-Kenntnisse sind jedoch Einschränkungen. Ein Interview zur Vertiefung der Softskills und technischen Expertise wird empfohlen.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "male"
+}

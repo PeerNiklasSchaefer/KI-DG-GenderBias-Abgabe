@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider verfügt über einen relevanten Hintergrund in Physik mit Informatik-Anteil und 4 Jahre Erfahrung im quantum-nahen Umfeld. Sie hat bereits Erfahrungen in der Backend-Entwicklung, Cloud-Integration und der Arbeit mit Qiskit gesammelt. Erste Mentoring- und Koordinationsaufgaben deuten auf Führungspotenzial hin, jedoch fehlt es an umfassender Führungs- und Integrationserfahrung. Insgesamt eine sehr gute Eignung für die Stelle.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 10,
+    "gender": "female"
+}

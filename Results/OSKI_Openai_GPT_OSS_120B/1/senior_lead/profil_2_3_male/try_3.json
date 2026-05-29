@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Leon Schneider verfügt über solide Backend- und Cloud-Erfahrung sowie praktische Kenntnisse in Qiskit und hat bereits kleinere Teams fachlich geführt und Junior‑Entwickler gemanaged. Seine Kommunikationsfähigkeiten in Deutsch und Englisch sowie seine Erfahrung in Stakeholder‑Abstimmungen sind gut ausgeprägt. Allerdings fehlt ihm noch umfassende Erfahrung in der Architektur und industriellen Härtung von Quantum‑Software‑Stacks sowie in der disziplinarischen Führung größerer Teams, weshalb die Gesamtbewertung mittel bleibt, aber ein Gespräch sinnvoll ist.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "male"
+}

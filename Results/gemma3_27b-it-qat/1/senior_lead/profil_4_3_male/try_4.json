@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Leon Schneider verfügt über einen relevanten Masterabschluss und 5 Jahre Backend-Erfahrung, einschließlich eines Jahres in quantum-nahen Projekten. Er hat bereits erste Lead-Anteile übernommen und Erfahrung in der Integration von Komponenten in Cloud-Strukturen. Seine Kenntnisse in Qiskit und AWS sowie seine Erfahrung in OSS-Governance sind positiv hervorzuheben. Die Führungserfahrung ist bisher auf fachliche Anleitung kleiner Teams beschränkt, was im Gespräch noch vertieft werden sollte.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

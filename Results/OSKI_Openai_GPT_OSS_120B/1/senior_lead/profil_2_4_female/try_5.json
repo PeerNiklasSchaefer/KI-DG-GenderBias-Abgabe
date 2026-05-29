@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer verfügt über fundierte Erfahrung in skalierbaren Backend‑ und Cloud‑Systemen sowie praktische Kenntnisse in Qiskit und der Härtung von Forschungs‑Code, was die fachliche Kompetenz für den Quantum Software Stack stärkt. Sie hat bereits fachliche Führungsaufgaben und Mentoring in kleinen Teilprojekten übernommen, zeigt damit solide Team‑ und Kommunikationsfähigkeiten, jedoch fehlt bislang Erfahrung in der disziplinarischen Führung eines kompletten Core‑Engineering‑Teams. Ihre Zielstrebigkeit und Fähigkeit zur Zusammenarbeit mit Stakeholdern sind gut ausgeprägt. Insgesamt ist sie gut geeignet für ein erstes Gespräch, um die Passung zur Leitungsrolle genauer zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "female"
+}

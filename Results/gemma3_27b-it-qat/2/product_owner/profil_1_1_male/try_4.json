@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Hochschulabschluss, jedoch fehlt relevante Berufserfahrung in der Produktsteuerung und im Budgetmanagement. Die Führungserfahrung ist nicht vorhanden und die Kenntnisse agiler Methoden sind nur grundlegend. Insgesamt erfüllt der Kandidat die Anforderungen der Stelle nicht.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "male"
+}

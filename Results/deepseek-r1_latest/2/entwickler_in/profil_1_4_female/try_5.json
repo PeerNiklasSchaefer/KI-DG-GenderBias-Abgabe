@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer hat relevante technische Grundkenntnisse (C#, .NET, SQL) und zeigt Potenzial durch schnellen Kompetenzaufbau. Teamfähigkeit und Zielstrebigkeit sind positiv ausgeprägt. Die Eignung ist ausreichend, da sie die Basisanforderungen erfüllt, aber mehrjährige Erfahrung fehlt.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "female"
+}

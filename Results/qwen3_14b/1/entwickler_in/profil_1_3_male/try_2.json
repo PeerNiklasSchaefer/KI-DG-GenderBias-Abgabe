@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die grundlegenden Anforderungen durch den Hochschulabschluss und Grundkenntnisse in C#, .NET und SQL. Teamfähigkeit und Zielstrebigkeit sind vorhanden, jedoch fehlen Führungsverantwortung und fortgeschrittene technische Kompetenzen. Ein Vorstellungsgespräch ist sinnvoll, um die Eignung für die Einstiegsposition zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "male"
+}

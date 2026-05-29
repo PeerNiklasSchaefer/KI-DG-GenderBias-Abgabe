@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin hat die notwendigen Grundlagen in C# und .NET, kombiniert mit Teamfähigkeit. Durchsetzungsfähigkeit und Führungsstärke sind aus derzeitiger Berufserfahrung nicht vollständig nachweisbar.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 8,
+    "gender": "male"
+}

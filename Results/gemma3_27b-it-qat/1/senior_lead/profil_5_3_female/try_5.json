@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 5,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Emma Schneider verfügt über eine exzellente Übereinstimmung mit den Anforderungen der Stelle. Sie besitzt fundierte Erfahrung in der technischen Leitung von Quantum Software Stacks, umfassende Cloud-Kenntnisse und nachgewiesene Führungsqualitäten. Ihre Expertise in der industriellen Härtung von Code-Basen und die praktische Erfahrung mit relevanten Technologien (Qiskit, Qrisp, PennyLane, AWS, Azure) machen sie zu einer sehr geeigneten Kandidatin.",
+    "file_name": "profil_5.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "female"
+}

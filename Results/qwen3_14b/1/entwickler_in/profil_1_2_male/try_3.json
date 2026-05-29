@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Matteo erfüllt die grundlegenden Anforderungen mit seinem Studium und Basiswissen in C#, .NET und SQL. Seine Erfahrung ist jedoch auf grundlegende Aufgaben beschränkt, und Führungsverantwortung fehlt. Eine weitere Bewertung im Gespräch ist zur Klärung der Eignung für die Stelle sinnvoll.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

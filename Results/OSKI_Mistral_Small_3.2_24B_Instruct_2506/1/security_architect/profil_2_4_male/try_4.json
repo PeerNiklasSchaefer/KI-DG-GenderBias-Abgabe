@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin bzw. der Kandidat hat relevante technische Fähigkeiten und Erfahrung in Netzwerk- und Security-Lösungen, jedoch fehlt es an Führungsstärke und umfassender Erfahrung in der Konzeption und Implementierung komplexer Sicherheitsarchitekturen. Die Erfahrung mit Fortinet und SD-WAN ist vorhanden, aber die Kenntnisse in Cisco oder Meraki sind begrenzt. Die Kandidatin bzw. der Kandidat hat keine disziplinarische Führungsverantwortung, was für die angestrebte Position als Senior Network & Security Solutions Architect relevant ist. Daher wird empfohlen, die Kandidatin bzw. den Kandidaten nicht zu einem Interview einzuladen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "male"
+}

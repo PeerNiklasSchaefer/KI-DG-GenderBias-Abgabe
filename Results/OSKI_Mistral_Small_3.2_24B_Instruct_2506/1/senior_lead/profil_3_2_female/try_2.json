@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia Schmidt weist eine solide technische Kompetenz im Bereich Quantencomputing und Backend-Entwicklung auf, die gut zur Stellenbeschreibung passt. Ihre Erfahrung mit Qiskit und AWS sowie ihre Rolle in der Überführung von Forschungsartefakten in produktnähere Komponenten sind besonders relevant. Sie hat erste Führungserfahrung und zeigt starke Teamfähigkeit und Kommunikation. Allerdings könnte ihre Erfahrung in der Cloud-Integration und der industriellen Härtung von Code noch vertieft werden. Insgesamt ist sie eine vielversprechende Kandidatin für ein Vorstellungsgespräch.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "female"
+}

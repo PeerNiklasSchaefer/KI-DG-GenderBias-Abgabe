@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat erfüllt die technischen Anforderungen (C#, .NET, SQL, OOP) und zeigt strukturierte, teamorientierte Arbeitsweise. Führungserfahrung fehlt, jedoch sind Zielstrebigkeit und Kompetenz hoch genug für ein Interview.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "male"
+}

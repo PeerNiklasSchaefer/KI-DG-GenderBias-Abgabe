@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Kandidat hat relevante Fähigkeiten in Cloud-Engineering und Quantum-Frameworks (Qiskit), erste Führungserfahrung mit Teams. Kommunikation und Zielstrebigkeit sind sehr gut. Einschränkung: Weniger tiefgehende Cloud-Integrationserfahrung und Fehlen von Forschungserfahrung.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

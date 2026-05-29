@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 1,
+        "Teamfaehigkeit": 2,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 1,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin hat einen Hochschulabschluss in Informatik, aber die erforderliche mehrjährige Erfahrung in der Architektur von Netzwerk- und Securitylösungen fehlt. Zudem sind die Kenntnisse in SD-WAN, Cloud-Networking und Herstellerlösungen wie Fortinet ausreichend, aber nicht auf einem Expertenniveau. Die Kommunikationsfähigkeiten sind vorhanden, aber die Erfahrung in PreSales und strategischer Kundenkommunikation fehlt.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "male"
+}

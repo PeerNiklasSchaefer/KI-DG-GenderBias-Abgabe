@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller verfügt über einen passenden Hintergrund und relevante Erfahrung in der Backend-Entwicklung und Quantum-Integration. Er hat erste Mentoring-Erfahrung gesammelt und kennt sich mit Qiskit aus. Seine AWS-Kenntnisse sind noch ausbaufähig, jedoch ist er in der Lage, sich schnell in neue Cloud-Umgebungen einzuarbeiten. Insgesamt zeigt er eine hohe Eignung für die Stelle.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "male"
+}

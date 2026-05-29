@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Mia Fischer verfügt über fundierte Kenntnisse in Quantenalgorithmen und Backend‑Entwicklung, jedoch fehlt ihr tiefgehende Cloud‑Architektur‑Erfahrung, umfangreiche Führungserfahrung und umfassende Open‑Source‑Governance. Die bisherige Leitung kleiner Teilprojekte reicht nicht für die geforderte Gesamtverantwortung eines Lead Quantum Software Engineer. Deshalb ist die Eignung für die ausgeschriebene Position eingeschränkt.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "female"
+}

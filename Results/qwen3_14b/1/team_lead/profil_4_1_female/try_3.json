@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia Müller erfüllt die grundlegenden Anforderungen der Stelle, einschließlich der Führungsrolle mit 4 Teammitgliedern und technischen Kenntnissen in C/C++ sowie CAN/Ethernet. Die Tiefe in Software-Architektur und Systems Engineering bleibt jedoch fraglich. Eine Einladung zum Gespräch zur Vertiefung der fachlichen Kompetenz und Praxiserfahrung ist empfehlenswert.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "female"
+}

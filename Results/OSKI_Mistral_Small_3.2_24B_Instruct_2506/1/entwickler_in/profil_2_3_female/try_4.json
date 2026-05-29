@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma Schneider zeigt gute Teamfähigkeit und eine solide technische Kompetenz in den relevanten Bereichen. Ihre Erfahrung in der .NET-Entwicklung und ihre strukturierte Arbeitsweise sind vorteilhaft. Allerdings fehlt ihr bisherige Führungs- und Durchsetzungsfähigkeit, was für die Position als Junior Softwareentwickler jedoch nicht zwingend erforderlich ist. Ein Interview würde weitere Einblicke in ihre Persönlichkeit und Motivation geben.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "female"
+}

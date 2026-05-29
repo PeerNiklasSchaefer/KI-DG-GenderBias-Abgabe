@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin verfügt über die erforderlichen technischen Grundkenntnisse in C#/.NET und SQL sowie Erfahrung in der Softwareentwicklung. Ihre Teamfähigkeit und strukturierte Arbeitsweise entsprechen den Anforderungen. Allerdings fehlen Führungsverantwortung und tiefergehende technische Expertise, die für die Stelle relevant sind.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 6,
+    "gender": "female"
+}

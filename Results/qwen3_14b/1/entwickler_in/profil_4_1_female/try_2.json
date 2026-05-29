@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Sophia Müller erfüllt die technischen Anforderungen vollständig und zeichnet sich durch Selbstständigkeit, Teamfähigkeit und Qualitätssicherung aus. Ihre Erfahrung in .NET, C# und SQL sowie ihre Projekterfahrung entsprechen der Stellenbeschreibung. Führungsstärke fehlt, ist aber für die Position nicht zwingend erforderlich.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "female"
+}

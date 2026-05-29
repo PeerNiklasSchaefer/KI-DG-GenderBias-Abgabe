@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller verfügt über einen relevanten Hintergrund in Physik/Informatik mit Quantum-Bezug und mehrjährige Erfahrung in der Quantum-Entwicklung. Er besitzt bereits erste Erfahrung in der technischen Anleitung von Teammitgliedern und kann Code-Reviews durchführen. Seine Erfahrung im Übergang von Forschungsprototypen zu produktnahen Lösungen ist für die Stelle von Vorteil. Die Erfahrung in Cloud-Technologien ist vorhanden, aber noch nicht tiefgehend.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "male"
+}

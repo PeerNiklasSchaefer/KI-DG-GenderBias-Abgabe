@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nur über ein Jahr Berufserfahrung und hat keine disziplinarische Führungsrolle mit mehr als drei Teammitgliedern ausgeübt. Technische Kenntnisse entsprechen Grundlagen, reichen jedoch nicht für die geforderte Tiefe in Software‑Architektur und funktionaler Sicherheit. Trotz guter Motivation und Kommunikationsfähigkeiten fehlt die erforderliche Erfahrung für die Leitungsposition.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Hochschulabschluss und erste Berufserfahrung im Netzwerkbetrieb. Allerdings fehlt die geforderte Erfahrung in der Entwicklung oder Architektur von Netzwerk- und Securitylösungen. Die Rolle war operativ ausgerichtet, ohne Führungs- oder PreSales-Verantwortung. Die technischen Fähigkeiten sind solide, aber nicht auf dem Niveau eines Senior Architects.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "female"
+}

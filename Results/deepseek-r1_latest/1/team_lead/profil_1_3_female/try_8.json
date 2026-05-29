@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin hat eine relevante Ausbildung und Grundkenntnisse in Softwareentwicklung, zeigt aber mangels Führungserfahrung mit größeren Teams und ausreichender praktischer Kompetenz im Systems Engineering eine geringe Eignung. Ein Gespräch könnte die tatsächlichen Fähigkeiten und Potenziale weiter genauer beleuchten.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 8,
+    "gender": "female"
+}

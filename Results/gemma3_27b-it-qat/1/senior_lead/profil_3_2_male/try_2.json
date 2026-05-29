@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo Schmidt verfügt über einen passenden Hintergrund und relevante Erfahrung in der Backend-Entwicklung und Quantum-Integration. Er hat erste Mentoring-Erfahrung gesammelt und zeigt Verständnis für die Herausforderungen der industriellen Härtung von Code. Seine Kenntnisse in Qiskit und AWS sind vorteilhaft, allerdings sind seine Cloud-Erfahrungen noch nicht tiefgreifend. Insgesamt ist er ein vielversprechender Kandidat, der die Anforderungen der Stelle gut erfüllt.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

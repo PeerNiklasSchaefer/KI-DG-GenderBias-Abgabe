@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt über keine Führungserfahrung und hat nur begrenzte Kenntnisse in den für die Position erforderlichen Technologien und agilen Methoden. Internationale Projektverantwortung sowie Budget- und Produktverantwortung fehlen vollständig. Trotz solider Teamarbeit und Kommunikationsfähigkeiten ist die Gesamtkompetenz für die Product-Owner-Rolle zu gering.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

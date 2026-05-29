@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia verfügt über relevante technische Kompetenzen in Cloud-Integration, Quantum-Frameworks und OSS-Governance sowie Erfahrung im Teammanagement. Ihre Führungsstärke und Zielstrebigkeit sind gut nachweisbar, jedoch fehlen konkrete Belege für die strategische Architekturdefinition und industrielle Härtung von Forschungscode. Ein Gespräch zur Vertiefung der fachlichen Reife und Projektumsetzung wird empfohlen.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "female"
+}

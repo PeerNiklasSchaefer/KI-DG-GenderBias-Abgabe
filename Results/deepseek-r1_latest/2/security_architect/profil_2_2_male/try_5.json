@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin verfügt über relevante technische Skills (Fortinet, SD-WAN, Ansible/Terraform) und internationale Projekterfahrung. Allerdings fehlt eine Führungserfahrung und die tiefgreifende Beherrschung von Herstellern wie Cisco/Meraki. Die Einschätzung zur Eignung ist daher moderat.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "male"
+}

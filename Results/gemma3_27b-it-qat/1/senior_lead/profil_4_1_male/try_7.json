@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller verfügt über einen passenden Hintergrund in Informatik und relevante Berufserfahrung im Backend-Bereich, einschließlich erster Lead-Erfahrung im Quantum-Umfeld. Seine Kenntnisse in Qiskit und AWS sowie seine Erfahrung mit der Integration von Code in Cloud-Strukturen sind sehr wertvoll. Die vorhandene Erfahrung in Governance-Prozessen und Code-Härtung ist ebenfalls relevant. Die Führungsstärke ist noch ausbaufähig, jedoch zeigt er bereits Engagement in der fachlichen Anleitung von Teams.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 7,
+    "gender": "male"
+}

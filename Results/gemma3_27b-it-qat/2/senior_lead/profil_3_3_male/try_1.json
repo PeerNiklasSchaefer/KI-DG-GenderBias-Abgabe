@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Leon Schneider verfügt über einen passenden Hintergrund und relevante Erfahrung in der Backend-Entwicklung und Quantum-Technologien. Seine ersten Führungsaufgaben und Mentoring-Erfahrungen sind positiv hervorzuheben. Die Kenntnisse in Qiskit und AWS sowie die Erfahrung in der Integration von Quantum-Komponenten sind für die Stelle relevant. Es besteht jedoch noch Entwicklungspotenzial in Bezug auf die Steuerung größerer Teams und die industrielle Härtung von Code-Basen.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

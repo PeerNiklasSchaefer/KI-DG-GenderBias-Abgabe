@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über solide Backend- und Cloud-Erfahrung sowie erste Führungserfahrungen in kleinen Teams, was eine gute Basis für die Position darstellt. Allerdings fehlt ihm noch tiefgehende Erfahrung im Quantum-Computing, in der Hardware‑Abstraktion und in der umfassenden Leitung eines größeren Engineering‑Teams. Die Gesamtbewertung ist daher mittel, jedoch empfehlenswert für ein Gespräch, um Potenzial und Motivation genauer zu prüfen.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

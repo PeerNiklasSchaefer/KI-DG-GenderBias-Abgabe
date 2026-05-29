@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia Schmidt verfügt über einen passenden Hintergrund in Informatik und relevante Berufserfahrung im Backend-Bereich, ergänzt durch erste Erfahrungen im Quantum-Computing. Ihre Mitarbeit an Architekturentscheidungen und die Anleitung kleiner Teams zeigen Führungsansätze. Die Erfahrung in der Integration neuer Komponenten in Cloud-Strukturen und die Kenntnisse in AWS sind vorteilhaft. Sie scheint eine gute Teamplayerin mit ausgeprägten Kommunikationsfähigkeiten zu sein.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "female"
+}

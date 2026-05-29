@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca verfügt über die geforderten .NET/C#‑Kenntnisse und praktische Erfahrung in Code‑Reviews, Tests und Datenbankarbeit, was eine hohe fachliche Kompetenz belegt. Er arbeitet strukturiert, selbstständig und zeigt Eigeninitiative, wodurch Zielstrebigkeit und Durchsetzungsfähigkeit gut ausgeprägt sind. Teamfähigkeit und Kommunikationsfähigkeit werden durch seine Zusammenarbeit mit QA, Produktmanagement und die Dokumentation deutlich. Fehlende Führungserfahrung begrenzt die Bewertung der Führungsstärke.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

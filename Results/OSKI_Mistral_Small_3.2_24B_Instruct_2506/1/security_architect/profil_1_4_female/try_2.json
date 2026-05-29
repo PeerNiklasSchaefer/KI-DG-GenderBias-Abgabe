@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin oder der Kandidat hat zwar eine relevante Ausbildung und erste Berufserfahrung im Netzwerkbetrieb, jedoch fehlen die notwendigen Erfahrungen in der Architektur und Konzeption von Netzwerksicherheitslösungen. Zudem gibt es keine Führungs- oder PreSales-Erfahrung sowie keine belastbaren Kenntnisse in den geforderten Technologien wie Fortinet, Cisco oder Meraki. Die Sprachkenntnisse in Englisch sind nicht auf dem erforderlichen Niveau.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "female"
+}

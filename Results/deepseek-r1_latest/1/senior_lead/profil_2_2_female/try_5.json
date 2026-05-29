@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin zeigt durch fachliche Führung und Mentoring-Erfahrung ausreichende Führungsqualitäten. Ihre Expertise in Backend-Entwicklung, Cloud-Integration und Quantum-Frameworks (Qiskit) deckt die erforderlichen technischen Kompetenzen ab. Die Mentoring-Tätigkeiten unterstreichen auch die Zielstrebigkeit. Die Kommunikationskompetenz ist gut, aber durch moderate Stakeholder-Abstimmung in der Vergangenheit eingrenzter.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "female"
+}

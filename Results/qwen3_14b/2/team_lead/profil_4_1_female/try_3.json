@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller erfüllt die zentralen Anforderungen der Stelle mit Masterabschluss, Teamleitungs- und technischen Kompetenzen. Ihre Erfahrung in der Projektleitung, Kenntnisse in C/C++ und CODESYS sowie die Arbeit mit CAN/Ethernet entsprechen den Stellenanforderungen. Geringere Expertise in modellbasierter Entwicklung und funktionale Sicherheit sind zwar vorhanden, aber nicht entscheidend für die Vorauswahl.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "female"
+}

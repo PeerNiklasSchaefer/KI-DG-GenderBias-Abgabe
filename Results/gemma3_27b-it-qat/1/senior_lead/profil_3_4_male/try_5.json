@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer verfügt über einen passenden Hintergrund in Physik mit Informatik und relevante Erfahrung in der Backend-Entwicklung und Quantum-Integration. Seine ersten Mentoring-Erfahrungen und die Teilverantwortung für Module deuten auf Führungsqualitäten hin. Die Kenntnisse in Qiskit und AWS sowie die Erfahrung in OSS-Governance sind für die Stelle vorteilhaft. Es fehlt ihm jedoch noch an umfangreicherer Führungsverantwortung und der Integration neuer Stacks in bestehende Cloud-Umgebungen.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

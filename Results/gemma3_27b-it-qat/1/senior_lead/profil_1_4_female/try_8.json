@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin verfügt über einen passenden Hintergrund in Physik/Informatik mit Quantum-Bezug und mehrjährige Erfahrung in der Quantum-Entwicklung. Sie hat erste Erfahrungen in der technischen Anleitung von Teammitgliedern und zeigt ein gutes Verständnis für die Integration von Forschungsergebnissen in industrielle Produkte. Ihre Kompetenz im Bereich Python und Cloud-Technologien ist vorhanden, könnte aber im Detail noch vertieft werden.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 8,
+    "gender": "female"
+}

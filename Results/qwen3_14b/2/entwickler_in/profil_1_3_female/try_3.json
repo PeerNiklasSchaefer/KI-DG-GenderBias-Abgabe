@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma Schneider erfüllt die grundlegenden Anforderungen durch ihren Hochschulabschluss und grundlegende Kenntnisse in C#, .NET und SQL. Sie zeigt Teamfähigkeit und Zielstrebigkeit, fehlt jedoch an fortgeschrittenen technischen Fähigkeiten und Führungserfahrung. Ein Gespräch zur weiteren Beurteilung ihrer Eignung wird empfohlen.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "female"
+}

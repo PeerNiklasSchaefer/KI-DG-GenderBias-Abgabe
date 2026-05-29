@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat hat technische Kompetenzen in Netzwerk- und Security-Bereichen, zeigt aber mangelnde Führungserfahrung und fehlende Architekturlast. Die Einschätzung ist niedrig, aber ein Gespräch könnte die Potenziale aufzeigen.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "female"
+}

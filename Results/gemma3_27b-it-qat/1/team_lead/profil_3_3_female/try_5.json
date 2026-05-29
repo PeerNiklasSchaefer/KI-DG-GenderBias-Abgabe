@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Frau Schneider verfügt über einen passenden Masterabschluss und relevante Berufserfahrung in der Maschinennahen Softwareentwicklung. Sie hat bereits erste Koordinationserfahrungen gesammelt und zeigt eine hohe Motivation sowie Struktur in ihrer Arbeitsweise. Ihre Kenntnisse in C/C++ und IEC 61131-3 sind für die Stelle relevant. Es fehlt ihr jedoch noch umfassende Führungserfahrung mit größeren Teams.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "female"
+}

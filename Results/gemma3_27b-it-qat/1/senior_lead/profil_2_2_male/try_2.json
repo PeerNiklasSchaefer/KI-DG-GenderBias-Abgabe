@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über fundierte technische Kompetenzen im Bereich Backend-Entwicklung und Cloud-Technologien, die für die Position relevant sind. Seine Erfahrung mit Qiskit und quantum-nahen Projekten ist ein deutlicher Pluspunkt. Die fachliche Führung kleiner Teams und Mentoring-Erfahrung passen gut zum Anforderungsprofil, allerdings ist die Führungserfahrung nicht sehr ausgeprägt. Insgesamt eine sehr gute Eignung für ein Vorstellungsgespräch.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

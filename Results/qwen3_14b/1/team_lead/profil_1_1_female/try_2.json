@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Sophia Müller verfügt über den notwendigen akademischen Abschluss, jedoch fehlen die erforderliche Berufserfahrung in Führungspositionen mit mindestens drei Teammitgliedern und tiefgehende Kenntnisse in Softwarearchitektur sowie funktionale Sicherheit. Ihre technischen Fähigkeiten sind grundlegend, aber nicht ausreichend für die komplexen Anforderungen der Stelle.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "female"
+}

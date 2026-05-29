@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer zeigt starke Kompetenzen in den Bereichen Quantencomputing und Backend-Entwicklung, die gut zur Stellenbeschreibung passen. Seine Erfahrung in der technischen Anleitung kleiner Teams und seine Fähigkeit, forschungsnahe Projekte in produktnahe Lösungen zu überführen, sind besonders hervorzuheben. Allerdings fehlt ihm bisher die umfassende Erfahrung in der Führung größerer Teams und der Integration neuer Stacks in bestehende Cloud-Umgebungen, was die Bewertung in Führungsstärke und Durchsetzungsfähigkeit leicht reduziert.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

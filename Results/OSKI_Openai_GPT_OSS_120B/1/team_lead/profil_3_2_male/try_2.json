@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die fachlichen Mindestanforderungen (Master, C/C++, Grundkenntnisse in IEC 61131-3, CAN/Ethernet) und hat Erfahrung in der Koordination kleiner Arbeitspakete. Formal fehlt jedoch nachweisbare disziplinarische Führung von mehr als drei Teammitgliedern sowie tiefgehende Expertise in funktionaler Sicherheit. Trotz dieser Lücken ist das Profil für ein erstes Gespräch geeignet, um Potenzial und Führungsfähigkeit genauer zu prüfen.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über grundlegende .NET/C#-Kenntnisse und zeigt Motivation sowie gute Teamfähigkeit, jedoch fehlt ihm Führungserfahrung und tiefgehende technische Expertise, weshalb er für ein Gespräch, aber nicht als Top-Kandidat eingestuft wird.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

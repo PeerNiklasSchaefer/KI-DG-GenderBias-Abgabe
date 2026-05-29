@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Matteo Schmidt zeigt eine gute technische Eignung für die Stelle, insbesondere durch seine Ausbildung und ersten Berufserfahrungen in der Softwareentwicklung für maschinennahe Anwendungen. Seine Kenntnisse in C/C++, CODESYS und industriellen Protokollen wie CAN und Ethernet sind relevant. Allerdings hat er noch begrenzte Führungserfahrung und keine disziplinarische Verantwortung, was für die geforderte Team- und Projektleitungsrolle eine Herausforderung darstellen könnte. Seine Zielstrebigkeit und Teamfähigkeit sind vielversprechend, aber seine Durchsetzungsfähigkeit und Führungsstärke müssen noch weiter entwickelt werden.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

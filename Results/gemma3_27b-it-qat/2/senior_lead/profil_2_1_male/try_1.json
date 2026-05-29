@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über eine sehr hohe fachliche Kompetenz im Bereich Backend-Entwicklung und erste Erfahrungen im Quantum Computing. Seine Erfahrung mit Qiskit und AWS sowie die Mitarbeit an einem relevanten Projekt sind hervorzuheben. Die fachliche Führungsrolle in Teilprojekten und Mentoring-Erfahrung passen gut zur Stelle. Eine stärkere Führungserfahrung im klassischen Sinne ist nicht ersichtlich, sollte aber im Gespräch weiter erfragt werden.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "male"
+}

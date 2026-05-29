@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin erfüllt die technischen Anforderungen durch C#- und .NET-Kenntnisse sowie SQL-Erfahrung. Ihre Teamfähigkeit und Zielstrebigkeit passen zum Profil eines Junior-Entwicklers. Die geringe Führungs- und Durchsetzungserfahrung sowie die mäßige Kommunikation sind Einschränkungen.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "female"
+}

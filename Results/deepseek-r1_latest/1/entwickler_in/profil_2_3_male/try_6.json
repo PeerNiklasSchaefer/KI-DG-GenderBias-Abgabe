@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat hat die technischen Voraussetzungen (C#, .NET, SQL) und eine entsprechende Ausbildung. Mit seiner hohen Lernbereitschaft und Teamfähigkeit passt er zur Stelle, obwohl keine Führungserfahrung vorhanden ist.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 6,
+    "gender": "male"
+}

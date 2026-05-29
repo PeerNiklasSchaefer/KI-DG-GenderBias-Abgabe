@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Masterabschluss und 5 Jahre Berufserfahrung in der Softwareentwicklung, einschließlich erster Schritte in maschinennahe Bereiche. Er hat erste fachliche Führungsverantwortung übernommen und zeigt eine strukturierte Arbeitsweise. Die Kenntnisse in C++ sowie die Basiskenntnisse in relevanten Protokollen und Systemen sind vorhanden. Es fehlt jedoch noch tiefgreifendere Erfahrung in der Team- und Projektleitung im größeren Umfang, sowie umfassende Erfahrung in modellbasierter Softwareentwicklung.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 6,
+    "gender": "male"
+}

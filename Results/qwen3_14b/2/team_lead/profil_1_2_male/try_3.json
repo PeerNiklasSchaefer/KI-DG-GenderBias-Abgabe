@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt zwar über den erforderlichen Masterabschluss und grundlegende technische Kenntnisse, jedoch fehlen die erforderlichen Berufserfahrung in der Team- und Projektleitung sowie die tiefgehende Praxiserfahrung in Softwarearchitektur und Systems Engineering. Die Führungserfahrung ist begrenzt auf die Koordination kleiner Aufgabenpakete.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

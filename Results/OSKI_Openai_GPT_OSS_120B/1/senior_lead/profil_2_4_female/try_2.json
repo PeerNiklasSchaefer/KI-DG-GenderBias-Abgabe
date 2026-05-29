@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer bringt fundierte Backend‑ und Cloud‑Erfahrung sowie erste Quantum‑Projekte mit Qiskit mit und hat bereits fachliche Führung und Mentoring in kleinen Teams gezeigt. Ihre Kommunikationsfähigkeiten in Deutsch und Englisch sowie ihre Erfahrung in Code‑Governance passen gut zur Rolle. Fehlende Erfahrung in großflächiger Hardware‑Abstraktion und in der Leitung größerer Engineering‑Teams stellt jedoch eine Lücke dar. Ein Gespräch ist empfehlenswert, um die Passung im Detail zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "female"
+}

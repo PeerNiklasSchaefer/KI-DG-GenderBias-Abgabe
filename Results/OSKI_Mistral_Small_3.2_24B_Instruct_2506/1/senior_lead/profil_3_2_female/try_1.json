@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia Schmidt zeigt eine starke technische Kompetenz im Bereich Quantencomputing und Backend-Entwicklung, was gut zur Stellenbeschreibung passt. Ihre Erfahrung in der Integration von Quantum-Komponenten und ihre ersten Führungs- und Mentoring-Erfahrungen sind vielversprechend. Allerdings fehlen ihr tiefgehende Cloud-Integrationserfahrungen und vollständige Open-Source-Governance-Kenntnisse, was die Bewertung in diesen Bereichen leicht senkt. Ihre Sprachkenntnisse in Englisch sind ausreichend, aber nicht auf dem höchsten Niveau.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "female"
+}

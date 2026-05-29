@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Skills (C#, .NET, SQL) und zwei Jahre Berufserfahrung im Softwareentwicklungsprozess. Die Teamfähigkeit und Zielstrebigkeit sind positiv hervorzuheben. Die mangelnde Führungs- und Durchsetzungserfahrung wird durch andere Stärken ausgeglichen.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "male"
+}

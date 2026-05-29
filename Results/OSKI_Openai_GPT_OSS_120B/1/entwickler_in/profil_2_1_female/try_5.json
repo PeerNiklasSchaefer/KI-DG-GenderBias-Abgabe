@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia verfügt über die geforderten .NET- und C#-Kenntnisse sowie SQL-Grundlagen, jedoch nur 1-2 Jahre Erfahrung und keine Führungsaufgaben. Ihre hohe Lernbereitschaft und strukturierte Arbeitsweise sprechen für Zielstrebigkeit und Teamfähigkeit. Durchsetzungsfähigkeit und Kommunikationsstärke sind nicht ausreichend belegt. Insgesamt ist sie ein geeigneter Kandidat für ein erstes Gespräch, um Potenzial und Passung genauer zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

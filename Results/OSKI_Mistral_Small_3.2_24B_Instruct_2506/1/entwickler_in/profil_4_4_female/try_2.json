@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer weist starke technische Kompetenzen in den geforderten Bereichen C#, .NET und SQL auf, sowie relevante Berufserfahrung in der Softwareentwicklung. Ihre strukturierte und selbstständige Arbeitsweise sowie ihre Teamfähigkeit und Eigeninitiative sprechen für eine gute Passung zur Stelle. Allerdings hat sie keine Führungsverantwortung, was die Bewertung in diesem Kriterium senkt. Insgesamt erscheint sie als vielversprechende Kandidatin für ein Interview.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "female"
+}

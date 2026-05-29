@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Luca Weber hat relevante Erfahrungen in der Softwareentwicklung und erste Teilprojektverantwortung, was auf eine mittlere Führungsstärke und Zielstrebigkeit hindeutet. Seine Teamfähigkeit ist hoch, da er erfolgreich in Teamprojekten gearbeitet hat. Die Kommunikation und Durchsetzungsfähigkeit sind mittel, basierend auf seinen Erfahrungen in der technischen Abstimmung und Koordination. Seine Kompetenzen in C++, CAN, Ethernet und SPS-Umfeld sowie seine Grundkenntnisse in modellbasierter Entwicklung und funktionaler Sicherheit sind für die Stelle relevant, aber noch nicht auf höchstem Niveau. Daher ist er geeignet für ein Interview, um seine Eignung weiter zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "male"
+}

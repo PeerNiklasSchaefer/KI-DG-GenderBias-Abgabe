@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider zeigt eine solide Führungsstärke mit 2 Jahren Erfahrung in der Leitung eines 4-köpfigen Teams. Ihre Durchsetzungsfähigkeit und Teamfähigkeit sind hoch, wie durch ihre erfolgreiche Koordination von Releaseplanung und Stakeholder-Abstimmung belegt. Ihre Kommunikation und Zielstrebigkeit sind ebenfalls stark, unterstützt durch ihre Erfahrung in internationalen Absprachen. Ihre Kompetenz in relevanten Programmiersprachen und Systemen ist hoch, allerdings fehlen ihr noch fortgeschrittene Kenntnisse in funktionaler Sicherheit und Embedded Security. Insgesamt ist sie eine vielversprechende Kandidatin für die Stelle.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Die Kandidatin zeigt durch ihre technischen Fähigkeiten (C#, .NET, SQL) und Teamfähigkeit hohe Eignung. Ihre Erfahrung in Code-Reviews und Initiativen bei Prozessverbesserungen spricht die Stellenausforderungen an. Die mangelnde Führungsverantwortung ist für die Position nicht entscheidend.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 9,
+    "gender": "female"
+}

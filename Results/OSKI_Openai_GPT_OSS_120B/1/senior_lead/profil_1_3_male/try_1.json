@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Leon Schneider verfügt über solide Erfahrung in Quantum‑Software und Backend‑Entwicklung sowie erste Führungserfahrungen in kleinen Teams. Die technischen Kenntnisse decken Python, Qiskit und grundlegende Cloud‑Deployments ab, jedoch fehlt tiefgehende Erfahrung mit großen Cloud‑Plattformen und hardware‑seitiger QPU‑Integration. Kommunikationsfähigkeiten in Deutsch und Englisch sind sehr gut, und er zeigt Zielstrebigkeit bei der Umsetzung von Prototypen zu produktnahen Piloten. Insgesamt ist er ein vielversprechender Kandidat, der im Gespräch weiter evaluiert werden sollte.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

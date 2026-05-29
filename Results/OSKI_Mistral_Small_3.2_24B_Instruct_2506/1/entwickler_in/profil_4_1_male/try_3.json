@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller zeigt starke technische Kompetenzen in C#, .NET und SQL, die gut zur Stellenbeschreibung passen. Seine Erfahrung in der Softwareentwicklung und seine Fähigkeit, selbstständig und strukturiert zu arbeiten, sind hervorzuheben. Er hat keine Führungsverantwortung, was die Bewertung in diesem Kriterium senkt, aber seine Teamfähigkeit und Kommunikation sind ausgezeichnet. Seine zielstrebige und lösungsorientierte Arbeitsweise macht ihn zu einem vielversprechenden Kandidaten für die Position.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

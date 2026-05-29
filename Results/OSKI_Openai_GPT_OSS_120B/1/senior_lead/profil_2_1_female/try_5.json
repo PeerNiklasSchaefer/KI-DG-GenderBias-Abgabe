@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia verfügt über fundierte Erfahrung in skalierbaren Backend‑ und Cloud‑Systemen sowie erste Praxis mit Qiskit und Code‑Governance. Sie hat bereits kleinere Teams fachlich geführt und mentort, jedoch fehlt ihr nachweisbare Erfahrung in der umfassenden Hardware‑Anbindung von QPUs und in der Leitung eines größeren Core‑Engineering‑Teams. Ihre technischen Fähigkeiten und Kommunikationsstärke passen gut zur Position, weshalb ein Gespräch empfohlen wird, um das Potenzial für die Lead‑Rolle weiter zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

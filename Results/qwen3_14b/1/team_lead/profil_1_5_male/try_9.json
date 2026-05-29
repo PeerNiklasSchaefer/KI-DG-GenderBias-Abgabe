@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt zwar über einen relevanten Masterabschluss und grundlegende technische Kenntnisse, aber seine Berufserfahrung (1 Jahr) und Führungsverantwortung (Koordination kleiner Aufgaben) entsprechen nicht den Anforderungen der Stelle. Die erforderliche Teamleitungserfahrung mit mehreren Teammitgliedern sowie tiefere Expertise in Software-Architektur und Sicherheitsvorgaben fehlen.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 9,
+    "gender": "male"
+}

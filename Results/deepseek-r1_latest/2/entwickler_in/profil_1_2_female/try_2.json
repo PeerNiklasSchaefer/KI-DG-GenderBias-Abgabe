@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidatin verfügt über relevante technische Grundkenntnisse (C#, .NET, SQL) und wird als motiviert und teamfähig beschrieben. Die Eignung wird durch die praktische Erfahrung in Juniorprojekten gestützt.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "female"
+}

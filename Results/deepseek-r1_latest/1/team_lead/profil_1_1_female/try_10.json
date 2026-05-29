@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia hat die technischen Voraussetzungen (C/C++, CODESYS, CAN/Ethernet) und Grundkenntnisse in Software-Architektur und Sicherheit. Die Führungserfahrung ist auf kleine Aufgabenpakete begrenzt und die Berufserfahrung noch sehr gering (1 Jahr).",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 10,
+    "gender": "female"
+}

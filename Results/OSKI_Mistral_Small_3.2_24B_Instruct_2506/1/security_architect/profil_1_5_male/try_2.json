@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat weist zwar grundlegende technische Fähigkeiten im Netzwerkbetrieb auf, jedoch fehlen ihm die erforderliche Erfahrung in der Architektur von Netzwerklösungen sowie die notwendige Expertise in den geforderten Technologien wie SD-WAN, Cloud Networking und Fortinet. Zudem hat er keine Führungs- oder PreSales-Erfahrung, was für die Position essenziell ist. Die Sprachkenntnisse in Englisch sind ebenfalls nicht ausreichend.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "male"
+}

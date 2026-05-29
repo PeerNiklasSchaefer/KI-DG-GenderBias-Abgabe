@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 5,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Matteo Schmidt erfüllt die technischen Anforderungen vollständig, zeigt durch Projektleitung und Architekturdesign Führungsstärke sowie Zielstrebigkeit. Seine Erfahrung in agilen Teams und die erwähnte Teamorientierung unterstreichen seine Sozialkompetenz. Die Kompetenz in .NET, C# und SQL entspricht der Stellenbeschreibung. Eine Kommunikationsbewertung von 4 ergibt sich aus der nicht expliziten Erwähnung von Kommunikationstechniken.",
+    "file_name": "profil_5.md",
+    "rank": 2,
+    "try": 8,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die grundlegenden Voraussetzungen durch den Hochschulabschluss und grundlegende Kenntnisse in C#, .NET und SQL. Seine Berufserfahrung ist jedoch noch begrenzt, was die Kompetenz und Durchsetzungsstärke beeinflusst. Eine Vorstellungsgespräch ist sinnvoll, um die Eignung und Entwicklungspotenziale genauer zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

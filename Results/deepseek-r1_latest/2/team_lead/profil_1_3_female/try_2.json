@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin hat keine ausreichende Führungserfahrung mit mehr als 3 Teammitgliedern und fehlende relevante Projekterfahrung in der Softwareentwicklung. Die technischen Fähigkeiten liegen aufgrund mangelnder praktischer Umsetzung in der Software-Architektur und modellbasierter Entwicklung noch im Grundniveau.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "female"
+}

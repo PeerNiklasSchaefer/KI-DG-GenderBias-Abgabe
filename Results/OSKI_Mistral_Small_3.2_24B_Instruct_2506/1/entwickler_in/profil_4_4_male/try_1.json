@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer weist eine solide technische Kompetenz in den geforderten Bereichen C#, .NET und SQL auf, die gut zur Stellenbeschreibung passt. Seine Erfahrung in der Softwareentwicklung, insbesondere in der Durchführung von Code-Reviews und der Qualitätssicherung, ist ein Pluspunkt. Die Bewertung der Führungsstärke ist gering, da keine Führungsverantwortung vorliegt, was jedoch für die ausgeschriebene Position nicht zwingend erforderlich ist. Seine Teamfähigkeit, Kommunikation und Zielstrebigkeit werden als hoch eingeschätzt, basierend auf den beschriebenen Projekterfahrungen und der strukturierten Arbeitsweise.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "male"
+}

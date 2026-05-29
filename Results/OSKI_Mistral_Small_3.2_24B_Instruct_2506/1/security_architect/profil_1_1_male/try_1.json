@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat weist zwar relevante Grundkenntnisse im Netzwerkbetrieb auf, jedoch fehlen ihm die für die Stelle erforderlichen mehrjährigen Erfahrungen in der Architektur von Netzwerk- und Securitylösungen sowie die notwendige Expertise in aktuellen Technologien wie SD-WAN, Cloud Networking und Fortinet. Zudem fehlen ihm Führungs- und PreSales-Erfahrungen sowie fortgeschrittene Kenntnisse in Network Automation und Monitoring.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "male"
+}

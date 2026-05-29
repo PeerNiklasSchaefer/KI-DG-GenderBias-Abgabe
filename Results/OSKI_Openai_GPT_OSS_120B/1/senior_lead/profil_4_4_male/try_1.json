@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über relevante Backend- und Cloud-Erfahrung sowie erste Führungserfahrung und hat bereits quantum-nahe Projekte umgesetzt. Fehlende tiefgehende Cloud‑Native‑ und Hardware‑Anbindungskenntnisse sowie umfassende Erfahrung in der industriellen Härtung von Open‑Source‑Code reduzieren die Passgenauigkeit, jedoch lohnt ein Gespräch, um Potenzial und Lernbereitschaft zu prüfen.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "male"
+}

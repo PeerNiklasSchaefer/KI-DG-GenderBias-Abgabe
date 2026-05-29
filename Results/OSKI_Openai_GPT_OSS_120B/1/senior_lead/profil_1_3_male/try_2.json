@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Leon Schneider verfügt über solide Fachkenntnisse in Quantum Computing und Backend-Entwicklung sowie gute Kommunikationsfähigkeiten in Deutsch und Englisch. Seine Führungserfahrung beschränkt sich bislang auf die technische Anleitung kleiner Teams, sodass die Anforderungen an eine umfassende Teamleitung noch nicht vollständig erfüllt sind. Die vorhandenen Cloud‑ und OSS‑Governance‑Kenntnisse sind grundlegend, aber nicht tiefgehend genug für die strategische Integration in die STACKIT‑Plattform. Ein Gespräch ist empfehlenswert, um das Potenzial für den Aufbau und die Führung eines größeren Engineering‑Teams sowie die Tiefe seiner Cloud‑Expertise zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "male"
+}

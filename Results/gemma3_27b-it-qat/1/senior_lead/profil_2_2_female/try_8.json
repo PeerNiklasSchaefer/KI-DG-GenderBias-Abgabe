@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Emilia Schmidt verfügt über eine sehr hohe fachliche Kompetenz im Bereich Backend-Entwicklung und erste Erfahrungen im Quantum Computing. Ihre Erfahrung mit Qiskit und AWS ist relevant. Die fachliche Führungs- und Mentoringerfahrung ist vorhanden, jedoch begrenzt auf kleinere Arbeitspakete. Sie scheint eine gute Teamplayerin und kommunikationsfähig zu sein.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 8,
+    "gender": "female"
+}

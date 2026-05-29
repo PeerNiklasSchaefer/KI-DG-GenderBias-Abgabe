@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Mia verfügt über grundlegende C#/.NET- und SQL-Kenntnisse sowie Motivation und Zuverlässigkeit, passt jedoch aufgrund fehlender Erfahrung und Führungsqualitäten eher zu einer Junior-Position. Ein Gespräch lohnt sich, um Potenzial und Lernbereitschaft genauer zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Theo bringt solide Backend‑ und Cloud‑Erfahrung sowie erste Führung in kleinen Teams mit und hat bereits Quantum‑Integrationen umgesetzt. Fehlende tiefgehende Erfahrung in hardware‑seitiger QPU‑Anbindung und im Aufbau größerer Engineering‑Teams reduziert die Passgenauigkeit, jedoch lohnt ein Gespräch, um Potenzial und Motivation zu prüfen.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

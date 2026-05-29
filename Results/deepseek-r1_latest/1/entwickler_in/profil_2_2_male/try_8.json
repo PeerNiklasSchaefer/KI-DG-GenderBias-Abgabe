@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Technische Skills (C#, .NET, SQL) passen zur Stelle. Teamfähigkeit und Zielstrebigkeit sind positiv. Keine Führungserfahrung und geringe Initiative/Initiativräume verringern die Eignung.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 8,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia verfügt über relevante Expertise in Quantencomputing, Python und Qiskit sowie erste Mentoring-Erfahrungen. Ihre Cloud-Erfahrung und Führungsverantwortung sind jedoch begrenzt, was eine tiefergehende Prüfung im Gespräch erforderlich macht.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "female"
+}

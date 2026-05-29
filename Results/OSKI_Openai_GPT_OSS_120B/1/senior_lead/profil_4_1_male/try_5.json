@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über solide Backend- und Cloud-Erfahrung sowie erste Führungserfahrung in kleinen Teams, was ihn für die Teamführung qualifiziert. Seine Quantum‑Kenntnisse (Qiskit) und erste OSS‑Governance‑Erfahrungen passen zum Projekt, jedoch fehlt tiefgehende Erfahrung mit Cloud‑Native-Architekturen und Hardware‑Abstraktion. Kommunikationsfähigkeiten in Deutsch und Englisch sind gut ausgeprägt. Insgesamt ist er ein vielversprechender Kandidat für ein erstes Gespräch, jedoch nicht die ideale Passung für die volle Lead‑Rolle.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

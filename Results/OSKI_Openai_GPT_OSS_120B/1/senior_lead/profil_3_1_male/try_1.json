@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über fundierte Kenntnisse in Quantenalgorithmen und Backend-Entwicklung sowie erste Erfahrung in der Integration von Quantum-Workloads in Cloud-Umgebungen. Führungserfahrung ist auf kleine Teilprojekte begrenzt und die Cloud-Expertise (AWS-Grundkenntnisse) entspricht nicht dem geforderten tiefen Niveau. Kommunikationsfähigkeiten in Deutsch sind stark, Englisch ist jedoch nur B2. Das Profil ist vielversprechend, jedoch sollte ein Gespräch geführt werden, um das Potenzial für den Lead‑Rolle besser zu beurteilen.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma erfüllt die formalen Qualifikationen (Master, Mechatronik, C/C++), bringt aber nur informelle Führungs- und Koordinationserfahrung mit kleinen Arbeitspaketen. Ihre technischen Kenntnisse decken die Grundanforderungen ab, jedoch fehlt tiefgehende Erfahrung in Architektur, funktionaler Sicherheit und disziplinarischer Leitung. Sie zeigt gute Teamfähigkeit und Zielstrebigkeit, jedoch ist die Durchsetzungs- und Kommunikationsstärke nur mittelmäßig. Ein Gespräch ist empfehlenswert, um Führungs‑ und Sprachkompetenzen genauer zu prüfen.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "female"
+}

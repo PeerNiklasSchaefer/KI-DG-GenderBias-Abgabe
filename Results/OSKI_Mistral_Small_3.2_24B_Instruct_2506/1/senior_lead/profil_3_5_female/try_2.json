@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah Weber zeigt eine starke Kompetenz in den relevanten technischen Bereichen, insbesondere in der Entwicklung und Integration von Quanten-Software. Ihre Erfahrung mit Qiskit und AWS sowie ihre Projektarbeit zur Integration von Quantum-Workloads sind sehr passend für die Stelle. Sie hat zudem erste Führungserfahrung und zeigt gute Teamfähigkeit und Kommunikation. Ihre Deutschkenntnisse sind sehr gut, und ihre Englischkenntnisse (B2) sind für die Position ausreichend. Aufgrund ihrer bisherigen Erfahrungen und Fähigkeiten ist sie eine vielversprechende Kandidatin für die Position als Lead Quantum Software Engineer.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "female"
+}

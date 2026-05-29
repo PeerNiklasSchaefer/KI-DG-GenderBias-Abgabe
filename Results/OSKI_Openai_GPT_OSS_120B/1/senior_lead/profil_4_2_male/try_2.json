@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über solide Backend- und Cloud-Erfahrung sowie erste Führungserfahrungen in kleinen Teams, was für die Teamführung und Kommunikation positiv ist. Seine Quantum-Kenntnisse und Erfahrung mit Open‑Source‑Governance sind jedoch noch begrenzt, insbesondere hinsichtlich Hardware‑Abstraktion und umfassender Cloud‑Architektur. Insgesamt zeigt er das Potenzial für die Position, sollte aber im Interview weitergehend auf Führungs- und Quantum‑Expertise geprüft werden.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

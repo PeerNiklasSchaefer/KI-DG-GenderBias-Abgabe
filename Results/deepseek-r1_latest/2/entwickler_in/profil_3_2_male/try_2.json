@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über die erforderlichen technischen Skills (.NET, C#, SQL) und zeigt Selbstständigkeit. Mit zwei Jahren Erfahrung in Softwareentwicklung und Teamprojekten ist die Eignung hoch. Die Bewertung der Teamfähigkeit und Kommunikation ist aufgrund fehlender Führungserfahrung moderat.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

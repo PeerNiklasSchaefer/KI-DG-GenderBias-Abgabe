@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Theo Fischer zeigt gute Teamfähigkeit und relevante technische Kompetenzen in C# und .NET, die für die Stelle erforderlich sind. Allerdings hat er noch wenig Berufserfahrung und keine Führungsverantwortung, was seine Bewertung in diesen Kriterien senkt. Seine strukturierte Arbeitsweise und Lernbereitschaft sind positiv hervorzuheben, sodass ein Vorstellungsgespräch sinnvoll erscheint.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "male"
+}

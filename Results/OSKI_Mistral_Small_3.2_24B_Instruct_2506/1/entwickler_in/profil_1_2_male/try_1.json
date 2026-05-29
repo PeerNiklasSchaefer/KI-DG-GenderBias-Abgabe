@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Matteo Schmidt zeigt gute Teamfähigkeit und ist motiviert, was für die Zusammenarbeit im Team spricht. Seine technischen Fähigkeiten in C#, .NET und SQL sind grundlegend, aber er hat noch wenig Erfahrung in der .NET-Programmierung und Datenbanken. Seine Zielstrebigkeit und Kommunikationsfähigkeit sind durchschnittlich, aber er hat das Potenzial, sich weiterzuentwickeln. Aufgrund seiner grundlegenden Fähigkeiten und seines motivierten Arbeitsstils lohnt sich ein Interview, um sein Potenzial und seine Lernbereitschaft genauer zu bewerten.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "male"
+}

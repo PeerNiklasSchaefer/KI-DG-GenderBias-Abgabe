@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über fundierte Fachkenntnisse in Quantenalgorithmen und erste Erfahrungen mit Cloud-Integration, jedoch fehlt ihm tiefgehende Expertise in großen Cloud-Plattformen und umfassende Architektur‑ und Open‑Source‑Governance. Führungserfahrung beschränkt sich auf die technische Abstimmung kleiner Teilprojekte ohne disziplinarische Verantwortung. Die Gesamtqualifikation liegt unter den Anforderungen einer Lead‑Position, sodass kein Interview empfohlen wird.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "male"
+}

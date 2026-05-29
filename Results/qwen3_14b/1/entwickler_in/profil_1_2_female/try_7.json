@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin erfüllt die grundlegenden Anforderungen durch ihren Hochschulabschluss und grundlegende Kenntnisse in C#, .NET und SQL. Ihre Erfahrung ist jedoch auf einfache Aufgaben begrenzt, und Führungsverantwortung fehlt. Die Teamfähigkeit und Motivation sprechen für eine weitere Prüfung, da sie potenziell förderbar ist.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 7,
+    "gender": "female"
+}

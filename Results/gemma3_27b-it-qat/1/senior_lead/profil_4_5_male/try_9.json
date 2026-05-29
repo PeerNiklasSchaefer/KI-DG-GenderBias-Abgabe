@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Luca Weber verfügt über eine sehr gute technische Basis und relevante Erfahrung in Backend-Entwicklung und Cloud-Integration. Seine ersten Lead-Anteile und die Mitarbeit an Architekturentscheidungen sind positiv hervorzuheben. Die Erfahrung mit Qiskit und AWS ist für die Stelle relevant. Die Führungsstärke ist noch ausbaufähig, da die Teamführung bisher auf fachlicher Anleitung in Teilprojekten beschränkt war.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 9,
+    "gender": "male"
+}

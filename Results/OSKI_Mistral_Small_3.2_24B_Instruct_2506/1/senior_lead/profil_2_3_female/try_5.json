@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Emma Schneider zeigt eine sehr hohe Kompetenz in den technischen Anforderungen der Stelle, insbesondere in der Entwicklung und Integration von skalierbaren Backend-Systemen und ihrer Erfahrung mit Quantum-Frameworks. Sie hat nachgewiesene Fähigkeiten in der Führung kleiner Teams und im Mentoring von Junior-Entwicklern, was ihre Teamfähigkeit und Kommunikation unterstreicht. Ihre Erfahrung in der industriellen Härtung von Code-Basen und der Integration neuer Services in Cloud-Umgebungen macht sie zu einer starken Kandidatin. Allerdings fehlt ihr disziplinarische Führungsverantwortung, was ihre Führungsstärke leicht einschränkt.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "female"
+}

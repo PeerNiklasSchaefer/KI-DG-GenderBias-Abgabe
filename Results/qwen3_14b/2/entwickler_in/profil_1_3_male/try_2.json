@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat erfüllt die grundlegenden fachlichen Anforderungen durch seinen Hochschulabschluss und erste praktische Erfahrungen in .NET/C# sowie SQL. Seine Kompetenz wird mit einer 4 bewertet, da er die technischen Grundlagen beherrscht. Die fehlende Führungsverantwortung und die begrenzte Projekterfahrung rechtfertigen eine mittlere Gesamteignung. Ein Vorstellungsgespräch wird empfohlen, um die Teamfähigkeit und Durchsetzungsstärke im Detail zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "male"
+}

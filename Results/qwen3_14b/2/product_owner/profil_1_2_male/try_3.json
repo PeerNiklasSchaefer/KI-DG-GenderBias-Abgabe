@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt zwar über grundlegende IT-Techniken und Berufserfahrung im operativen Client-Support, fehlt jedoch die fachliche Kompetenz in Produktsteuerung, Budgetverantwortung und agiler Produktentwicklung. Zudem gibt es keine Führungserfahrung, was für die Rolle des Product Owner entscheidend ist.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

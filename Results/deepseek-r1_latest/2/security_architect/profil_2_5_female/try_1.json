@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Die Kandidatin zeigte durch technische Expertise und Projekterfahrung eine hohe Kompetenz (5). Ihre Berufserfahrung in SD-WAN, Firewalls und Automation (Ansible/Terraform) deckt relevante Stellenanforderungen. Die begrenzte Führungserfahrung und Durchsetzungsfähigkeit (3) sowie das Fokus auf Betrieb statt Architektur sind Einschränkungen. Ein Gespräch könnte das Potenzial zur strategischen Ausrichtung prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "female"
+}

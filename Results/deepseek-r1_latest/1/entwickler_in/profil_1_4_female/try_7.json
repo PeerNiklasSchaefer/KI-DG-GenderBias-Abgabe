@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Mia Fischer verfügt über grundlegende C#- und .NET-Kenntnisse sowie SQL-Basics. Mit ihrem Hochschulabschluss und praktischer Erfahrung in Entwicklungsteams entspricht sie den Anforderungen, ist aber eher in einem Junior-Level.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 7,
+    "gender": "female"
+}

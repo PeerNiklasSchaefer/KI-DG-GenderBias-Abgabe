@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kenntnisse in .NET, C# und SQL sowie Erfahrung in der Softwareentwicklung. Seine Kompetenz und Zielstrebigkeit sind hoch, jedoch fehlt es an Führungserfahrung. Teamfähigkeit und Kommunikation sind ausreichend, um eine Einladung zu einem Gespräch zu rechtfertigen.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "male"
+}

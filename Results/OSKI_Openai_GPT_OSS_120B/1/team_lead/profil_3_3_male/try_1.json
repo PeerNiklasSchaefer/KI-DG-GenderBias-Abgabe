@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Leon verfügt über einen relevanten Masterabschluss und 4 Jahre Erfahrung in maschinennaher Softwareentwicklung, inklusive erster Führungsaufgaben für 2‑3 Mitarbeitende. Die technischen Kenntnisse (C/C++, IEC 61131‑3, CAN/Ethernet) decken die Grundanforderungen ab, jedoch fehlt tiefere Erfahrung in Architektur, funktionaler Sicherheit und disziplinarischer Führung. Kommunikationsfähigkeiten in Deutsch sind sehr gut, Englisch ist auf B2-Niveau. Insgesamt ist er ein vielversprechender Kandidat, dessen Potenzial im Interview weiter geprüft werden sollte.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

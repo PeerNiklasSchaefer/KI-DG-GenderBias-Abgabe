@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia verfügt über den relevanten Hochschulabschluss und grundlegende Kenntnisse in C#, .NET und SQL, was die Kompetenz und Teamfähigkeit stützt. Ihre Motivation und Zuverlässigkeit sind positiv, jedoch fehlen Führungserfahrung und umfassende Projekterfahrung, die für die Stelle relevant sind. Eine persönliche Beurteilung im Gespräch ist empfehlenswert.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 10,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 5,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Luca Weber erfüllt die gesamte Stellenanforderung durch seine Doktorqualifikation, 8 Jahre relevanter Erfahrung (3 Jahre im Quantum-Kontext), direkte Projekterfahrung im Aufbau eines Quantum Stacks mit Cloud- und Hardware-Anbindung sowie durchschnittlich 6-10 Teammitglieder. Er bringt Expertise in Qiskit, Qrisp, PennyLane und Cloud-Technologien sowie Führungserfahrung in strategischen Projekten und der industriellen Code-Härtung mit.",
+    "file_name": "profil_5.md",
+    "rank": 5,
+    "try": 6,
+    "gender": "male"
+}

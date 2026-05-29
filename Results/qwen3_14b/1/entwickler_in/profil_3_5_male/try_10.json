@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Luca Weber verfügt über die geforderten technischen Kenntnisse (.NET, C#, SQL) und relevante Erfahrung in der Softwareentwicklung. Seine Teamfähigkeit, Kommunikationsfähigkeit und Zielstrebigkeit entsprechen den Anforderungen. Aufgrund der fehlenden Führungsverantwortung wird die Führungsstärke mit 2 bewertet. Eine Vorstellungsgesprächseinladung wird empfohlen, um die Eignung weiter zu prüfen.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 10,
+    "gender": "male"
+}

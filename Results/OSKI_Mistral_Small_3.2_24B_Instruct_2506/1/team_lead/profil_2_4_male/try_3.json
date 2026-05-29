@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer hat eine solide technische Grundlage und relevante Erfahrung in der Softwareentwicklung sowie erste Führungserfahrung in Teilprojekten. Seine Kenntnisse in C++ und Grundlagen in maschinennahen Systemen wie CAN und Ethernet sind für die Stelle relevant. Allerdings fehlt ihm die Erfahrung in der disziplinarischen Führung größerer Teams und die tiefere Expertise in modellbasierten Entwicklungsmethoden, die für die Position erforderlich sind. Ein Interview würde Klarheit über seine Fähigkeit geben, die komplexen Anforderungen der Stelle zu erfüllen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

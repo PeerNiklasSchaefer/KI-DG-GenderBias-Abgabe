@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Kandidat verfügt über relevante technische Kompetenzen (Python, Qiskit, Cloud-Integration) und erste Führungs-Erfahrung. Die Eignung für die Lead-Rolle ist durch Engineering-Kenntnisse und Governance-Erfahrung gegeben.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "male"
+}

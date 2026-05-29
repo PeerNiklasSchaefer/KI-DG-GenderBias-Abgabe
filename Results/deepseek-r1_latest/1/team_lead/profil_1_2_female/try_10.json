@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin verfügt über relevante technische Kompetenzen (C/C++, CODESYS, CAN/Ethernet) und Teamfähigkeit, zeigt aber mangels Führungserfahrung mit mehr als 3 Teammitgliedern und ausreichender Durchsetzungsfähigkeit noch begrenzte Eignung.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 10,
+    "gender": "female"
+}

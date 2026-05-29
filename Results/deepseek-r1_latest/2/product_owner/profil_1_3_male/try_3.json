@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 1,
+        "Teamfaehigkeit": 2,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidat hat keine Führungserfahrung oder relevante Produktsteuerungserfahrung. Die berufliche Laufbahn liegt im operativen IT-Support ohne Budget- oder strategische Verantwortung. Die Basiskenntnisse in agilen Methoden und IT-Tools sind nicht ausreichend für die Position eines Product Owners.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "male"
+}

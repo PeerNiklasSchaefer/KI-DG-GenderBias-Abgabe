@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat bringt solide Backend- und Cloud-Erfahrung sowie erste quantum-nahe Projekte mit, erfüllt aber die geforderte Führungs- und Architekturverantwortung nur teilweise. Team- und Kommunikationsfähigkeiten sind gut ausgeprägt, während die tiefgehende Expertise im Quantum-Stack und die Erfahrung mit großen, disziplinarischen Teams noch ausbaufähig sind. Ein Interview ist sinnvoll, um die Eignung für die Leitungsrolle und die Tiefe des Quantum-Wissens genauer zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

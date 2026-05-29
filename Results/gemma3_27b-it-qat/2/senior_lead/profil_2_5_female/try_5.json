@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Hannah Weber verfügt über eine sehr gute technische Kompetenz im Bereich Backend-Entwicklung und Cloud-Technologien, ergänzt durch relevante Erfahrung im Quantencomputing. Ihre Führungsstärke zeigt sich in der fachlichen Leitung von Arbeitspaketen und dem Mentoring von Junior-Entwicklern. Die Erfahrung in der Härtung von Code-Basen und der Integration neuer Services in Cloud-Umgebungen passt gut zum Anforderungsprofil.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

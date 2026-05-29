@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die technischen Grundanforderungen (C#, .NET, SQL) und zeigt hohe Lernbereitschaft sowie strukturierte, teamorientierte Arbeitsweise. Fehlende Führungserfahrung und begrenzte Durchsetzungsfähigkeit reduzieren die Bewertung in diesen Bereichen. Insgesamt ist er für die Junior‑Position geeignet und sollte zu einem Gespräch eingeladen werden.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "male"
+}

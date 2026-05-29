@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller verfügt über einen passenden Hintergrund in Informatik und relevante Erfahrung in Backend-Entwicklung und Cloud-Technologien. Seine ersten Lead-Anteile und die Mitarbeit an Architekturentscheidungen sind positiv hervorzuheben. Die Erfahrung mit Qiskit und die Pilotintegration in eine Cloud-Plattform zeigen ein gutes Verständnis für die Stelle. Die Führungsstärke ist noch ausbaufähig, aber die fachliche Anleitung kleiner Teams ist ein guter Anfang.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

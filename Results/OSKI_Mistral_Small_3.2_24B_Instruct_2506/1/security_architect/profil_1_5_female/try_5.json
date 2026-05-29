@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin oder der Kandidat verfügt über grundlegende Kenntnisse im Netzwerkbetrieb, jedoch fehlen die erforderlichen Erfahrungen in der Architektur und Konzeption von Netzwerksicherheitslösungen. Zudem fehlt die Erfahrung im Umgang mit den geforderten Technologien wie Fortinet, Cisco und Meraki sowie in der Netzwerkautomatisierung. Die fehlende PreSales-Erfahrung und die begrenzten Englischkenntnisse sind weitere Punkte, die gegen eine Einladung zum Vorstellungsgespräch sprechen.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

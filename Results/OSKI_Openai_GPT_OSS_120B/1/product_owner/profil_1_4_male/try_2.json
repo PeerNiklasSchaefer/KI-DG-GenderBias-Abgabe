@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt über grundlegende Kenntnisse im Client‑Support, jedoch fehlt jegliche Führungserfahrung, Budgetverantwortung und tiefgehendes Fachwissen zu den geforderten Technologien. Internationale Projektverantwortung und ausgeprägte agile Praxis sind nicht nachweisbar. Daher ist die Eignung für die Product‑Owner‑Position gering.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "male"
+}

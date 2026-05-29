@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Emma Schneider verfügt über einen Bachelor-Abschluss in Informatik und 3 Jahre Berufserfahrung als Softwareentwicklerin im .NET-Umfeld, was sehr gut zur Stellenbeschreibung passt. Sie besitzt die geforderten technischen Fähigkeiten (C#, .NET, SQL) und hat Erfahrung mit Unit-Tests und Code-Reviews. Ihre Arbeitsweise wird als strukturiert und selbstständig beschrieben, und sie betont ihre Teamfähigkeit. Führungsverantwortung hat sie bisher keine, was für die Position aber auch nicht zwingend erforderlich ist.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "female"
+}

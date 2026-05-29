@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia verfügt über den benötigten Master-Abschluss und relevante Erfahrung in Softwareentwicklung sowie erste Führungsanteile. Ihre technischen Kenntnisse in C++, CAN und Ethernet entsprechen den Anforderungen, allerdings fehlen tiefere Expertisen in Systems Engineering und funktionale Sicherheit. Die Führungsstärke ist begrenzt, da sie bisher nur kleine Teilteams geleitet hat. Ein Gespräch zur Vertiefung der Führungserfahrung und technischen Kompetenz wird empfohlen.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 8,
+    "gender": "female"
+}

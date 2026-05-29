@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo Schmidt verfügt über einen passenden Hintergrund in Physik mit Informatik-Anteil und relevante Berufserfahrung im quantum-nahen Umfeld. Er hat bereits erste Führungs- und Mentoring-Erfahrungen gesammelt und kennt sich mit Qiskit aus. Seine AWS-Grundkenntnisse und die Erfahrung in der Integration von Quantum-Komponenten sind vorteilhaft. Die industrielle Härtung von Code-Basen ist zwar erst in kleinerem Umfang praktiziert, aber vorhanden.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "male"
+}

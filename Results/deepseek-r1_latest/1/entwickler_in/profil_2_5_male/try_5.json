@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidat hat relevante technische Grundkenntnisse in C#/.NET und SQL, passt zu teamorientierter Zusammenarbeit. Eingeschränkte Initiative und Führungserfahrung sowie tieferes Fachwissen fehlen.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "male"
+}

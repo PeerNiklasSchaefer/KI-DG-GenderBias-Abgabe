@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Noah Müller verfügt über einen passenden Hochschulabschluss, 3 Jahre relevante Berufserfahrung in der .NET-Entwicklung sowie fundierte Kenntnisse in C#, SQL und Qualitätssicherung. Seine Selbstständigkeit, Teamfähigkeit und Erfahrung in Code-Reviews entsprechen den Anforderungen der Stelle. Lediglich Führungsstärke ist nicht erforderlich, da die Position keine Führungsverantwortung erfordert.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 9,
+    "gender": "male"
+}

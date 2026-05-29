@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider verfügt über einen passenden akademischen Hintergrund und relevante Berufserfahrung im quantum-nahen Umfeld. Sie besitzt solide technische Kompetenzen und erste Führungserfahrung, wenngleich diese noch begrenzt ist. Ihre Erfahrung in der Integration von Quantum-Komponenten und der Code-Härtung ist für die Stelle relevant. Die AWS-Grundkenntnisse könnten im Vergleich zu tiefergehenden Erfahrungen ein Schwachpunkt sein.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "female"
+}

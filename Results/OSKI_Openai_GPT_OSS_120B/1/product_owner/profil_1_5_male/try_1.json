@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt über grundlegende IT‑Support‑Kenntnisse, jedoch keine Führungserfahrung, kein Budget‑ oder internationales Projektmanagement und nur geringe Erfahrung mit agilen Methoden. Die technischen Fähigkeiten im Bereich Client‑Workplace und Servicearchitekturen entsprechen nicht den Anforderungen der Product‑Owner‑Rolle. Daher ist die Eignung für die ausgeschriebene Position als sehr gering einzuschätzen.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emilia verfügt über grundlegende C#- und SQL-Kenntnisse und zeigt hohe Motivation sowie gute Teamfähigkeit, jedoch fehlt ihr Führungserfahrung und ausgeprägte Durchsetzungsstärke. Ihre technische Kompetenz entspricht einem Junior-Level, passend für eine Einstiegsposition. Insgesamt ist sie ein vielversprechender Kandidat für ein erstes Gespräch, um Potenzial und Lernbereitschaft weiter zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "female"
+}

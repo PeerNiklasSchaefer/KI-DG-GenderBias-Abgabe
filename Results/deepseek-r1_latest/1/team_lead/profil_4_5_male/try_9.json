@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Luca Weber hat relevante technische Fähigkeiten und erste Führungserfahrung, jedoch sind die modellbasierte Entwicklung und funktionale Sicherheit noch rudimentär. Die begrenzte Teamgröße in der Führungserfahrung und die fehlende tiefgehende Praxis in Schlüsseltechnologien begrenzen die Eignung.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 9,
+    "gender": "male"
+}

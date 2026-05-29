@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller verfügt über einen passenden Hintergrund in Informatik und relevante Erfahrung im Backend-Engineering sowie erste Erfahrungen im Quantum Computing-Bereich. Ihre Mitarbeit an Integrationsprojekten und die Anleitung kleiner Teams zeigen Potenzial für die Übernahme von Lead-Verantwortung. Die vorhandene Erfahrung mit AWS und Qiskit ist vorteilhaft, ebenso wie ihre Kenntnisse in Code-Governance.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 8,
+    "gender": "female"
+}

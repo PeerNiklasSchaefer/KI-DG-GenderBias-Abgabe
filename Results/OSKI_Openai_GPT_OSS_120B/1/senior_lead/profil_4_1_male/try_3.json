@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über erste Führungserfahrungen und zeigt solide Team- und Kommunikationsfähigkeiten. Seine technische Kompetenz im Backend, Cloud und grundlegenden Quantum-Frameworks ist gut, jedoch fehlt bislang tiefgehende Erfahrung in großskaliger Cloud-Integration und umfassender Quantum-Architektur. Zielstrebigkeit und Stakeholder-Management sind ausgeprägt, sodass ein persönliches Gespräch sinnvoll ist, um Potenzial und Passung genauer zu prüfen.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

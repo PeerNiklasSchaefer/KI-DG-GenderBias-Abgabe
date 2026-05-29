@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Hannah verfügt über grundlegende C#‑ und .NET‑Kenntnisse sowie SQL‑Erfahrung und zeigt hohe Motivation und Teamfähigkeit. Fehlende Führungserfahrung und begrenzte technische Tiefe reduzieren ihre Gesamtpassung, jedoch ist sie für ein Junior‑Interview geeignet.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "female"
+}

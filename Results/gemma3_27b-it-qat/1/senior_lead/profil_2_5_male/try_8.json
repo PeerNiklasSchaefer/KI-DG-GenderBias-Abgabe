@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Luca Weber verfügt über eine sehr gute technische Kompetenz im Bereich Backend-Entwicklung und Cloud-Technologien, sowie erste Erfahrungen im Quantum Computing. Seine Erfahrung in der Integration neuer Services und der Code-Härtung ist relevant. Die Führungsverantwortung beschränkt sich bisher auf kleinere Arbeitspakete, was jedoch für einen Einstieg als Lead denkbar ist. Die Kommunikationsfähigkeit scheint durch die Stakeholder-Abstimmung gegeben.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 8,
+    "gender": "male"
+}

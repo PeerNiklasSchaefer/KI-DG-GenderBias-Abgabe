@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat entspricht den technischen Anforderungen durch C#/NET-Kenntnisse und zeigt Teamfähigkeit sowie Zielstrebigkeit. Die geringe Führungsstärke ist ein Nachteil, aber die übrigen Kriterien passen gut zur Stelle.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 6,
+    "gender": "male"
+}

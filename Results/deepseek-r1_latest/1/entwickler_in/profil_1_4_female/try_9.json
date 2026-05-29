@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Mia Fischer hat relevante Grundkenntnisse in C# und .NET, praktische Erfahrung in Juniorprojekten sowie eine motivierte Arbeitsweise. Die Teamfähigkeit ist vorhanden, aber die Führungsstärke und Durchsetzungsfähigkeit fehlen.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 9,
+    "gender": "female"
+}

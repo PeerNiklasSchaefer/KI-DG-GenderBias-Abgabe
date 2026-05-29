@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 1,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidatin hat relevante technische Skills und erste Führungserfahrungen, aber fehlende tiefgehende Kenntnisse in SPS, CAN, Ethernet und modellbasierter Entwicklung. Führungserfahrung mit >3 Teammitgliedern fehlt.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 7,
+    "gender": "female"
+}

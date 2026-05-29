@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer verfügt über relevante technische Kompetenzen und erste Führungserfahrung in Teilprojekten, was ihn für die Position geeignet erscheinen lässt. Seine Erfahrung in der Softwareentwicklung und in maschinennahe Aufgaben sowie seine Kenntnisse in C++ und Grundlagen der funktionalen Sicherheit sind vorteilhaft. Allerdings fehlt ihm die disziplinarische Führungsverantwortung für größere Teams, was seine Eignung für die Rolle als Team- und Projektleiter begrenzt.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

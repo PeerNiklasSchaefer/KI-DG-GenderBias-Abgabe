@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Bildungsabschluss und erste Erfahrungen im Netzwerkbetrieb. Allerdings fehlen die geforderten mehrjährigen Erfahrungen in der Entwicklung oder Architektur von Netzwerk- und Securitylösungen sowie die Expertise im Umgang mit Fortinet, Cisco und Meraki. Auch die PreSales-Erfahrung und die Kenntnisse in Network Automation sind nicht ausreichend vorhanden.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

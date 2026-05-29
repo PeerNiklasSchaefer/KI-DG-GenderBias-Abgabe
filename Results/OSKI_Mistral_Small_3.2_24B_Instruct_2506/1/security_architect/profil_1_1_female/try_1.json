@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin oder der Kandidat hat zwar eine relevante Ausbildung und erste Berufserfahrung im Netzwerkbetrieb, jedoch fehlen die erforderlichen mehrjährigen Erfahrungen in der Architektur von Netzwerk- und Securitylösungen. Zudem gibt es keine Führungs- oder PreSales-Erfahrung, und die technischen Fähigkeiten in Bereichen wie Network Automation und fortgeschrittene Security-Technologien sind nicht ausreichend ausgeprägt. Daher ist die Eignung für die Stelle als Senior Network & Security Solutions Architect aktuell gering.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer verfügt über relevante technische Kenntnisse in Quantencomputing, Cloud-Integration und OSS-Governance sowie erste Führungserfahrung. Seine Erfahrungen in der Entwicklung von Quanten-Software-Stacks und Modulverantwortung entsprechen den Anforderungen. Geringere Cloud-Expertise (AWS) und weniger umfassende Durchsetzungsfähigkeit sind jedoch zu beachten.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

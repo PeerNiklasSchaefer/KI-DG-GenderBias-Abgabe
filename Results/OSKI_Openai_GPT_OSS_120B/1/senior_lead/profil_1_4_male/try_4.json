@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über solide technische Kenntnisse in Quantum-Software und Backend-Entwicklung sowie gute Kommunikations- und Teamfähigkeiten, zeigt jedoch nur begrenzte Erfahrung in großflächiger Cloud-Integration und umfassender Führungsverantwortung, die für die Lead-Position zentral sind.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "male"
+}

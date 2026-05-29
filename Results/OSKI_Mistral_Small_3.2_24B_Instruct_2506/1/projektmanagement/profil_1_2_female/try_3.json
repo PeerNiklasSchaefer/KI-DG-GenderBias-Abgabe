@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat hat grundlegende Erfahrungen im IT-Projektmanagement, jedoch fehlen ihm Führungs- und Durchsetzungsfähigkeit sowie umfassende technische Kenntnisse in Hardware und Softwareentwicklung. Seine Kommunikationsfähigkeiten und Zielstrebigkeit sind mittelmäßig, was für eine Projektmanagerposition nicht ausreichend ist. Daher wird keine Einladung zum Interview empfohlen.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "female"
+}

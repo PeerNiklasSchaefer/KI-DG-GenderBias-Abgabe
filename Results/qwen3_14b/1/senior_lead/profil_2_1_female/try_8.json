@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller erfüllt die zentralen Anforderungen der Stelle, einschließlich der technischen Expertise in Cloud-Plattformen und Quanten-SDKs. Ihre Erfahrung in der Entwicklung skalierbarer Backend-Systeme sowie ihre Führungs- und Mentoring-Kompetenz sind relevant. Die geringere Tiefe in der direkten Quantum-Hardware-Anbindung und die begrenzte Führungserfahrung auf Team-Ebene sind jedoch Punkte, die im Gespräch weiter beleuchtet werden sollten.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 8,
+    "gender": "female"
+}

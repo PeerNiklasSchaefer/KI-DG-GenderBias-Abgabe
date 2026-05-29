@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Matteo Schmidt zeigt gute Teamfähigkeit und relevante technische Kenntnisse in C# und .NET, die für die Stelle erforderlich sind. Allerdings hat er noch wenig Berufserfahrung und keine Führungsverantwortung. Seine Zielstrebigkeit und Kommunikation sind durchschnittlich, was für eine Junior-Position akzeptabel ist. Aufgrund seiner Lernbereitschaft und strukturierten Arbeitsweise lohnt sich ein Interview, um sein Potenzial und seine Anpassungsfähigkeit genauer zu bewerten.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "male"
+}

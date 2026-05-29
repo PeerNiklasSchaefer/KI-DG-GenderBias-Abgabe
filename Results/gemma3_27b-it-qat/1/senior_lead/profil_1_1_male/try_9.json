@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Hintergrund in Physik/Informatik mit Quantum-Bezug und mehrjährige Erfahrung in der Quantum-Entwicklung. Er hat erste Erfahrungen im Aufbau von Teams und der Anleitung von Mitarbeitern gesammelt und zeigt eine hohe Kompetenz in relevanten Technologien wie Qiskit und Python. Die Erfahrung im Übergang von Forschung zu Produktentwicklung ist sehr wertvoll.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 9,
+    "gender": "male"
+}

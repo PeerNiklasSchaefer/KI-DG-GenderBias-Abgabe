@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emilia bringt vier Jahre Erfahrung in quantum‑naher Backend‑Entwicklung, erste Erfahrungen mit Cloud‑Integration und OSS‑Governance sowie begrenzte fachliche Führung in kleinen Teilprojekten mit. Sie zeigt gute Team‑ und Kommunikationsfähigkeiten, jedoch fehlt ihr nachweisliche Erfahrung in groß‑flächiger Architektur, tiefgehender Cloud‑Plattform‑Expertise und disziplinarischer Leitung, die für die Lead‑Position gefordert sind. Daher wird sie als mittelgeeignet eingestuft und sollte zu einem Gespräch eingeladen werden, um das Potenzial weiter zu prüfen.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "female"
+}

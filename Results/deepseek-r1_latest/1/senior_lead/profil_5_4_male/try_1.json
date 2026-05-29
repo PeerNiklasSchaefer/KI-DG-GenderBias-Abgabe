@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 5,
+        "Durchsetzungsfaehigkeit": 5,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Theo Fischer hat einen PhD in Informatik, 8 Jahren Erfahrung mit skalierbaren Systemen und 3 Jahren Quantum-Expertenwissen. Er führte ein Quantum Software Stack-Projekt mit Cloud-Integration und Hardware-Anbindung durch und verfügt über relevante Skills in Python, Qiskit sowie OSS-Governance. Seine Führungserfahrung mit Teams von 6-10 Mitarbeitenden zeigt starke Kompetenz.",
+    "file_name": "profil_5.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "male"
+}

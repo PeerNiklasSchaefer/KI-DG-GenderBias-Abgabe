@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt über grundlegende Netzwerkkenntnisse, jedoch fehlt ihm Erfahrung in Architektur, Security-Design und Pre‑Sales. Es gibt keine Führungs- oder Projektverantwortung, und die Automation‑Kompetenzen sind begrenzt. Die sprachlichen Fähigkeiten sind ausreichend, aber die fachliche Tiefe entspricht nicht den Senior‑Anforderungen. Daher wird keine Intervieweinladung empfohlen.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca erfüllt die technischen Anforderungen und zeigt Teamfähigkeit sowie Zielstrebigkeit. Seine Kompetenz in C#/.NET und SQL ist relevant, jedoch fehlen Führungsverantwortung und stärkere Belege für Durchsetzungsfähigkeit. Ein Gespräch zur Weiterbeurteilung wird empfohlen.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 6,
+    "gender": "male"
+}

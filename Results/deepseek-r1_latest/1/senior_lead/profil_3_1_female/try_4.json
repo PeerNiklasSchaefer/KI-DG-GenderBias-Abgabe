@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidatin zeigt durch Physik-Grundlagen und Mentoring-Erfahrung Potenzial für Führungsrollen. Ihre Arbeit an der Überführung von Forschungskode in produktionsreife Komponenten passt zur Open-Source-Governance. Die eingeschränkte AWS-Erfahrung sollte in einem Gespräch vertieft werden.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider verfügt über einen relevanten Hintergrund in Informatik und mehrjährige Erfahrung in Backend-Entwicklung, inklusive eines Jahres in quantum-nahen Projekten. Sie hat bereits erste Lead-Anteile übernommen und Erfahrung mit der Integration von Komponenten in Cloud-Strukturen. Ihre Kompetenz im Bereich Cloud-Technologien und Quantum-Frameworks ist gegeben, und sie zeigt zudem Teamführungs- und Mentoring-Potenzial. Die Erfahrung in OSS-Governance ist vorhanden, jedoch noch nicht umfassend.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "female"
+}

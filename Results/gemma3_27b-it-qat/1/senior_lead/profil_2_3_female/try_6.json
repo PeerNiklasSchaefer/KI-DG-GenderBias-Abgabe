@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Emma Schneider verfügt über eine sehr hohe fachliche Kompetenz im Bereich Backend-Entwicklung und relevante Erfahrung im Quantum Computing. Ihre Erfahrung mit Qiskit und AWS sowie die Integration von Open-Source-Komponenten sind sehr passend. Die fachliche Führungs- und Mentoring-Erfahrung ist vorhanden, jedoch begrenzt. Insgesamt ist sie eine vielversprechende Kandidatin, die ein Interview rechtfertigt.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 6,
+    "gender": "female"
+}

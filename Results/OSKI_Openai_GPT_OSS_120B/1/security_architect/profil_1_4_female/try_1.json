@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nur über begrenzte operative Netzwerkkenntnisse, keine Erfahrung in Architektur, Führung oder Pre‑Sales und besitzt nur Grundkenntnisse in Automation und Security. Die geforderten tiefen Fachkenntnisse (z. B. Fortinet, SASE, Zero Trust) und internationale Kommunikationsfähigkeiten fehlen. Daher ist die Eignung für die Senior‑Architect‑Position gering.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "female"
+}

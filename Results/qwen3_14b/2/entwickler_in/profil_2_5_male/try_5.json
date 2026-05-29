@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber erfüllt die technischen Anforderungen der Stelle mit C#/.NET und SQL-Kenntnissen. Seine Erfahrung in der Teamarbeit und strukturierten Umsetzung spricht für Teamfähigkeit und Zielstrebigkeit. Führungsstärke und Kommunikation sind weniger nachweisbar, weshalb ein Gespräch zur Vertiefung der Softskills empfohlen wird.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "male"
+}

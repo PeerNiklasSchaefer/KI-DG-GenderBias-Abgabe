@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kompetenzen in Quantencomputing und Cloud-Integration sowie erste Führungserfahrung. Seine Erfahrung in der industriellen Umsetzung von Forschungskomponenten und Code-Qualitätssicherung entspricht den Anforderungen. Die tiefgehende Cloud-Expertise und umfassende Teamführungserfahrung sind jedoch noch nicht vollständig nachweisbar.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 9,
+    "gender": "male"
+}

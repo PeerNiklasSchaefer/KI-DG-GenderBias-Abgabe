@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia verfügt über den notwendigen Hochschulabschluss und technische Kenntnisse in C#/NET sowie SQL, was die Kompetenz und Teamfähigkeit positiv bewertet. Ihre Erfahrung als Junior-Entwickler mit Code-Reviews und Bugfixing unterstreicht die Zielstrebigkeit. Führungsstärke und Durchsetzungsfähigkeit sind jedoch aufgrund der fehlenden Führungserfahrung und begrenzten Projektverantwortung eingeschränkt.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "female"
+}

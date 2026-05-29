@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller verfügt über einen relevanten Hintergrund in Informatik und mehrjährige Erfahrung in Backend-Entwicklung, was für die Position wichtig ist. Seine Erfahrung mit Qiskit und AWS sowie die Mitarbeit an Architekturentscheidungen sind positiv hervorzuheben. Obwohl er erste Lead-Anteile übernommen hat, fehlt eine umfassende Führungserfahrung. Die Erfahrung in Code-Governance und die gute Kommunikationsfähigkeit machen ihn zu einem vielversprechenden Kandidaten.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "male"
+}

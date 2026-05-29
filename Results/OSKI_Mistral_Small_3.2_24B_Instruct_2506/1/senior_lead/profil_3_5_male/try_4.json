@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber hat eine solide Ausbildung in Physik mit Informatik-Anteil und relevante Berufserfahrung in der Backend-Entwicklung und Integration von Quantum-Komponenten. Seine Erfahrung in der Nutzung von Qiskit und AWS sowie seine ersten Führungserfahrungen machen ihn zu einem vielversprechenden Kandidaten. Allerdings fehlen ihm noch tiefgehende Cloud-Integrationserfahrungen und disziplinarische Führungsverantwortung.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

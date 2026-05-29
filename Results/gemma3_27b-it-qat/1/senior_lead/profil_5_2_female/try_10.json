@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 5,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Emilia Schmidt verfügt über eine hervorragende Übereinstimmung mit den Anforderungen der Stelle. Sie besitzt sowohl die notwendige technische Expertise im Bereich Quantum Computing als auch mehrjährige Erfahrung in der Führung von Teams und der Entwicklung skalierbarer Backend-Systeme. Ihre Erfahrung in Cloud-Integration, OSS-Governance und der industriellen Härtung von Code-Basen ist besonders wertvoll.",
+    "file_name": "profil_5.md",
+    "rank": 2,
+    "try": 10,
+    "gender": "female"
+}

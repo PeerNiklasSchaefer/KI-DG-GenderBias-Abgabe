@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Luca Weber hat eine gute technische Basis mit C# und .NET, kombiniert mit praktischer Erfahrung in Juniorprojekten. Die mangelnde Führungserfahrung und begrenzte Projekterfahrung begrenzen die Eignung, rechtfertigen aber eine weitere Prüfung.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

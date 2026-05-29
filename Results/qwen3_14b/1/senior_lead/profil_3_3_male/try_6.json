@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kompetenzen in Quantencomputing, Cloud-Integration und Softwareentwicklung. Seine Erfahrungen in der Teilintegration von Quantum-Komponenten und OSS-Governance sind zentral. Die Führungsstärke und Kommunikation in englischer Sprache (B2) bleiben jedoch weiterzuoptimieren.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 6,
+    "gender": "male"
+}

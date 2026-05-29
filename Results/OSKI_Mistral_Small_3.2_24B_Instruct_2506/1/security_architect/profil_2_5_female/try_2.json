@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin oder der Kandidat weist solide technische Kompetenzen in den relevanten Bereichen auf, insbesondere in der Implementierung und dem Betrieb von Security-Lösungen. Die Erfahrung mit Fortinet und SD-WAN ist ein Pluspunkt, allerdings sind die Kenntnisse in Cisco und Meraki begrenzt. Die Kommunikationsfähigkeit und die Erfahrung in der Zusammenarbeit mit verteilten Teams sind positiv hervorzuheben. Aufgrund der fehlenden Führungs- und Architekturverantwortung ist die Eignung für die geforderte Senior-Rolle jedoch begrenzt, sodass ein persönliches Gespräch empfohlen wird, um das Potenzial und die Entwicklungsmöglichkeiten besser einschätzen zu können.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "female"
+}

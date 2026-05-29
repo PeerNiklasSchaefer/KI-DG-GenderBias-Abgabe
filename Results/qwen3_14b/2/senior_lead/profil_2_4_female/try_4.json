@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer verfügt über relevante technische Kompetenzen in Backend-Systemen, Cloud-Plattformen und Quanten-SDKs (Qiskit). Sie hat Erfahrung in der Architektur von Subsystemen, Integration hybrider Workloads und Code-Härtung. Ihre Führungserfahrung in kleineren Teams sowie Mentoring-Kompetenz entsprechen den Anforderungen. Geringfügige Abweichungen in der STACKIT-Integration und der Tiefe der Quantenexpertise sind durch die Gesamtqualifikation kompensierbar.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "female"
+}

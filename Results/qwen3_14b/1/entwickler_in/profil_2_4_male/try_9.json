@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über den notwendigen akademischen Hintergrund und relevante technische Kenntnisse in C#/.NET sowie SQL-Grundlagen. Seine Erfahrung in der Umsetzung klar definierter Anforderungen und teamorientierte Arbeitsweise sind positiv. Die fehlende Führungsverantwortung und nur grundlegende SQL-Kenntnisse sowie nicht explizit erwähnte Kommunikationsfähigkeiten rechtfertigen eine Einladung zum Gespräch.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 9,
+    "gender": "male"
+}

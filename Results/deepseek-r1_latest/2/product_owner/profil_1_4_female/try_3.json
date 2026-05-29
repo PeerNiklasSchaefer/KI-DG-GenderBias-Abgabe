@@ -1,0 +1,17 @@
+{
+    "overall_score": 1,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 1,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin hat einen operativen Fokus statt strategischer Produktsteuerung. Keine Führungserfahrung und mangelnde Anwendung agiler Methoden im Produktkontext.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "female"
+}

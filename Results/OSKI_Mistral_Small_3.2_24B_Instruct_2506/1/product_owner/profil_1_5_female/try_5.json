@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin oder der Kandidat hat zwar grundlegende Kenntnisse im Bereich Client-Support, jedoch fehlen sowohl die notwendige Berufserfahrung in der Produktsteuerung als auch Führungs- und Projektverantwortung. Die Kenntnisse in agilen Methoden und modernen Führungskonzeptionen sind unzureichend. Aufgrund dieser Defizite ist die Eignung für die Position des Product Owners als gering einzuschätzen.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Matteo Schmidt verfügt über relevante Erfahrungen in der Softwareentwicklung und hat erste Teilprojektverantwortung übernommen. Seine Kenntnisse in C++ und Basiswissen in CAN, Ethernet und SPS-Umfeld sind für die Stelle hilfreich. Allerdings fehlt ihm die Erfahrung in der disziplinarischen Führung eines größeren Teams sowie die tiefgehende Expertise in modellbasierten Entwicklungsmethoden und funktionaler Sicherheit, die für die Stelle wünschenswert wäre. Dennoch zeigt sein Profil Potenzial, das in einem persönlichen Gespräch weiter exploriert werden sollte.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

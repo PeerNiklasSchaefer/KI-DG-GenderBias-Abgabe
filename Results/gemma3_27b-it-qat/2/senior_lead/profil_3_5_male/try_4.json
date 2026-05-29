@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber verfügt über einen passenden Hintergrund und relevante Berufserfahrung im quantum-nahen Umfeld. Er hat bereits in der Backend-Entwicklung gearbeitet und erste Erfahrungen in der Integration von Quantum-Komponenten gesammelt. Seine Mentoring-Erfahrung und die Mitarbeit an Open-Source-Projekten sind positiv hervorzuheben. Die Cloud-Kenntnisse sind jedoch noch ausbaufähig.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

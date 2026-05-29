@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin verfügt über den notwendigen akademischen Abschluss und grundlegende technische Kenntnisse, jedoch fehlen ihr die erforderliche Berufserfahrung in der Team- und Projektleitung sowie die tiefgehende Expertise in Softwarearchitektur und Systems Engineering. Die aktuellen Fähigkeiten entsprechen eher dem Anforderungsprofil eines Junior-Entwicklers, nicht aber der Leitungsfunktion der Stelle.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "female"
+}

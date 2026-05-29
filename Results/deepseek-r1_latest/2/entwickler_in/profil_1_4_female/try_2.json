@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Kandidatin hat die erforderlichen Grundkenntnisse in C# und .NET sowie SQL-Basics. Sie zeigt Teamfähigkeit und Initiative, aber mangels Erfahrung in komplexen Projekten ist die Eignung noch unklar.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia erfüllt die fachlichen Anforderungen (C#, .NET, SQL, OOP, Testing) mit solider Erfahrung. Sie arbeitet strukturiert, selbstständig und zeigt ausgeprägte Teamfähigkeit. Führungserfahrung fehlt, weshalb die Bewertung in diesem Bereich niedrig bleibt, aber die Gesamtqualifikation ist für die Position ausreichend hoch.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Matteo verfügt über fundierte Kenntnisse in Quantenalgorithmen, Backend‑Entwicklung und erste Erfahrung mit Cloud‑Integration sowie erste Mentoring‑Aufgaben. Für die geforderte Leitungsfunktion eines größeren Core‑Engineering‑Teams fehlen nachweisbare Erfahrung in großflächiger Architektur, tiefer Cloud‑Plattform‑Expertise und disziplinarischer Führung. Die fachliche Basis ist vorhanden, jedoch sollte das Potenzial im Gespräch genauer geprüft werden.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

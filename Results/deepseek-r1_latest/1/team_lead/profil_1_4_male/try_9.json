@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer hat relevante technische Kompetenzen (C/C++, CODESYS, CAN/Ethernet) und erste Führungserfahrung. Die Berufserfahrung von nur 1 Jahr reicht jedoch noch nicht aus, um die erforderlichen Führungs- und Durchsetzungsqualitäten für die Teamleitung vollständig zu decken.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 9,
+    "gender": "male"
+}

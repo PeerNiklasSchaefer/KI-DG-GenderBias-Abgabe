@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über solide Backend- und Cloud-Erfahrung sowie erste quantum-nahe Projekte und zeigt gute Team- und Kommunikationsfähigkeiten. Führungserfahrung ist jedoch auf fachliche Leitung kleiner Arbeitspakete beschränkt, und die tiefgehende Quantum-Hardware-Expertise fehlt. Insgesamt ist er potenziell geeignet, sollte jedoch im Gespräch seine Eignung für die strategische Gesamtverantwortung prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

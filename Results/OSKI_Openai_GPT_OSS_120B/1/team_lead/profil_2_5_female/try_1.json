@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Hannah verfügt über einen Master in Informatik und 5 Jahre Erfahrung in C++‑Entwicklung sowie erste Erfahrungen in maschinennahen Projekten. Sie hat bereits fachliche Führungsanteile in kleinen Teilteams und zeigt ausgeprägte Kommunikations- und Teamfähigkeiten. Technisch deckt sie die meisten Kernanforderungen ab, jedoch fehlt ihr nachweisbare disziplinarische Führung und tiefgehende Expertise in IEC‑61131‑3, funktionaler Sicherheit und umfangreicher Systemarchitektur. Daher ist sie für ein Gespräch geeignet, um das Potenzial für die Leitungsposition zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "female"
+}

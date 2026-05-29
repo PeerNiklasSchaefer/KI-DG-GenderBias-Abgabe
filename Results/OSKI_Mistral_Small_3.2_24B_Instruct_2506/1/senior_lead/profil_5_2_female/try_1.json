@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 5,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Emilia Schmidt weist eine hervorragende Übereinstimmung mit der Stellenbeschreibung auf. Sie hat umfangreiche Erfahrung in der technischen Gesamtleitung von Quantum Software Stacks, einschließlich Architekturdefinition, Cloud-Integration und QPU-Anbindung. Ihre Führungs- und Teamfähigkeiten sind durch mehrjährige Erfahrung in der Leitung eines Core-Engineering-Teams und fachliche Anleitung in mehreren Entwicklungssträngen belegt. Ihre Expertise in relevanten Technologien und Frameworks sowie ihre nachgewiesene Praxis in OSS-Governance und industrieller Code-Härtung machen sie zu einer herausragenden Kandidatin.",
+    "file_name": "profil_5.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "female"
+}

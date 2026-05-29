@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo Schmidt zeigt gute Teamfähigkeit und Kommunikation, was für die Rolle des Team- und Projektleiters wichtig ist. Seine Erfahrung in der Softwareentwicklung und Projektleitung ist relevant, allerdings ist seine Führungs- und Leitungserfahrung mit 2 Jahren noch begrenzt. Seine technischen Kompetenzen in C/C++, CODESYS und den relevanten Protokollen sind gut, aber nicht auf dem höchsten Niveau. Insgesamt ist er ein vielversprechender Kandidat, der jedoch noch Entwicklungspotenzial hat.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "male"
+}

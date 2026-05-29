@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia erfüllt die fachlichen Anforderungen (C#, .NET, SQL, OOP) und zeigt Erfahrung in Teamarbeit, Code-Reviews und Dokumentation. Sie hat keine Führungserfahrung, weshalb die Führungsstärke niedrig bewertet wird. Ihre strukturierte Arbeitsweise und Lernbereitschaft deuten auf hohe Zielstrebigkeit und Kompetenz hin, sodass eine Einladung zum Gespräch empfohlen wird.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "female"
+}

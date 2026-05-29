@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah Weber verfügt über einen passenden Hintergrund und relevante Erfahrung in der Backend-Entwicklung und Quantum-Integration. Sie hat erste Führungsaufgaben übernommen und zeigt Engagement in der Code-Qualität und Wissensweitergabe. Ihre AWS-Grundkenntnisse und Qiskit-Erfahrung sind vorteilhaft, obwohl eine tiefere Cloud-Expertise wünschenswert wäre. Insgesamt ist sie eine vielversprechende Kandidatin.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "female"
+}

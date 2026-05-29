@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin verfügt über die geforderten .NET- und C#-Kenntnisse sowie eine strukturierte, teamorientierte Arbeitsweise, jedoch fehlt ihr Führungserfahrung und ausgeprägte Durchsetzungsstärke. Technisch ist sie als Junior geeignet, weshalb ein Gespräch zur Einschätzung des Potenzials sinnvoll ist.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

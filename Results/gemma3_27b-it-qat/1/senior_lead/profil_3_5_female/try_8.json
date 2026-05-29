@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah Weber verfügt über einen relevanten Hintergrund in Physik mit Informatik-Anteil und vier Jahre Berufserfahrung im quantum-nahen Umfeld. Sie hat bereits Erfahrungen in Backend-Entwicklung, Cloud-Integrationen und der Überführung von Forschungsergebnissen in produktnähere Komponenten gesammelt. Erste Mentoring- und Koordinationsaufgaben zeigen Führungsansätze. Ihre Kenntnisse in Qiskit und AWS sind für die Stelle vorteilhaft.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 8,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Sophia Müller verfügt über eine sehr hohe fachliche Kompetenz im Bereich Backend-Entwicklung und Cloud-Technologien sowie erste Erfahrungen im Quantencomputing. Ihre Führungsstärke zeigt sich in der fachlichen Leitung von Teilprojekten und Mentoring von Mitarbeitern. Die Erfahrung in der Härtung von Code-Basen und der Integration neuer Services in Cloud-Umgebungen sind für die Position relevant. Eine stärkere Betonung von Durchsetzungsfähigkeit wäre wünschenswert.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 6,
+    "gender": "female"
+}

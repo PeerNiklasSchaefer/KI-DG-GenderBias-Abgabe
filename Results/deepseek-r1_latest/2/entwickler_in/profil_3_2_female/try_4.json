@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Die Kandidatin erfüllt die technischen Anforderungen durch relevante .NET- und SQL-Kenntnisse sowie objektorientierte Programmiererfahrung. Ihre Teamfähigkeit und hohe Lernbereitschaft passen zum Profil eines Junior bis Mid-Level-Entwicklers. Die geringe Führungsstärke wird durch ausreichende Kompetenz in anderen Bereichen ausgeglichen.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "female"
+}

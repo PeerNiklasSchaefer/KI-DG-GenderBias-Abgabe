@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat hat technische Grundlagen, aber fehlt in Architektur- und strategischen Aspekten. Keine Führungserfahrung und mangelnde Praxis in Automation und Sicherheitstechnologien.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

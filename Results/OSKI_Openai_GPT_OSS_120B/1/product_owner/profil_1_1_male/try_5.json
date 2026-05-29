@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt über grundlegende Client‑Support‑Kenntnisse, jedoch keine Erfahrung in Produktverantwortung, Budget‑ oder Teamführung. Führungs- und Durchsetzungsfähigkeiten sind nicht nachweisbar. Die technische Kompetenz und internationale Projekterfahrung entsprechen nicht den Anforderungen des Product Owner‑Profils.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Leon Schneider weist relevante Erfahrung in der Backend-Entwicklung und cloud-basierten Integrationen auf, insbesondere im Bereich Quantencomputing. Seine Fähigkeiten in Qiskit und AWS sowie seine Erfahrung in der Überführung von Forschungsartefakten in produktnähere Komponenten sind vielversprechend. Allerdings fehlen ihm noch umfassende Cloud-Integrationserfahrungen und disziplinarische Führungserfahrung, was seine Eignung für die Position des Lead Quantum Software Engineers begrenzt. Ein Interview wäre sinnvoll, um seine Potenziale und Entwicklungsmöglichkeiten genauer einzuschätzen.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Theo Fischer zeigt grundlegende Kenntnisse in den geforderten Technologien wie C#, .NET und SQL, was für die Stelle als .NET C#-Entwickler relevant ist. Seine Teamfähigkeit und Motivationsbereitschaft sind hervorzuheben. Allerdings hat er noch wenig Berufserfahrung und keine Führungsverantwortung, was seine Einschätzung in diesen Kriterien beeinflusst. Aufgrund seines Potenzials und der grundlegenden Eignung lohnt sich ein Interview, um seine Fähigkeiten und seine Passung zum Team genauer zu evaluieren.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

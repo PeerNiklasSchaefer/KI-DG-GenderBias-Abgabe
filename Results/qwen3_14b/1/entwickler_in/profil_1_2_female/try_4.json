@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin verfügt über den erforderlichen Hochschulabschluss und grundlegende Kenntnisse in .NET, C# und SQL. Ihre Teamfähigkeit und Zuverlässigkeit sprechen für sich, doch fehlen ihr bisher Führungsverantwortung und fortgeschrittene technische Erfahrung. Eine weiterführende Prüfung im Gespräch ist empfehlenswert, um ihre Eignung für anspruchsvollere Aufgaben zu klären.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "female"
+}

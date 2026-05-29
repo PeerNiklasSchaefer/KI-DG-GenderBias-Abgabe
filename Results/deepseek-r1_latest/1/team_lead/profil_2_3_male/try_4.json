@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Leon Schneider hat relevante Fähigkeiten, aber seine Führungserfahrung liegt hauptsächlich in kleinen Teilteams, während die Stelle eine Führung mit mehr als drei Teammitgliedern verlangt. Auch fehlen tiefe Kenntnisse in Software-Architektur und modellbasierter Entwicklung.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

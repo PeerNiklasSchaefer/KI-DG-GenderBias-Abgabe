@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Leon Schneider verfügt über einen passenden Hintergrund in Physik/Informatik mit Quantum-Bezug und mehrjährige Erfahrung in der Quantum-Entwicklung. Er hat erste Erfahrungen in der technischen Anleitung von Teams und der Härtung von Code-Basen, allerdings noch keine umfassende Führungserfahrung. Seine Kenntnisse in Python und Qiskit sowie seine Erfahrung mit Cloud-Technologien sind relevant für die Stelle.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

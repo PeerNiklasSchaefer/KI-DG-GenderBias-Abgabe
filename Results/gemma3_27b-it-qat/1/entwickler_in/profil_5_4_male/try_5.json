@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Theo Fischer verfügt über einen passenden Hochschulabschluss und fundierte Berufserfahrung in .NET und C#, die exakt mit den Anforderungen der Stelle übereinstimmen. Seine Projektleitungsrolle bei der Implementierung eines automatisierten Testing-Workflows sowie die Federführung bei der Architektur einer Kernkomponente deuten auf Führungsstärke und Eigeninitiative hin. Die Erfahrung in agilen Teams und die ausgeprägte Teamorientierung sind ebenfalls positiv hervorzuheben.",
+    "file_name": "profil_5.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

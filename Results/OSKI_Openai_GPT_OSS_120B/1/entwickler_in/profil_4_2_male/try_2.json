@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat erfüllt die fachlichen Anforderungen (C#, .NET, SQL, OOP, Testing) und bringt mehrjährige Erfahrung in mittelständischen Entwicklungsprojekten mit. Er zeigt hohe Eigeninitiative, strukturierte Arbeitsweise und Teamfähigkeit, während Führungserfahrung fehlt – was jedoch für die ausgeschriebene Position nicht zwingend erforderlich ist.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kompetenzen in Quantencomputing, Cloud-Integration und OSS-Governance. Seine Führungsstärke ist eingeschränkt, da er bisher nur in Teilbereichen geführt hat. Die Erfahrung in der Entwicklung von Cloud-Plattformen und die Fähigkeit zur Architekturplanung begründen die Empfehlung für ein Gespräch.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin hat eine technische Basis, erfüllt aber nicht die erforderliche Erfahrung in Netzwerkarchitektur, Sicherheitslösungen und Herstellerkooperation. Keine Führungserfahrung und begrenzte Skills in SD-WAN/Cloud-Networking sowie Automatisierung.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "female"
+}

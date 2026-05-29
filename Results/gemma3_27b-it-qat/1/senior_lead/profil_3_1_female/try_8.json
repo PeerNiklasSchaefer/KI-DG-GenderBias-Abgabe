@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller verfügt über einen passenden Hintergrund und relevante Berufserfahrung im quantum-nahen Umfeld. Sie zeigt Kompetenz in Backend-Entwicklung, Cloud-Technologien und Quantum-Frameworks. Erste Mentoring-Erfahrungen und die Teilverantwortung in Projekten deuten auf Führungspotenzial hin, welches im Gespräch weiter verifiziert werden sollte. Ihre Kenntnisse in AWS sind allerdings noch ausbaufähig.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 8,
+    "gender": "female"
+}

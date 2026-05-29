@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer verfügt über einen passenden Hintergrund in Informatik und relevante Berufserfahrung im Backend-Bereich, einschließlich Quantum-Fokus. Sie hat bereits erste Lead-Erfahrungen gesammelt und kennt sich mit Cloud-Technologien (AWS) und Qiskit aus. Ihre Erfahrung in Code-Governance und -Härtung ist ebenfalls relevant. Die Führungsstärke könnte noch weiter ausgebaut werden, jedoch zeigt sie bereits gute Ansätze.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "female"
+}

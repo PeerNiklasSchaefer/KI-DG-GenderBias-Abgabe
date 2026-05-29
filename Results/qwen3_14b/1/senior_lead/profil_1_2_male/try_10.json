@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo verfügt über relevante technische Kompetenzen, Erfahrung mit Qiskit, Cloud-Integration und OSS-Governance sowie Teamführungserfahrung. Die Führungserfahrung ist jedoch begrenzt, was weitere Prüfung im Gespräch erfordert.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 10,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia verfügt über das passende Studium und Grundkenntnisse in C#/.NET, ist motiviert und teamorientiert, jedoch fehlt ihr Erfahrung, Führungs- und Durchsetzungsstärke. Ein Gespräch ist sinnvoll, um ihr Potenzial weiter zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "female"
+}

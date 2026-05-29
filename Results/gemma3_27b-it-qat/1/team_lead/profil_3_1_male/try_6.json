@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Masterabschluss und 4 Jahre Berufserfahrung in relevanten Bereichen. Er besitzt gute technische Kenntnisse in C/C++ und erste Erfahrungen mit IEC 61131-3. Seine Koordinationserfahrung und die Mitarbeit in Projekten zeigen Teamfähigkeit und Zielstrebigkeit. Die Führungsstärke ist noch ausbaufähig, jedoch bereits durch die informelle Leitung von Arbeitspaketen angedeutet.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 6,
+    "gender": "male"
+}

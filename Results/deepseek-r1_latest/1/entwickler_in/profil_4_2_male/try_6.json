@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Die Kandidatin zeigt durch ihre technischen Fähigkeiten (C#, .NET, SQL) und ihre Erfahrung in Softwareentwicklung eine sehr hohe Kompetenz. Mit ihrer strukturierten Arbeitsweise und Eigeninitiative hat sie eine hohe Zielstrebigkeit. Ihre Teamfähigkeiten und Kooperationserfahrung sind gut, während Führungsstärke und Kommunikation eher moderat ausgeprägt sind.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 6,
+    "gender": "male"
+}

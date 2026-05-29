@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat hat grundlegende Kenntnisse in Projektmanagement und Teamarbeit, jedoch fehlt es an Führungs- und Durchsetzungsfähigkeit sowie an relevanter Erfahrung in Hardware-Projekten und Stakeholder-Kommunikation. Die Kompetenz im Bereich Hard- und Softwareentwicklung ist begrenzt, und die Englischkenntnisse entsprechen nicht den verhandlungssicheren Anforderungen.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "male"
+}

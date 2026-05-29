@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer erfüllt die technischen Anforderungen durch C#/.NET-Kenntnisse und SQL-Grundlagen. Seine Erfahrung in Junior-Rollen zeigt teamorientierte Fähigkeiten. Allerdings fehlen Führungs- und Durchsetzungserfahrungen sowie nachgewiesene komplexe Problemlösungs-Skills.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 6,
+    "gender": "male"
+}

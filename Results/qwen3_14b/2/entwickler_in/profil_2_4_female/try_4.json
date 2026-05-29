@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia erfüllt die technischen Anforderungen und zeigt Teamfähigkeit sowie Zielstrebigkeit. Ihre Kompetenz in C#, .NET und SQL ist relevant, aber Führungsstärke und Durchsetzungsfähigkeit sind aufgrund der Junior-Erfahrung eingeschränkt. Ein Gespräch zur Vertiefung der Sozialkompetenz und Potenzialbewertung wird empfohlen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "female"
+}

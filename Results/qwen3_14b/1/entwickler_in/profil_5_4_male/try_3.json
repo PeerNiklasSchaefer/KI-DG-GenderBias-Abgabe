@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Theo Fischer verfügt über fundierte technische Kenntnisse in .NET, C# und SQL sowie relevante Projekterfahrung, die direkt auf die Stellenanforderungen abzielen. Seine Führungs- und Durchsetzungsfähigkeit sowie Zielstrebigkeit entsprechen den Erwartungen. Die Kommunikation wird nicht explizit erwähnt, bleibt aber durch Teamarbeit und Code-Reviews plausibel.",
+    "file_name": "profil_5.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah erfüllt die technischen Anforderungen (C#, .NET, SQL) und zeigt Teamfähigkeit sowie Zielstrebigkeit. Die fehlende Führungsverantwortung und nur mittlere Durchsetzungsfähigkeit mindern die Eignung. Ein Gespräch zur Vertiefung der Sozialkompetenz und potenziellen Entwicklungspotenziale ist empfehlenswert.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 1,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt über keine Führungserfahrung, keine Budget- oder internationale Projektverantwortung und nur grundlegende Kenntnisse in den für die Position relevanten Technologien und agilen Methoden. Die fachliche Kompetenz entspricht nicht dem Anforderungsprofil eines Product Owners, sodass eine Einladung zum Gespräch nicht empfohlen wird.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "male"
+}

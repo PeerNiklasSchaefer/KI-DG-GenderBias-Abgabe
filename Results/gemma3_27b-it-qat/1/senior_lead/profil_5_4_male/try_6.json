@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 5,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über eine exzellente Übereinstimmung mit den Anforderungen der Stelle. Er besitzt mehrjährige Erfahrung als Lead Quantum Software Engineer, einschliesslich der technischen Gesamtleitung eines QSS, Architekturdefinition, Cloud-Integration und QPU-Anbindung. Seine Führungserfahrung und die nachgewiesene Praxis in OSS-Governance runden das Profil ab.",
+    "file_name": "profil_5.md",
+    "rank": 4,
+    "try": 6,
+    "gender": "male"
+}

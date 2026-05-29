@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia Müller zeigt eine solide Grundlage im Bereich der Softwareentwicklung, insbesondere in C# und .NET, was für die Stelle relevant ist. Ihre Berufserfahrung ist bisher begrenzt, jedoch hat sie bereits erste Erfahrungen in .NET-Projekten gesammelt. Sie wird als motiviert und teamfähig beschrieben, was für die Zusammenarbeit wichtig ist. Ein Gespräch kann klären, inwieweit sie die technischen Herausforderungen der Stelle bewältigen kann.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "female"
+}

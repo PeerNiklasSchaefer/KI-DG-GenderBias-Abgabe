@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die grundlegenden Anforderungen durch den Hochschulabschluss und die Erfahrung in .NET/C#-Entwicklung. Allerdings fehlen ihm Führungserfahrung und vertiefte Kenntnisse in komplexen Architekturen. Seine Teamfähigkeit und Zielstrebigkeit sprechen für ihn, eine Vertiefung der technischen Kompetenz wäre wünschenswert.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 10,
+    "gender": "male"
+}

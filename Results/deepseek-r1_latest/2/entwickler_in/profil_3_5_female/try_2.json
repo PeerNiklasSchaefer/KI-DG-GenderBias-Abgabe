@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Hannah Weber erfüllt die technischen Anforderungen (C#, .NET, SQL) und zeigt Initiative und Teamfähigkeit. Ihre Erfahrung in Softwareentwicklung und Code-Reviews passt zum Profil. Eine Einladung zu einem Gespräch wird empfohlen.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "female"
+}

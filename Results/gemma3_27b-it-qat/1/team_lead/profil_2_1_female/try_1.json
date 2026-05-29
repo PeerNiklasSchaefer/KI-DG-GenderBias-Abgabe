@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller verfügt über einen passenden Masterabschluss und 5 Jahre Berufserfahrung in der Softwareentwicklung, was eine gute Grundlage darstellt. Sie hat erste Erfahrungen in der Koordination von Teilprojekten und der fachlichen Führung gesammelt. Ihre Kenntnisse in C++ und der Umgang mit CAN, Ethernet und SPS-Systemen sind relevant, obwohl weitere Vertiefung wünschenswert ist. Ihre strukturierte Arbeitsweise und Kommunikationsfähigkeit werden positiv hervorgehoben.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma hat relevante technische Grundkenntnisse in C# und .NET, aber ihre Erfahrung ist noch begrenzt. Sie zeigt Teamfähigkeit und Lernbereitschaft, was positiv ist. Ein persönliches Gespräch würde die Eignung genauer einschätzen.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "female"
+}

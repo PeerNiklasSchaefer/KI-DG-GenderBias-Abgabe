@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Leon Schneider zeigt gute technische Kompetenzen in C# und .NET, die für die Stelle relevant sind. Seine Teamfähigkeit und strukturierte Arbeitsweise sind positive Aspekte. Allerdings hat er keine Führungs- oder umfassende Durchsetzungserfahrung, was für eine Junior-Rolle jedoch nicht zwingend erforderlich ist. Ein Interview wäre sinnvoll, um seine Anpassungsfähigkeit und Lernbereitschaft genauer zu bewerten.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

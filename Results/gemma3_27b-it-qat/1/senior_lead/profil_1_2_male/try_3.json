@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden akademischen Hintergrund und mehrjährige Erfahrung in der Quantum-Entwicklung, einschließlich erster Industrieeinsätze. Seine technischen Fähigkeiten in Python, Qiskit und Cloud-Technologien sind relevant. Erste Führungserfahrung und Mentoring-Praxis sind vorhanden, jedoch ist weiteres Wachstum in diesem Bereich zu erwarten. Insgesamt zeigt das Profil eine gute Eignung für die Stelle.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

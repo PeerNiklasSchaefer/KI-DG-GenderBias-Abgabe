@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Noah Müller weist eine sehr hohe Kompetenz in den technischen Anforderungen auf, insbesondere in der Entwicklung skalierbarer Backend-Systeme und der Integration neuer Services. Seine Erfahrung mit Qiskit und AWS sowie seine Fähigkeit, Code zu härten und Governance-Prozesse zu etablieren, sind hervorragend. Er hat nachgewiesene Teamfähigkeit und Kommunikation, jedoch ist seine Führungsstärke auf fachlicher Ebene begrenzt, was für die angestrebte Position als Lead Quantum Software Engineer relevant ist. Aufgrund seiner starken technischen Expertise und seiner Erfahrung in quantum-nahen Projekten wird eine Einladung zum Interview empfohlen.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "male"
+}

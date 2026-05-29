@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Masterabschluss und relevante Erfahrung in der Softwareentwicklung, insbesondere mit C++. Erste Erfahrungen in der Koordination von Teilprojekten und die Mitarbeit an Anforderungs- und Planungsaufgaben sind positiv hervorzuheben. Die Basiskenntnisse in CAN, Ethernet und SPS-Umfeld sowie die Kenntnisse in funktionaler Sicherheit sind ein weiterer Pluspunkt. Es fehlt jedoch die explizite Erfahrung in einer Teamleitungsrolle mit mehr als 3 Teammitgliedern, die in der Stellenbeschreibung gefordert wird.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 6,
+    "gender": "male"
+}

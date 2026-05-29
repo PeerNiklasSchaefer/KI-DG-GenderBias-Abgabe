@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über fundierte Kenntnisse in Quantenalgorithmen und Backend-Entwicklung, jedoch fehlt ihm tiefgehende Erfahrung in Cloud-Architekturen und disziplinarischer Teamführung. Seine bisherigen Führungs- und Mentoring-Aufgaben sind begrenzt auf kleine Teilprojekte. Kommunikationsfähigkeiten sind solide in Deutsch, aber Englisch noch ausbaufähig. Ein Interview kann Aufschluss über Potenzial für die Leitungsaufgaben geben.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

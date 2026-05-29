@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat weist zwar grundlegende technische Fähigkeiten im Netzwerkbetrieb auf, jedoch fehlt es an der erforderlichen Erfahrung in der Architektur und Konzeption von Netzwerksicherheitslösungen. Die fehlende Führungs- und PreSales-Erfahrung sowie die begrenzten Kenntnisse in fortgeschrittenen Technologien wie SD-WAN, Cloud Networking und Automation machen ihn für die geforderte Senior-Rolle nicht geeignet. Zudem sind die Englischkenntnisse auf B2-Niveau nicht ausreichend für eine internationale Position.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "female"
+}

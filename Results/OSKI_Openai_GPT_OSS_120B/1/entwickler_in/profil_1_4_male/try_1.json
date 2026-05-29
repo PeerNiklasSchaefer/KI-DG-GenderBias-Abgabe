@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Theo erfüllt die Grundvoraussetzungen in C#/.NET und SQL und zeigt hohe Motivation sowie gute Teamorientierung. Fehlende Führungserfahrung und nur begrenzte Durchsetzungs- sowie Kommunikationsnachweise reduzieren die Gesamtbewertung. Dennoch ist ein Interview sinnvoll, um das Entwicklungspotenzial und die Passung zum Team zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "male"
+}

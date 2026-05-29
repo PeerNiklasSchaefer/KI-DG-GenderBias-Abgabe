@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Mia Fischer bringt fundierte Backend- und Cloud-Erfahrung sowie praktische Quantum-Kenntnisse mit und hat bereits kleinere Teams fachlich angeleitet. Sie erfüllt die meisten technischen Anforderungen, jedoch fehlt ihr tiefgehende Erfahrung mit großen Cloud-Plattformen und der direkten Anbindung von QPUs. Die Kombination aus technischem Know-how und moderater Führung macht sie zu einer geeigneten Kandidatin für ein Gespräch, um die Passgenauigkeit weiter zu prüfen.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "female"
+}

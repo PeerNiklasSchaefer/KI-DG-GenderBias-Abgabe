@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kompetenzen und erste Führungserfahrung, jedoch fehlen tiefgehende Erfahrungen in Cloud-Integration und industrieller Code-Härtung. Eine Vorstellung im Gespräch zur Klärung von Lücken im Profil wird empfohlen.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 9,
+    "gender": "male"
+}

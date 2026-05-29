@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Emma verfügt über relevante technische Kompetenz, einschließlich Erfahrung mit Qiskit, Cloud-Integration und Code-Governance. Ihre Führungs- und Mentoring-Erfahrung sowie ihre Zielstrebigkeit entsprechen den Anforderungen. Die Berührungspunkte mit STACKIT und Quanten-Hardware-Integration sind jedoch nicht explizit nachweisbar, was eine vertiefende Prüfung im Gespräch rechtfertigt.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 7,
+    "gender": "female"
+}

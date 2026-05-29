@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Kandidatin zeigt durch Führungs- und Mentoringerfahrung (kleines Team) sowie durch Governance-Projekte starke Eignung. Kommunikationsfähigkeiten sind sehr gut. Die praktische Erfahrung mit Cloud-Integration und Quantum-Frameworks (Qiskit) deckt die Kernkompetenzen ab. Die geringfügige Einschränkung liegt in der Teamgrößen-Dimension und der Tiefe der Quantum-Expertise.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo Schmidt verfügt über einen passenden Hintergrund in Physik mit Informatik-Anteil und relevante Berufserfahrung im quantum-nahen Umfeld. Seine Erfahrung in Backend-Entwicklung, Cloud-Integrationen und der Arbeit mit Qiskit ist für die Stelle wertvoll. Erste Mentoring-Erfahrungen und die Mitarbeit an Open-Source-Governance-Prozessen deuten auf Potential in der Teamführung und Code-Härtung hin. Die AWS-Grundkenntnisse könnten im Kontext der STACKIT Cloud Plattform ausgebaut werden.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

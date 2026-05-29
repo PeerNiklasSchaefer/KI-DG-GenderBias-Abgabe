@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia verfügt über solide .NET‑ und C#‑Kenntnisse sowie Erfahrung in Code‑Reviews und Qualitätssicherung, was die fachliche Kompetenz bestätigt. Sie arbeitet strukturiert, selbstständig und zeigt Eigeninitiative, wodurch Zielstrebigkeit und Durchsetzungsfähigkeit mittel bis hoch eingeschätzt werden. Teamfähigkeit wird durch wiederholte Zusammenarbeit mit QA und Produktmanagement belegt, Führungserfahrung fehlt jedoch.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "female"
+}

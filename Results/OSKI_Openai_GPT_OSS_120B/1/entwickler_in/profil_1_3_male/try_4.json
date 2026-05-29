@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Leon verfügt über die geforderten Grundkenntnisse in C#, .NET und SQL sowie Motivation und Teamfähigkeit, jedoch fehlt ihm Führungserfahrung und ausgeprägte Durchsetzungsstärke. Die Kompetenz liegt auf Einstiegsniveau, was für die Position akzeptabel ist, weshalb ein Gespräch empfohlen wird.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

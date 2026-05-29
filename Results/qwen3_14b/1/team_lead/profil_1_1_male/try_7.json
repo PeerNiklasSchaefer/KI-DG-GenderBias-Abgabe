@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt zwar über einen relevanten Masterabschluss und erste technische Kompetenzen, jedoch fehlen die erforderliche Berufserfahrung in der Team- und Projektleitung sowie die tiefgehende Expertise in Softwarearchitektur und Systems Engineering. Die Führungserfahrung ist begrenzt, was die Eignung für die Stelle als Team- und Projektleiter Softwareentwicklung einschränkt.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 7,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber verfügt über einen relevanten Hintergrund in Quantencomputing und Backend-Entwicklung. Erste Führungserfahrung und Mentoring-Praxis sind vorhanden, wobei diese noch ausbaufähig sind. Die Erfahrung im Übergang von Forschung zu Produktentwicklung und die Kenntnisse in relevanten Technologien (Qiskit, Python, Cloud) sind sehr passend.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Die Kandidatin zeigt durch erste Mentoring-Erfahrung und technische Anleitung eine ausreichende Führungsstärke (3). Ihre durchgängige Mentoring-Pflege und Teamzusammenarbeit demonstriert starke Teamfähigkeit (4). Die internationale Projektkenntnisse und gute Sprachkenntnisse unterstreichen die Kommunikationsfähigkeit (4). Die Umsetzung von Pilotprojekten und Code-Reviews zeigt Zielstrebigkeit (4). Ihre Expertise in Quantumcomputing und erste Cloud-Erfahrungen beweist hohe Kompetenz (5).",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "female"
+}

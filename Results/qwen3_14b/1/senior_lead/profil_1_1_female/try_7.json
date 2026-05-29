@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia verfügt über relevante technische Kompetenzen, Erfahrung in Quantum-Softwareentwicklung und erste Führungserfahrung. Ihre Kenntnisse in Cloud-Technologien, Qiskit und OSS-Governance entsprechen den Anforderungen. Für die Führungsstärke und Durchsetzungsfähigkeit sind weitere Prüfungen im Gespräch sinnvoll.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 7,
+    "gender": "female"
+}

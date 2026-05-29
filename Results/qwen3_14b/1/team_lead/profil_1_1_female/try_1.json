@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia Müller verfügt über den notwendigen akademischen Abschluss, jedoch fehlen ihr die geforderten mehrjährigen Erfahrungen in Team- oder Projektleitungsrollen mit mehr als drei Teammitgliedern. Ihre technischen Kenntnisse liegen im Grundlagenbereich, und sie hat keine umfassende Erfahrung in der Softwarearchitektur oder Systems Engineering. Die Führungserfahrung ist begrenzt, was die Eignung für die Stelle als Team- und Projektleiter Softwareentwicklung insgesamt mindert.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "female"
+}

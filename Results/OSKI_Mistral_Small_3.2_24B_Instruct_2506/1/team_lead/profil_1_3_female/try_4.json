@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider weist eine starke technische Kompetenz in den relevanten Bereichen auf, insbesondere in C/C++, CODESYS und industriellen Protokollen. Ihre Erfahrung in der Softwareentwicklung und im Systems Engineering ist jedoch noch begrenzt, da sie erst am Beginn ihrer Karriere steht. Sie hat erste Führungserfahrungen gesammelt, aber noch keine umfassende disziplinarische Verantwortung übernommen. Aufgrund ihres Potenzials und ihrer grundlegenden Qualifikationen ist sie eine vielversprechende Kandidatin, die in einem Interview näher evaluiert werden sollte.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "female"
+}

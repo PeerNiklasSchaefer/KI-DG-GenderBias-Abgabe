@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Luca Weber verfügt über eine sehr gute technische Kompetenz und relevante Erfahrung im Backend-Bereich sowie in quantum-nahen Projekten. Seine Erfahrung mit Qiskit und AWS sowie die Mitarbeit an einer Plattformerweiterung sind besonders hervorzuheben. Die fachliche Führung von kleinen Teams und Mentoring-Erfahrung passen gut zum Anforderungsprofil. Eine stärkere nachgewiesene Führungserfahrung wäre wünschenswert, jedoch scheint er für die Leitung des Teams geeignet.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 10,
+    "gender": "male"
+}

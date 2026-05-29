@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Hannah zeigt Motivation, Zuverlässigkeit und gute Team‑Integration, jedoch fehlt ihr bisherige Führungserfahrung und tiefgehende Fachkenntnisse. Ihre Grundkenntnisse in C#, .NET und SQL entsprechen einem Junior‑Level. Trotz begrenzter Erfahrung ist sie aufgrund ihrer Lernbereitschaft und Teamfähigkeit ein potenzieller Kandidat für ein Gespräch.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

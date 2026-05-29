@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat hat grundlegende Kenntnisse im Netzwerkbetrieb, jedoch fehlt ihm die erforderliche Erfahrung in der Architektur und Konzeption von Netzwerksicherheitslösungen. Die Position erfordert tiefes technisches Know-how in aktuellen Technologien wie SD-WAN, Cloud Networking und Fortinet, sowie Erfahrung in PreSales und Kundenkommunikation, die der Kandidat nicht nachweisen kann. Zudem fehlt es an Führungs- und Projektverantwortung.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "female"
+}

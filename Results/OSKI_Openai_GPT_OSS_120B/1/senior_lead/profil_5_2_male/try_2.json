@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 5,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über mehrjährige technische Führungs- und Mentoring‑Erfahrung in einem Quantum‑Software‑Team sowie nachweisliche Erfolge beim Aufbau einer produktreifen Architektur und QPU‑Anbindung. Seine Expertise in Cloud‑Native‑Architekturen, OSS‑Governance und gängigen Quantum‑Frameworks deckt die geforderten Fachkenntnisse ab. Deutsch- und Englischkenntnisse sind verhandlungssicher, und er hat Erfahrung in der Zusammenarbeit mit internen und externen Stakeholdern. Insgesamt passt das Profil sehr gut zur ausgeschriebenen Position.",
+    "file_name": "profil_5.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

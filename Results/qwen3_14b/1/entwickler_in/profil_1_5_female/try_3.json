@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat:in verfügt über den notwendigen Hochschulabschluss und grundlegende Kenntnisse in C#, .NET und SQL. Die praktische Erfahrung ist jedoch auf Einsteigerlevel begrenzt. Teamfähigkeit und Motivation sind vorhanden, aber die technische Kompetenz sowie Führungsstärke entsprechen nicht dem erforderlichen Niveau für eine Vollzeitposition. Ein Vorstellungsgespräch zur Prüfung des Entwicklungspotenzials wird empfohlen.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "female"
+}

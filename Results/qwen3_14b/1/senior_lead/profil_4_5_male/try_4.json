@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber verfügt über relevante technische Kompetenzen, Erfahrung in Cloud-Integration und erste Führungserfahrung. Seine Kenntnisse in Qiskit und Open-Source-Governance sowie die sprachlichen Fähigkeiten entsprechen den Anforderungen. Die Führungsstärke ist jedoch noch eingeschränkt, da keine umfassende Teamleitung nachweisbar ist. Ein Interview zur Vertiefung der Lead-Expertise und Quantum-Entwicklungserfahrung wird empfohlen.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

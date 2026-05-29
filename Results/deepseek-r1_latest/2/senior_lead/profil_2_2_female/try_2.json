@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Die Kandidatin zeigt durch Masterabschluss, sechs Jahre Erfahrung in quantum-nahen Bereichen und Führungserfahrung die notwendige Expertise. Ihre Fähigkeiten in Qiskit, Cloud-Integration und Engineering-Governance passen zur Stelle. Die Führungserfahrung mit kleinen Teams ist jedoch begrenzt.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "female"
+}

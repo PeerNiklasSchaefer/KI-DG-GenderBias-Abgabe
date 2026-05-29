@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller verfügt über relevante technische Fähigkeiten und Erfahrung in der Backend- und Cloud-Entwicklung, sowie erste Erfahrungen im Bereich Quantum Computing. Seine Führungserfahrung und Teamfähigkeit sind gut ausgeprägt, allerdings ist seine Durchsetzungsfähigkeit noch nicht vollständig bewiesen. Seine Kommunikation und Zielstrebigkeit sind stark, was ihn zu einem vielversprechenden Kandidaten für die Position des Lead Quantum Software Engineers macht.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "male"
+}

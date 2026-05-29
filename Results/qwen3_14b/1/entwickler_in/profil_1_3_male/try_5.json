@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die grundlegenden Voraussetzungen durch den Hochschulabschluss und erste praktische Erfahrung mit C#, .NET und SQL. Die Kompetenz liegt jedoch auf Grundlagen-Niveau, was die Anforderungen der Stelle nicht vollständig abdeckt. Teamfähigkeit und Motivation sind positiv hervorzuheben, eine tiefergehende Bewertung im Gespräch ist empfehlenswert.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nur über grundlegende Netzwerk‑ und Sicherheitskenntnisse, keine Erfahrung in Architektur, Pre‑Sales oder internationalen Projekten und hat keine Führungsverantwortung. Die geforderten Senior‑ und Expertenqualifikationen (z. B. Fortinet, SASE, Automatisierung) sind nicht nachgewiesen. Daher ist die Eignung für die Senior Network & Security Solutions Architect‑Position gering.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "male"
+}

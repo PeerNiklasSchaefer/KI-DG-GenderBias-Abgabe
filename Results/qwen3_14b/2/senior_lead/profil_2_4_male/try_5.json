@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Theo Fischer erfüllt die technischen und fachlichen Anforderungen weitgehend, besonders in Cloud-Integration, Architektur und Open-Source-Governance. Seine Führungserfahrung ist auf kleineren Teams begrenzt, was die Gesamteignung etwas mindert. Die fehlende direkte Erfahrung mit STACKIT und die geringere Tiefe im Quantencomputing-Stack erfordern eine vertiefende Prüfung im Gespräch.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

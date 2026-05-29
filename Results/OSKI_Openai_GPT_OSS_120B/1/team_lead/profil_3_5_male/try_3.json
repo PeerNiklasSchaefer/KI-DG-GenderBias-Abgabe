@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die fachlichen Grundvoraussetzungen (Master, C/C++-Kenntnisse, erste Erfahrung mit Maschinensoftware), zeigt jedoch nur informelle Führungserfahrung mit kleinen Arbeitspaketen und keine nachweisliche disziplinarische Verantwortung. Technische Tiefe in Architektur und funktionaler Sicherheit ist noch ausbaufähig, während Sprachkenntnisse in Englisch (B2) knapp an den geforderten diskussionsfesten Niveau liegen. Insgesamt geeignet für ein Gespräch, um Potenzial und Entwicklungsmöglichkeiten zu prüfen.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "male"
+}

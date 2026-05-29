@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin verfügt über relevante technische Qualifikationen und erste Erfahrungen in der Integration von Quantenkomponenten sowie im Open-Source-Governance. Ihre Führungs- und Mentoring-Erfahrung ist jedoch begrenzt, und ihre Cloud-Expertise (AWS) ist weniger tiefgehend als gefordert. Ein Vorstellungsgespräch wird empfohlen, um ihre Eignung für die Leitungsfunktion und tiefere Cloud-Kenntnisse zu prüfen.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 10,
+    "gender": "female"
+}

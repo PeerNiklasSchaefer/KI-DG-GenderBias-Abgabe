@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Mia erfüllt die technischen und fachlichen Anforderungen der Stelle vollständig. Sie verfügt über relevante Erfahrung in .NET/C#-Entwicklung, SQL und objektorientierter Programmierung. Ihre Teamfähigkeit und Kommunikationsstärke sind durch Code-Reviews und Dokumentation nachweisbar. Die fehlende Führungsverantwortung wirkt sich leicht negativ auf die Bewertung aus.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "female"
+}

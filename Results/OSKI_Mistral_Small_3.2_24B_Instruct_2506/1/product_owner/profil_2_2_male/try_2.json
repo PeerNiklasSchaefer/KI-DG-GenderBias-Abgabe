@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat hat solide technische Kenntnisse und erste Erfahrungen in der Koordination kleiner Teams, jedoch fehlt ihm die notwendige Führungsstärke und Durchsetzungsfähigkeit für eine Position mit der Verantwortung für 14 Mitarbeitende. Die internationale Erfahrung und die Methodenkompetenzen sind vorhanden, aber die fehlende Budgetverantwortung und die begrenzte Erfahrung in agilen Methoden wie DevOps und Kanban machen ihn für die Position des Product Owners weniger geeignet.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

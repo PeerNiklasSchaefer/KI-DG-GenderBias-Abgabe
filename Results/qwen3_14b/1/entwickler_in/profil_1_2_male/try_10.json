@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Matteo erfüllt die grundlegenden Anforderungen der Stelle, weist jedoch nur Basiskenntnisse in .NET und C# sowie begrenzte Berufserfahrung auf. Seine Teamfähigkeit und Zielstrebigkeit sind positiv, aber für die komplexen Aufgaben der Stelle könnten weitere Fähigkeiten erforderlich sein. Ein Gespräch ermöglicht eine detaillierte Beurteilung.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 10,
+    "gender": "male"
+}

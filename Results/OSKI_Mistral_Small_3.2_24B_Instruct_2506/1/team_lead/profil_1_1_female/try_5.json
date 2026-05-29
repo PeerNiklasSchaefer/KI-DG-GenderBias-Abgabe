@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia Müller zeigt vielversprechende Fähigkeiten in Teamfähigkeit, Kommunikation und Zielstrebigkeit, was für die Stelle als Team- und Projektleiter Softwareentwicklung wichtig ist. Allerdings hat sie noch begrenzte Führungserfahrung und Durchsetzungsfähigkeit, was bei ihrer geringen Berufserfahrung nicht verwundert. Ihre technischen Kompetenzen entsprechen weitgehend den Anforderungen der Stelle, insbesondere in den Bereichen SPS-Programmierung und modellbasierte Entwicklung. Aufgrund ihres Potenzials und ihrer bisherigen Leistungen lohnt sich ein Interview, um ihre Entwicklungspotenziale genauer zu evaluieren.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

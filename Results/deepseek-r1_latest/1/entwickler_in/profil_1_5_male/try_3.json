@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin hat relevante technische Grundkenntnisse in C# und .NET sowie SQL-Basics. Sie zeigt Potenzial durch Initiative und Anpassungsfähigkeit in Teams. Allerdings fehlen bisher Erfahrungen mit komplexen Projekten und Führungsverantwortung. Die eingeschränkte Berufserfahrung als Junior passt zum Profil, erfordert aber weitere Prüfung.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "male"
+}

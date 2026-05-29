@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kenntnisse und Erfahrung in Security-Implementierungen sowie erste Praxis mit Fortinet und Automation-Tools. Allerdings fehlen klare Belege für die erforderliche Führungsstärke, Durchsetzungsfähigkeit und umfassende Kundenkommunikation auf Senior-Niveau. Eine weitere Prüfung im Gespräch ist empfehlenswert, um die Eignung für die Architekturaufgaben zu klären.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

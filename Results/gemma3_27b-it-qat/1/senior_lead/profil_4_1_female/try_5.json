@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller verfügt über eine solide Basis im Backend-Engineering und Cloud-Bereich, sowie erste Erfahrungen im Quantum Computing. Ihre Mitarbeit an Architekturentscheidungen und die Anleitung kleiner Teams zeigen Potenzial für die Teamführung. Die Erfahrung in der Integration von Komponenten und der Härtung von Code-Basen ist relevant. Ein stärkerer Fokus auf die industrielle Härtung von Code ist wünschenswert.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

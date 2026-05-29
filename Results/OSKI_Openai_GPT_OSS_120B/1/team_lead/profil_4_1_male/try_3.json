@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen relevanten Masterabschluss und fünf Jahre Erfahrung in der embedded Softwareentwicklung sowie zweijährige Projektleitung eines vierköpfigen Teams, was solide Fach- und Teamfähigkeit belegt. Fehlende disziplinarische Führungsverantwortung und nur Grundkenntnisse in funktionaler Sicherheit und modellbasierter Entwicklung reduzieren die Passgenauigkeit für die geforderte Leitungsposition. Insgesamt ist er gut geeignet, sollte jedoch im Gespräch genauer zu Führungs- und Sicherheitskompetenzen befragt werden.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

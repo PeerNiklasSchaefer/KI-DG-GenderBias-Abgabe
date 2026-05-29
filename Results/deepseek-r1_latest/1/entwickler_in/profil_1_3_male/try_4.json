@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat hat einen Hochschulabschluss in Informatik und Grundkenntnisse in .NET/C# und SQL, was die technischen Anforderungen teilweise erfüllt. Die geringe berufliche Erfahrung und das Fehlen von Führungs- und Durchsetzungsqualitäten sowie einer ausgewiesenen Teammitgliedschaft in relevanten Projekten begrenzen jedoch die Gesamteignung. Ein Vorinterview wäre sinnvoll.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

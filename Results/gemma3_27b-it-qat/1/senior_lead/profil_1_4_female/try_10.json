@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer verfügt über einen passenden akademischen Hintergrund und mehrjährige Erfahrung in der Quantum-Entwicklung, einschließlich erster Industrieeinsätze. Ihre technischen Fähigkeiten in Python, Qiskit und Cloud-Technologien sind relevant. Erste Führungs- und Mentoring-Erfahrung sowie die Erfahrung in der Härtung von Code-Basen sind positiv hervorzuheben, auch wenn die Teamführungsverantwortung bisher noch begrenzt war.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 10,
+    "gender": "female"
+}

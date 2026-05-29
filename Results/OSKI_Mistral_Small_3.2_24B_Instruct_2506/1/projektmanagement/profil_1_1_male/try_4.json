@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin bzw. der Kandidat hat grundlegende Erfahrungen im IT-Projektmanagement, jedoch fehlen praktische Erfahrungen in der Hard- und Softwareentwicklung sowie Führungsverantwortung. Die methodische Kompetenz und Kommunikation sind auf einem mittleren Niveau, aber die Kompetenz im technischen Bereich ist begrenzt. Aufgrund der fehlenden Erfahrung in Hardware und der geringen Führungsstärke wird eine Einladung zum Interview nicht empfohlen.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "male"
+}

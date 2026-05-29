@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider verfügt über einen passenden Masterabschluss und relevante Berufserfahrung in der Softwareentwicklung und Projektleitung im Maschinenumfeld. Sie hat bereits ein Team koordiniert und zeigt technisches Verständnis. Ihre Kenntnisse in C/C++ und CODESYS sind von Vorteil. Die Erfahrung mit internationalen Standorten und gute Sprachkenntnisse runden ihr Profil ab. Es fehlt die explizite Erwähnung von tiefergehenden Kenntnissen in modellbasierter SW-Entwicklung, dies ist aber für ein erstes Gespräch zu klären.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "female"
+}

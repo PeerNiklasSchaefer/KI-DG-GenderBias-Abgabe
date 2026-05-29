@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer verfügt über relevante technische Kompetenzen, einschlägige Erfahrung in Cloud-Integration und Quantum-Entwicklung sowie Führungsverantwortung in kleineren Teams. Seine Kenntnisse in Qiskit, AWS und OSS-Governance entsprechen den Anforderungen, jedoch fehlen konkrete Nachweise zu STACKIT und umfassender Teamleitung. Ein Interview zur Vertiefung der Leadership- und Cloud-Plattform-Erfahrung wird empfohlen.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Emma erfüllt die technischen Anforderungen vollständig und zeigt Initiative sowie Teamfähigkeit. Führungsstärke und Kommunikation sind zwar nicht explizit erwähnt, aber durch die strukturierte Arbeitsweise und die Erfahrung in Code-Reviews ist ein Gespräch zur weiteren Abklärung sinnvoll.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "female"
+}

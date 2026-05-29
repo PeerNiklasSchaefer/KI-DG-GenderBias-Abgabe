@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Leon Schneider verfügt über einen relevanten Master-Abschluss und mehrjährige Erfahrung in der Quantum-Entwicklung, was für die Stelle wichtig ist. Seine Erfahrung in der Integration von Forschungsergebnissen in produktnahe Anwendungen und seine Kenntnisse in Python und Qiskit sind positiv hervorzuheben. Erste Führungserfahrung im kleinen Teamkontext sowie die Mitarbeit an Architekturentscheidungen deuten auf Potenzial in der Teamleitung hin.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 8,
+    "gender": "male"
+}

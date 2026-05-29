@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat hat zwar grundlegende Kenntnisse in Projektmanagement und IT, jedoch fehlt es an relevanter Erfahrung in der Hard- und Softwareentwicklung sowie in der Führung eines Entwicklungsteams. Die fehlende Führungsstärke und Durchsetzungsfähigkeit machen ihn für die Position des Projektmanagers IT weniger geeignet.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "male"
+}

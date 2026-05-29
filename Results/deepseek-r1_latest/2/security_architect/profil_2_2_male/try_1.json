@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin hat eine gute technische Basis, insbesondere in SD-WAN und Fortinet, sowie Kommunikationsfähigkeiten. Sie fehlt jedoch die erforderliche Führungs- und strategische Architekturverantwortung, was die Eignung begrenzt. Ein persönliches Gespräch kann diese Aspekte vertiefen.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "male"
+}

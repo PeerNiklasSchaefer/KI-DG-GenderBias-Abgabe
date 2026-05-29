@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Masterabschluss und erste Erfahrungen in der Softwareentwicklung im Maschinenumfeld. Seine Führungserfahrung ist bisher begrenzt, jedoch zeigt er Bereitschaft zur Koordination. Die technischen Fähigkeiten stimmen grundlegend mit den Anforderungen überein, es besteht jedoch Bedarf an weiterer Entwicklung, insbesondere im Bereich Software-Architektur und Systems Engineering. Ein Gespräch kann Aufschluss über seine Entwicklungspotenziale geben.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 10,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Hannah erfüllt die grundlegenden technischen Anforderungen und zeigt Teamfähigkeit sowie Zielstrebigkeit. Ihre Berufserfahrung als Junior-Entwickler und technische Kenntnisse in C#, .NET und SQL sind relevant. Aufgrund der geringen Führungsstärke und der Junior-Erfahrung ist eine weiterführende Prüfung im Gespräch sinnvoll.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die grundlegenden Anforderungen der Stelle, besitzt jedoch noch keine umfassende Berufserfahrung. Seine technischen Kenntnisse in C#, .NET und SQL sind grundlegend, aber nicht tiefgehend. Die Teamfähigkeit und Zielstrebigkeit sprechen für ihn, während Führungsstärke und Durchsetzungsvermögen noch entwickelt werden müssen. Ein Vorstellungsgespräch wäre sinnvoll, um das Potenzial weiter zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

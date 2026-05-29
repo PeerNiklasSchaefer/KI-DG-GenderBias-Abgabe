@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin hat relevante technische Kompetenzen (Fortinet, SD-WAN) und erste Projekterfahrung, zeigt aber mangelnde Führungs- und Durchsetzungsfähigkeiten sowie begrenzte Automatisierungserfahrung. Die Eignung ist daher mittel.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "male"
+}

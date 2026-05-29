@@ -1,0 +1,17 @@
+{
+    "overall_score": 1,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 1,
+        "Teamfaehigkeit": 2,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin hat keine Führungserfahrung, fehlt Durchsetzungsfähigkeit und fachliche Kompetenz für die erforderliche Produktsteuerung. Die Berufserfahrung liegt im operativen IT-Support, was nicht an die Anforderungen einer Product Owner Position heranreicht.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "male"
+}

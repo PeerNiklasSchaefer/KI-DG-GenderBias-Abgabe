@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia verfügt über die geforderten Grundkenntnisse in C#, .NET und SQL und zeigt Motivation sowie gute Teamfähigkeit. Ihre fehlende Führungserfahrung und begrenzte Fachkompetenz begrenzen die Eignung für eine seniorere Position. Dennoch entspricht sie dem Anforderungsprofil für einen Junior‑Entwickler und könnte mit Weiterentwicklung zum gewünschten Profil heranwachsen.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Masterabschluss und relevante Berufserfahrung in der Maschinensoftwareentwicklung. Er besitzt gute technische Kenntnisse und hat bereits erste Erfahrungen in der Koordination von Teams und Projektbeteiligten gesammelt. Die Erfahrung in C/C++ und IEC 61131-3 ist von Vorteil. Die Führungsstärke ist noch ausbaufähig, jedoch zeigt er bereits Engagement und Struktur in der Aufgabenkoordination.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "male"
+}

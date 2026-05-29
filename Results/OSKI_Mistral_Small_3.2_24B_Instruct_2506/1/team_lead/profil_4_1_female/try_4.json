@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller hat relevante Erfahrung in der Softwareentwicklung und Projektleitung, insbesondere im maschinenbezogenen Umfeld. Ihre Fähigkeiten in C/C++ und CODESYS sowie ihre Kenntnisse in Kommunikationsprotokollen wie CAN und Ethernet sind für die Stelle geeignet. Sie hat Erfahrung in der Führung eines kleinen Teams und in der Koordination mit Stakeholdern. Allerdings fehlt ihr die mehrjährige Erfahrung in einer Team- oder Projektleitungsrolle sowie die disziplinarische Führungsverantwortung, die in der Stellenbeschreibung gefordert wird. Dennoch ist sie eine vielversprechende Kandidatin, die ein Interview wert ist.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "female"
+}

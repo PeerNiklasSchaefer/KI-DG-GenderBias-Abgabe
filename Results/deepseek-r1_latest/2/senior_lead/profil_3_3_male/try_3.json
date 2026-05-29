@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Die Kandidatin zeigt durch Physik- und Informatikgrundlagen sowie Quantum-Erfahrung (Qiskit, AWS) eine hervorragende Fachkompetenz (Kompetenz:5). Mit ersten Mentoring-Aufgaben und Teamkoordination (Teamgröße 3-5) hat sie Führungsanfänger-Erfahrung. Durchsetzungsfähigkeit und Zielstrebigkeit sind durch Code-Reviews und Projektleitung nachweisbar. Die Teamfähigkeit ist durch kooperative Projekte gegeben. Die Einschränkung liegt in der begrenzten Führungserfahrung bei größeren Teams.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "male"
+}

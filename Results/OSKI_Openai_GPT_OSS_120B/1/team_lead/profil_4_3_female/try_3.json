@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider verfügt über relevante Master‑Qualifikation und fünf Jahre Erfahrung in der embedded Softwareentwicklung, davon zwei Jahre als Projektleiter eines vierköpfigen Teams. Sie zeigt starke Team‑ und Kommunikationsfähigkeiten sowie praktische Kenntnisse in C/C++, CODESYS, CAN und Ethernet, die den technischen Anforderungen entsprechen. Ihre Führungserfahrung ist solide, jedoch fehlt bislang disziplinarische Verantwortung und tiefgehende Expertise in funktionaler Sicherheit. Insgesamt ist sie gut geeignet für ein erstes Gespräch.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Hannah Weber zeigt gute Teamfähigkeit und eine solide Grundlage in den erforderlichen technischen Fähigkeiten wie C#, .NET und SQL. Ihre Erfahrung ist jedoch noch begrenzt, da sie sich im Berufseinstieg befindet. Sie hat keine Führungs- oder Durchsetzungsverantwortung, was für die Position nicht zwingend erforderlich ist. Ein Vorstellungsgespräch wäre sinnvoll, um ihre Motivation, Lernbereitschaft und kulturelle Passung genauer zu bewerten.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "female"
+}

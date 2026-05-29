@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo Schmidt verfügt über einen passenden Masterabschluss und relevante Berufserfahrung im Backend-Bereich, einschließlich Quantum-Fokus. Er hat bereits erste Lead-Anteile übernommen und Erfahrung mit der Integration neuer Komponenten in Cloud-Strukturen. Seine Kenntnisse in Qiskit und AWS sind für die Stelle von Vorteil. Die Erfahrung in OSS-Governance und Code-Härtung ist ebenfalls relevant, jedoch noch nicht umfassend.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 6,
+    "gender": "male"
+}

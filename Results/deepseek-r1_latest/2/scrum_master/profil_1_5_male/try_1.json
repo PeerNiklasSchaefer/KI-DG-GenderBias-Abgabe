@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin zeigt praktische Erfahrung in Scrum-Events und Tools (Kommunikation und Kompetenz hoch), hat jedoch wenig Führungserfahrung und fehlende internationale Agilitätserfahrung (Führungsstärke und Durchsetzungsfähigkeit gering). Die PSM-Zertifizierung ist geplant.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "male"
+}

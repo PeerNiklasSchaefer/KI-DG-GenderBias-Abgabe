@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Leon Schneider zeigt eine starke technische Eignung für die Position als Lead Quantum Software Engineer, insbesondere durch seine Erfahrung in der Entwicklung und Integration von Quantum-Komponenten sowie seine Kenntnisse in Qiskit und AWS. Seine Führungserfahrung ist noch begrenzt, aber er hat bereits erfolgreiche Mentoring- und Koordinationsaufgaben übernommen. Seine Sprachkenntnisse entsprechen nicht vollständig den Anforderungen, sind aber für eine Einladung zum Vorstellungsgespräch ausreichend.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "male"
+}

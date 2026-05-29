@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat erfüllt die technischen Anforderungen (C#, .NET, SQL) und zeigt Teamfähigkeit sowie Zielstrebigkeit. Führungsstärke fehlt jedoch, was bei der Stelle nicht zwingend erforderlich ist. Eine Vorstellungsgesprächs-Empfehlung wird gegeben, um die Eignung im Detail zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 10,
+    "gender": "male"
+}

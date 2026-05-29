@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Luca Weber hat relevante technische Fähigkeiten und erste Führungserfahrungen, zeigt aber begrenzte Erfahrung mit Teams über 3 Personen und fehlende Kenntnisse in IEC 61131-3 sowie modellbasierter Entwicklung.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

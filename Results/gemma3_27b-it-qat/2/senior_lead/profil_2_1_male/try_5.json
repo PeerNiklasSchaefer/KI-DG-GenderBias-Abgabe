@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über eine sehr gute technische Kompetenz im Bereich Backend-Entwicklung und Cloud-Technologien, ergänzt durch Erfahrungen im Quantencomputing. Seine Führungsstärke ist durch die fachliche Leitung von Teilprojekten und Mentoring belegt, jedoch fehlt eine umfassende Führungserfahrung. Die Teamfähigkeit und Kommunikationsfähigkeit scheinen gut ausgeprägt. Insgesamt ist er eine vielversprechende Besetzung.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

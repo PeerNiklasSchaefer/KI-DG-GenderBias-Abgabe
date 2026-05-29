@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Führungserfahrung mit maximal zwei Teammitgliedern entspricht nicht den Anforderungen einer Leiterposition mit mehr als drei Teammitgliedern. Als Junior-Entwickler fehlt die erforderliche Eignung für komplexe Team- und Projektleitung.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

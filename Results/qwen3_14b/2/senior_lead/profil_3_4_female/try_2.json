@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia erfüllt die technischen und fachlichen Anforderungen weitgehend, zeigt jedoch noch nicht vollständig die erforderliche Führungserfahrung für eine Leitungsposition. Ihre Kompetenz in Quantencomputing, Cloud-Integration und OSS-Governance ist relevant, aber weiterführende Projekte zur Architekturdefinition und Hybridalgorithmen fehlen. Eine vertiefende Prüfung im Gespräch ist empfehlenswert.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "female"
+}

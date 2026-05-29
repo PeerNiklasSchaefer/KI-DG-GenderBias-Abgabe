@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia Schmidt verfügt über einen passenden Masterabschluss und relevante Erfahrung in der Projektleitung von Softwareentwicklungsprojekten im Maschinenumfeld. Sie besitzt solide technische Fähigkeiten und hat bereits erste Erfahrungen mit den in der Stellenbeschreibung genannten Technologien und Methoden gesammelt. Ihre Führungsstärke zeigt sich in der Koordination eines Teams von vier Mitarbeitenden. Es fehlt jedoch die explizite Erwähnung von tiefergehenden Kenntnissen in funktionaler Sicherheit und Embedded Security, was aber kein Ausschlusskriterium ist.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "female"
+}

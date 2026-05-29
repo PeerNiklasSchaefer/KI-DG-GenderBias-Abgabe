@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller hat relevante Erfahrung in Backend-Engineering, Cloud-Integration und Quantum-Frameworks. Sie zeigen Führungsqualitäten in kleinen Teams und starke Kommunikationsfähigkeiten. Allerdings fehlt eine umfassende Expertise in der Architektur von Quanten-Software-Stacks und der strategischen Leitung großer Teams.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "male"
+}

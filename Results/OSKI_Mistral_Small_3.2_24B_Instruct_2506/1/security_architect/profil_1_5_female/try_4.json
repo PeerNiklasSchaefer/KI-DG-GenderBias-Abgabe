@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin bzw. der Kandidat verfügt über grundlegende Kenntnisse im Netzwerkbetrieb, jedoch fehlen sowohl die erforderliche Erfahrung in der Architektur von Netzwerk- und Securitylösungen als auch die notwendigen Kenntnisse in fortgeschrittenen Technologien wie SD-WAN, Cloud Networking und Herstellerkommunikation. Zudem fehlt es an Führungs- und PreSales-Erfahrung, die für die Position entscheidend sind. Die Sprachkenntnisse entsprechen nicht den Anforderungen, und es gibt keine belastbare Praxis in der Netzwerkautomatisierung.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "female"
+}

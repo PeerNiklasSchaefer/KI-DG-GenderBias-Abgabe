@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat zeigt Teamfähigkeit und Kommunikationsfähigkeiten, hat aber keine Führungserfahrung und fehlende Expertise in SAP/Workday sowie Compliance. Daher wird eine weitere Bewertung vorgeschlagen.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "male"
+}

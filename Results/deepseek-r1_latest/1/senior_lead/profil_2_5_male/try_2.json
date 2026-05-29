@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat zeigte durch fachliche Führung und Mentoring-Erfahrung eine ausreichende Führungsqualität. Die technische Expertise in Backend-Entwicklung und quantenrelevanten Frameworks (Qiskit) wird die erforderlichen Kompetenzen abdecken. Teamfähigkeit und Kommunikation sind sehr gut ausgebildet. Die geringfügige Einschränkung liegt in der Tiefe der Cloud-Integrationserfahrung.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat hat grundlegende Erfahrungen in der IT-Projektmitarbeit, jedoch fehlen ihm relevante Führungs- und Durchsetzungsfähigkeiten sowie umfangreiche technische Kompetenzen in Hardware und Softwareentwicklung. Die Sprachkenntnisse entsprechen nicht vollständig den Anforderungen, und es mangelt an praktischer Erfahrung in der Steuerung von Entwicklungsteams.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "female"
+}

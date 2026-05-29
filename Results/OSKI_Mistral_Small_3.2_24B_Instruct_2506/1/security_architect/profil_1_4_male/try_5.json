@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat weist zwar einen relevanten Hochschulabschluss und erste Berufserfahrung im Netzwerkbetrieb auf, jedoch fehlen ihm die mehrjährigen Erfahrungen in der Architektur von Netzwerk- und Securitylösungen sowie tiefgehende Kenntnisse in den geforderten Technologien wie SD-WAN, Cloud Networking und Fortinet. Zudem hat er keine Führungs- oder PreSales-Erfahrung, was für die angestrebte Senior-Architekturposition entscheidend wäre.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

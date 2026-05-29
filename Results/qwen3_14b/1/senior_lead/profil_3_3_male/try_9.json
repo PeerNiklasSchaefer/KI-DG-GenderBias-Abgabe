@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Leon Schneider verfügt über relevante technische Kompetenzen, einschließlich Qiskit und Cloud-Integrationen, sowie erste Führungserfahrung. Seine englischen Kenntnisse (B2) und der geringere Cloud-Expertise-Grad (AWS-Grundkenntnisse) erfordern eine tiefergehende Prüfung im Gespräch. Die Eignung ist hoch, aber nicht vollständig nachweisbar ohne weitere Einblicke.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 9,
+    "gender": "male"
+}

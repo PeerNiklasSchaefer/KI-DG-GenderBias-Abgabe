@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Matteo Schmidt zeigt eine solide Basis in den geforderten Technologien (.NET, C#, SQL) und einen Hochschulabschluss in Informatik. Seine Berufserfahrung beschränkt sich jedoch auf erste Schritte in der Softwareentwicklung, weshalb die Kompetenz eher mittel einzustufen ist. Er scheint ein Teamplayer zu sein und ist motiviert, was eine gute Grundlage für den Berufseinstieg darstellt.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

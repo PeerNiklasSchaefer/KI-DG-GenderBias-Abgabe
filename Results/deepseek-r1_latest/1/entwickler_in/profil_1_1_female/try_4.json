@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia hat relevante technische Grundkenntnisse (C#, .NET, SQL) und zeigt Teamfähigkeit sowie Zielstrebigkeit. Durchsetzungsfähigkeit und Führungsstärke sind gering, aber das Potenzial für ein Junior-Projekt erkennbar.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber erfüllt die meisten Anforderungen, einschließlich der technischen Kompetenz und Führungserfahrung. Die Erfahrung mit Qiskit und AWS ist relevant, jedoch fehlt explizit die Erwähnung von STACKIT-Integration. Die Führungsstärke und Teamfähigkeit sind gut belegt, jedoch könnte die Durchsetzungsfähigkeit im Vergleich zur Stellenbeschreibung etwas stärker ausgeprägt sein.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "male"
+}

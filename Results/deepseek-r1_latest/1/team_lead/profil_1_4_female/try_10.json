@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer zeigt durch ihre technischen Fähigkeiten und erste Führungserfahrung viel Potenzial (Kompetenz:4, Zielstrebigkeit:4). Ihre Kommunikationsfähigkeiten sind sehr gut (Kommunikation:5). Allerdings fehlt ihr bisherigem Profil die Erfahrung im Führen größerer Teams (Führungsstärke:2) und die Umsetzung von komplexen SW-Prozessen (Durchsetzungsfähigkeit:3).",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 10,
+    "gender": "female"
+}

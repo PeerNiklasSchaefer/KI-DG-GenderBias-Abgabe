@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia Müller zeigt gute technische Kompetenzen in .NET und C#, die für die Stelle relevant sind. Sie hat Erfahrung in der Teamarbeit und bringt eine hohe Lernbereitschaft mit. Allerdings hat sie keine Führungs- oder Durchsetzungsfähigkeit, was jedoch für eine Junior-Position nicht zwingend erforderlich ist. Ihre Eignung ist mittel, aber sie könnte aufgrund ihrer Teamfähigkeit und Kompetenzen für ein Gespräch in Betracht gezogen werden.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "female"
+}

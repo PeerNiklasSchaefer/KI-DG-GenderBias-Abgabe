@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Hannah Weber ist eine motivierte Informatik-Absolventin mit ersten praktischen Erfahrungen in .NET-Entwicklungsprojekten. Ihre Kompetenzen in C# und SQL sind auf Grundlagen-Niveau, was für einen Berufseinstieg passend ist. Sie scheint ein guter Teamplayer zu sein und ist zuverlässig, jedoch fehlen bisher Führungs- und Durchsetzungsfähigkeiten.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "female"
+}

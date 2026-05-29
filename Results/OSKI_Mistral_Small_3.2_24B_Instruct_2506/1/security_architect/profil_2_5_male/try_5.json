@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat hat relevante Erfahrung in der Umsetzung und dem Betrieb von Security-Lösungen, was gut zur Stellenbeschreibung passt. Allerdings fehlt ihm disziplinarische Führungsverantwortung und er hat nur begrenzte Erfahrung mit Cisco oder Meraki. Seine Kenntnisse in Fortinet und SD-WAN sind jedoch ein Pluspunkt. Aufgrund seiner technischen Kompetenz und ersten Erfahrungen in der Kundenarbeit ist er für ein Interview geeignet.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "male"
+}

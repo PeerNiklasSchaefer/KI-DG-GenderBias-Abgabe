@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über keine Architekturverantwortung und fehlende Erfahrung mit fortgeschrittenen Sicherheitslösungen wie SD-WAN oder Fortinet. Die Kompetenz liegt im operativen Bereich, nicht in der strategischen Konzeption. Die Eignung für die Senior-Rolle ist daher eingeschränkt.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "female"
+}

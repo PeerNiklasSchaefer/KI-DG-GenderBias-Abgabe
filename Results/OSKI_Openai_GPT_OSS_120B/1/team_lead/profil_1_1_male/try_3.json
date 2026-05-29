@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nur über ein Jahr Berufserfahrung und hat bislang lediglich koordinative Aufgaben ohne disziplinarische Führungsverantwortung übernommen. Die geforderten tiefgehenden Kenntnisse in Software-Architektur, Systems Engineering und modellbasierter Entwicklung sind nur grundlegend vorhanden. Teamarbeit und Kommunikationsfähigkeiten erscheinen solide, jedoch reichen die Führungskompetenzen und die technische Expertise nicht aus, um die Leitungsfunktion zu erfüllen.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

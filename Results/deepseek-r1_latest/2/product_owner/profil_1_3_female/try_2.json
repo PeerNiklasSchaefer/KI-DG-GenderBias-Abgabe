@@ -1,0 +1,17 @@
+{
+    "overall_score": 1,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 1
+    },
+    "reasoning": "Der Kandidat hat keine Führungserfahrung und mangelnde Kompetenz in agilen Methoden und IT-Produktsteuerung. Seine Berufserfahrung liegt im operativen IT-Support, was die strategische Führungsposition nicht deckt.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über solide technische Grundlagen und gute Kommunikationsfähigkeiten, jedoch fehlt es an Führungserfahrung, tiefgehender Architekturkompetenz und umfassender Expertise mit den geforderten Technologien. Die bisherige Berufserfahrung entspricht eher einer mittleren Fachkraft als einem Senior Architect. Daher ist die Gesamtpassung für die Senior‑Position gering.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "male"
+}

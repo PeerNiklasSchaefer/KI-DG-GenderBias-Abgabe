@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Die Kandidatin zeigte durch ihre technischen Fähigkeiten (C/C++, CODESYS, CAN/Ethernet) und Projekterfahrung eine hohe Kompetenz (5). Ihre Führungserfahrung mit 4 Mitarbeitern (2 Jahre) bewertet die Führungsstärke als mittel (3).",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 8,
+    "gender": "female"
+}

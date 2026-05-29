@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller hat eine solide Ausbildung und relevante Berufserfahrung im Quantum-Computing-Umfeld, was seine Kompetenz und Zielstrebigkeit unterstreicht. Seine Erfahrung in der Backend-Entwicklung und Teilintegration von Quantum-Komponenten sowie seine ersten Führungs- und Mentoring-Erfahrungen sind vielversprechend. Allerdings fehlen ihm noch tiefgehende Cloud-Integrationserfahrungen und vollständige Führungsverantwortung, was seine Führungsstärke und Durchsetzungsfähigkeit auf einer mittleren Ebene belässt. Insgesamt ist er ein starker Kandidat, der ein Interview verdient.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

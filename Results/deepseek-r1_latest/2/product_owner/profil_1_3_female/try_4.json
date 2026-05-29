@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin hat keine Führungserfahrung, keine Anwendung agiler Methoden und unzureichende Englischkenntnisse (B2 statt verhandlungssicher).",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "female"
+}

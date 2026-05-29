@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Mia verfügt über relevante technische Kenntnisse und erste Führungs- und Mentoringerfahrung, jedoch fehlen tiefgehende Erfahrungen in Cloud-Integration (STACKIT) und strategischer Architekturplanung. Ihre Kenntnisse in Qiskit und OSS-Governance sind passend, aber nicht umfassend genug für die geforderten Aufgaben. Eine weitere Prüfung im Gespräch ist sinnvoll.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "female"
+}

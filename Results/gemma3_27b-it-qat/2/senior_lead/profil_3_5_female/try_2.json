@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah Weber verfügt über einen passenden Studienhintergrund und relevante Berufserfahrung im quantum-nahen Umfeld. Sie hat bereits Erfahrung in Backend-Entwicklung, Cloud-Integration und der Arbeit mit Qiskit. Erste Mentoring-Aufgaben und die Teilverantwortung für Module deuten auf Führungs- und Teamfähigkeit hin. Die AWS-Grundkenntnisse und die Erfahrung in der industriellen Härtung von Code-Basen sind ebenfalls positiv zu bewerten.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "female"
+}

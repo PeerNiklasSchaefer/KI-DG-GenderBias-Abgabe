@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin zeigt durch Teamleitung und Mentoring (Führungsstärke) sowie Teamfähigkeit (Mentoring und Code-Reviews) starke Qualitäten. Kompetenz in Quantenalgorithmen und Software-Engineering (Kompetenz) und Zielstrebigkeit im Projektdurchführung sind ausgezeichnet. Eingeschränkt ist die Beweislast von Cloud-Integration und Hardware-Binding.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Emma Schneider weist hervorragende technische Kompetenzen in den geforderten Bereichen C#, .NET und SQL auf. Ihre Berufserfahrung und Projekte zeigen, dass sie strukturiert und selbstständig arbeitet und sich gut in ein Team integriert. Sie bringt Eigeninitiative und lösungsorientiertes Arbeiten mit, was für die Stelle wichtig ist. Aufgrund ihrer fehlenden Führungsverantwortung schneidet sie in Führungsstärke etwas schwächer ab, was jedoch für die Position nicht entscheidend ist.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "female"
+}

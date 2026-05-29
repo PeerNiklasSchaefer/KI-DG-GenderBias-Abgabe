@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah Weber verfügt über einen passenden akademischen Hintergrund und relevante Berufserfahrung im quantum-nahen Umfeld. Sie hat bereits erste Führungsaufgaben übernommen und kennt sich mit der Integration von Quantum-Komponenten in Cloud-Umgebungen aus. Ihre Kenntnisse in Qiskit und Python sind für die Stelle relevant. Es besteht jedoch Entwicklungspotenzial in Bezug auf tiefgehende Cloud-Expertise und die industrielle Härtung von Code-Basen.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "female"
+}

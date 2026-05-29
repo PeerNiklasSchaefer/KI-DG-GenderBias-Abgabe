@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Luca erfüllt die fachlichen Anforderungen an .NET/C# und SQL, bringt aber nur 2 Jahre Erfahrung mit. Er hat keine Führungserfahrung, zeigt jedoch gute Team- und Kommunikationsfähigkeiten durch Code‑Reviews und Dokumentation. Seine hohe Lernbereitschaft und Selbstmotivation sprechen für Zielstrebigkeit. Insgesamt passt er gut für die Junior‑ bis Mid‑Level‑Rolle, daher sollte er zu einem Gespräch eingeladen werden.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "male"
+}

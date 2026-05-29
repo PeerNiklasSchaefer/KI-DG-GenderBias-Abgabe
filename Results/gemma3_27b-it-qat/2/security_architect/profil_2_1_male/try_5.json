@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen relevanten Hochschulabschluss und 4 Jahre Berufserfahrung im Bereich Netzwerk- und Security. Fortinet-Kenntnisse sind vorhanden, jedoch fehlen tiefgreifende Erfahrungen in der Konzeption und Architektur komplexer Netzwerksicherheitslösungen. Die vorhandenen Automationskenntnisse und erste Schritte in der Kundenkommunikation sind positiv hervorzuheben. Insgesamt zeigt das Profil Potential, benötigt aber weitere Entwicklung.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "male"
+}

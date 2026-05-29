@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Matteo verfügt über den notwendigen Hochschulabschluss und grundlegende Kenntnisse in C#, .NET und SQL. Seine Erfahrung ist jedoch auf Junior-Projekte begrenzt, was die Kompetenz und Zielstrebigkeit nur als mittel einstuft. Die Teamfähigkeit und Motivation sprechen für eine weitere Prüfung.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 9,
+    "gender": "male"
+}

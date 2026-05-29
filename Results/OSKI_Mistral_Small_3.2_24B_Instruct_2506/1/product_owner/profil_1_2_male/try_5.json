@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat weist zwar grundlegende Kenntnisse im Client-Betrieb und IT-Service auf, jedoch fehlen ihm die notwendige Erfahrung in der Produktsteuerung und agilen Methoden, die für die Position des Product Owners erforderlich sind. Zudem hat er keine Führungs- oder Budgetverantwortung, was für die fachliche Führung eines 14-köpfigen Teams entscheidend wäre. Die internationale Projektverantwortung und verhandlungssichere Englischkenntnisse sind ebenfalls nicht gegeben, wie in der Stellenbeschreibung gefordert.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "male"
+}

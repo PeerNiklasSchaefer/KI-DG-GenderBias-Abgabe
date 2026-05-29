@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller zeigt eine starke Eignung für die Position als Lead Quantum Software Engineer. Sie hat relevante Erfahrung in Backend- und Cloud-Technologien sowie in der Integration neuer Komponenten in bestehende Cloud-Strukturen. Ihre Führungs- und Teamfähigkeiten sind gut dokumentiert, und sie verfügt über erste Erfahrungen mit Quantencomputing-Frameworks. Ihre Fähigkeit zur technischen Anleitung von Teams und ihre Erfahrung in der industriellen Härtung von Code sind besonders hervorzuheben. Die Bewertung ist jedoch leicht reduziert, da ihre Erfahrung im Bereich Quantencomputing noch nicht umfangreich ist.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

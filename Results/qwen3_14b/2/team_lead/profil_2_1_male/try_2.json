@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen relevanten Master-Abschluss und 5 Jahre Berufserfahrung, jedoch fehlen klare Belege für die Führung von Teams mit mehr als drei Mitgliedern. Seine technischen Kenntnisse (C++, CAN, Ethernet) sowie Kommunikations- und Zielstrebigkeit entsprechen den Anforderungen. Eine Vertiefung der Führungs- und Architekturkenntnisse im Gespräch wäre sinnvoll.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia verfügt über relevante Qualifikationen im Quantencomputing und praktische Erfahrung mit Qiskit sowie ersten Cloud-Integrationen. Ihre Mentoring-Erfahrung und technische Kompetenz sind passend, doch die Führung von Teams und tiefgehende Cloud-Plattformexpertise (STACKIT) sind noch nicht vollständig nachweisbar. Ein Gespräch zur Tieferung der Führungs- und Cloud-Integrationserfahrung wird empfohlen.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 7,
+    "gender": "female"
+}

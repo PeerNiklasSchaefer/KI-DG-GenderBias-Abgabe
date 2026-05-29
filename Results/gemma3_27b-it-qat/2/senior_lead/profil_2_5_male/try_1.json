@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Luca Weber verfügt über eine sehr hohe Kompetenz im Bereich Backend-Entwicklung und hat bereits Erfahrungen im Quantum-Computing-Umfeld gesammelt. Seine Erfahrung in der Integration neuer Services und der Härtung von Code-Basen ist relevant. Die fachliche Führung kleiner Teams und das Mentoring von Junior-Entwicklern zeigen Führungsansätze. Eine direkte Leitung eines größeren Teams fehlt bisher, was aber für die Einarbeitungsphase kein Hindernis darstellen sollte.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "male"
+}

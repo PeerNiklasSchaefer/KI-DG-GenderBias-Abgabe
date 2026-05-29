@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin verfügt über relevante technische Kompetenzen in Cloud-Plattformen, Backend-Entwicklung und Quantum-Frameworks sowie Erfahrung in Code-Härtung. Ihre Führungserfahrung in kleineren Teams und Mentoring-Kompetenz entsprechen den Anforderungen. Geringere Expertise in der direkten Quantenhardware-Anbindung und STACKIT-Spezifika erfordern eine vertiefende Prüfung im Gespräch.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "female"
+}

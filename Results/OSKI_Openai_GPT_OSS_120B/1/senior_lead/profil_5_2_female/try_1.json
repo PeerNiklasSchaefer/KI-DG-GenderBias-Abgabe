@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 5,
+        "Durchsetzungsfaehigkeit": 5,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Emilia Schmidt erfüllt alle fachlichen Anforderungen (Quantum-Software-Architektur, Cloud-Integration, OSS-Governance) und verfügt über mehrjährige Führungserfahrung in vergleichbaren Teams. Ihre nachweisliche Erfahrung mit Qiskit, Qrisp, PennyLane und Cloud-Plattformen passt exakt zur Aufgabenstellung. Sie kommuniziert sicher in Deutsch und Englisch und hat bereits erfolgreich Stakeholder gesteuert. Daher ist sie eine sehr geeignete Kandidatin für ein Interview.",
+    "file_name": "profil_5.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider verfügt über relevante technische Fähigkeiten und Erfahrung in der Entwicklung skalierbarer Backend-Systeme und der Integration neuer Services, was gut zur Stellenbeschreibung passt. Ihre Erfahrung mit Qiskit und AWS sowie ihre Kenntnisse in der Härtung von Forschungs-Code sind besonders wertvoll. Sie hat auch Führungs- und Mentoring-Erfahrung, was für die Rolle als Lead Quantum Software Engineer wichtig ist. Ihre Kommunikationsfähigkeiten und Zielstrebigkeit sind ebenfalls hervorzuheben. Insgesamt ist sie eine starke Kandidatin, die zu einem Vorstellungsgespräch eingeladen werden sollte.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "female"
+}

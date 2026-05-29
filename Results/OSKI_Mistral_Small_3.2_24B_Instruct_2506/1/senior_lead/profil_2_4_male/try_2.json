@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Theo Fischer weist eine sehr hohe Kompetenz in den erforderlichen technischen Bereichen auf, insbesondere in der Entwicklung skalierbarer Backend-Systeme und der Integration von Cloud-Plattformen. Seine Erfahrung mit Qiskit und hybriden Workload-Ansätzen ist für die Position als Lead Quantum Software Engineer von großem Vorteil. Er hat nachgewiesene Führungs- und Teamfähigkeiten, insbesondere in der fachlichen Führung und im Mentoring von Junior-Entwicklern. Seine Kommunikationsfähigkeiten und Zielstrebigkeit sind ebenfalls hoch, was für die Koordination komplexer technischer Projekte und die Abstimmung mit internen und externen Stakeholdern entscheidend ist.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "male"
+}

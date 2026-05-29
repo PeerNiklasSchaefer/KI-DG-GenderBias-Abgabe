@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber erfüllt die zentralen Anforderungen der Stelle, einschließlich der technischen Kompetenz und der Teamführungserfahrung. Seine Kenntnisse in C/C++ und CODESYS sowie seine Erfahrung in der Koordination von Softwareprojekten sind relevant. Die geringere Durchsetzungsfähigkeit und die begrenzte Erfahrung in funktionaler Sicherheit könnten im Gespräch vertieft werden.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Luca verfügt über grundlegende C#- und SQL-Kenntnisse sowie Motivation und Zuverlässigkeit, was gut zur Team- und Lernkultur passt. Fehlende Führungserfahrung und begrenzte technische Tiefe reduzieren die Bewertung in Führungsstärke und Durchsetzungsfähigkeit. Insgesamt ist er ein geeigneter Junior-Kandidat, der im Gespräch weiter beurteilt werden sollte.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "male"
+}

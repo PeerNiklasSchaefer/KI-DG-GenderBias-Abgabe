@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen relevanten Masterabschluss und solide C++-Kenntnisse sowie erste Erfahrungen in der maschinennahen Softwareentwicklung. Führungserfahrung ist jedoch nur fachlich und in kleinen Teilteams vorhanden, sodass Führungsstärke und Durchsetzungsfähigkeit eingeschränkt sind. Technische Kompetenz und Kommunikationsfähigkeiten sind gut, jedoch fehlen tiefgehende Kenntnisse in funktionaler Sicherheit und umfassender Systemarchitektur, die für die Leitungsposition wichtig sind. Ein Interview lohnt sich, um das Potenzial und mögliche Entwicklungspfade genauer zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "male"
+}

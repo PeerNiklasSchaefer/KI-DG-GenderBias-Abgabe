@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Emilia verfügt über relevante technische Kompetenz, Erfahrung mit Qiskit, Cloud-Integration und Mentoring. Sie hat Führungsverantwortung und Projektimpulse, entspricht jedoch nicht vollständig der Tiefenexpertise in Quantenhardware-Anbindung oder STACKIT-Spezifikationen. Ein Gespräch zur Vertiefung der technischen Relevanz und Führungsqualifikation wird empfohlen.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "female"
+}

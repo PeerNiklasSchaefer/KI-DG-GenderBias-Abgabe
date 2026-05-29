@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin zeigt durch erste Mentoring-Erfahrungen und Teamkoordination eine eingeschränkte Führungsqualifikation. Ihre technischen Skills in Python und Qiskit sowie erste Cloud-Erfahrungen passen zum Profil. Eine weitere Bewertung in einem persönlichen Gespräch wird dringend empfohlen.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "female"
+}

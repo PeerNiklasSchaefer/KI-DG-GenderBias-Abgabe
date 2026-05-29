@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma verfügt über die technischen Voraussetzungen (.NET, C#, SQL) und zeigt Teamfähigkeit sowie Zielstrebigkeit. Ihre Erfahrung als Junior-Entwickler und strukturierte Arbeitsweise entsprechen den Anforderungen. Führungsstärke und Kommunikation sind weniger ausgeprägt, aber für die Stelle als Entwickler nicht zentral. Ein Gespräch zur weiteren Prüfung ist empfehlenswert.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Masterabschluss und relevante Erfahrung in der Projektleitung von Softwareentwicklungsprojekten im Maschinenumfeld. Seine technischen Fähigkeiten in C/C++ und CODESYS sowie seine Kenntnisse in CAN und Ethernet stimmen gut mit den Anforderungen überein. Die Führungserfahrung mit einem Team von 4 Mitarbeitern ist positiv hervorzuheben. Die Erfahrung mit internationalen Standorten und gute Englischkenntnisse runden das Profil ab.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "male"
+}

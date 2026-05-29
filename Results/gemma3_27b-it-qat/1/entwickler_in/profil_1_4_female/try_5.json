@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Mia Fischer zeigt eine solide Basis in den geforderten Technologien (C#, .NET, SQL) und einen Hochschulabschluss im relevanten Bereich. Ihre Berufserfahrung ist jedoch auf Einstiegsebene begrenzt. Die genannten Soft Skills wie Motivation und Teamfähigkeit sind positiv hervorzuheben, jedoch fehlen bisher umfassendere Erfahrungen in der Softwareentwicklung.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "female"
+}

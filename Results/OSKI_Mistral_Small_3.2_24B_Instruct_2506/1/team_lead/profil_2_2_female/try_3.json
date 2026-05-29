@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emilia Schmidt weist relevante Erfahrung in der Softwareentwicklung und erste Führungserfahrung auf, die für die Stelle geeignet sind. Ihre Kenntnisse in C++ und Grundlagen in CAN, Ethernet und SPS-Umfeld sind hilfreich, jedoch sind ihre Architekturkenntnisse und Erfahrung in der disziplinarischen Führung noch begrenzt. Ihre starke Teamfähigkeit und Kommunikation sprechen für sie, daher sollte sie zu einem Interview eingeladen werden, um ihre Eignung weiter zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "female"
+}

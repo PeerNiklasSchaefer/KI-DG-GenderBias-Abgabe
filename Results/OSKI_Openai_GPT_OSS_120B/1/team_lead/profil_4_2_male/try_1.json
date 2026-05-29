@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die formalen Voraussetzungen (Master, C/C++-Kenntnisse, Teamgröße) und hat bereits Erfahrung in der fachlichen Projektleitung. Allerdings sind die Führungserfahrung (nur 2 Jahre) und die Tiefe in Software-Architektur, Systems Engineering sowie funktionaler Sicherheit noch nicht vollständig ausgereift. Die Kommunikationsfähigkeiten und Teamarbeit sind solide, sodass ein persönliches Gespräch sinnvoll ist, um das Potenzial genauer zu prüfen.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "male"
+}

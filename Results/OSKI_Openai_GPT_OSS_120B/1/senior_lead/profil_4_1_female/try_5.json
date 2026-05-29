@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia zeigt solide Fachkenntnisse in Backend- und Cloud-Entwicklung sowie erste Erfahrung mit Quantum-Frameworks und OSS-Governance. Sie hat bereits fachliche Führung in kleinen Teams übernommen und kommuniziert sicher in Deutsch und Englisch. Allerdings fehlt noch umfassende Erfahrung in Quantum-Hardware-Anbindung und in der Leitung größerer Engineering-Teams, weshalb das Gesamtprofil als mittel eingeschätzt wird, jedoch ein Gespräch empfohlen wird.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

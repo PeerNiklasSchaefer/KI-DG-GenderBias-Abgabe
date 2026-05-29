@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat erfüllt die fachlichen Anforderungen (C#, .NET, SQL) und zeigt eigenständige, strukturierte Arbeitsweise sowie Teamfähigkeit. Führungserfahrung fehlt, ist jedoch für die ausgeschriebene Position nicht zwingend. Insgesamt ist er gut geeignet für ein technisches Interview.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber verfügt über relevante technische Expertise in Cloud-Integration, Qiskit und hybriden Workload-Ansätzen sowie Erfahrung in der Teamführung und Code-Qualitätssicherung. Seine Fähigkeiten in Open-Source-Governance und Architektur-Design entsprechen den Anforderungen, wenn auch keine direkte Erfahrung mit STACKIT vorhanden ist. Ein Gespräch zur Klärung der STACKIT-Integration und der Umsetzung von forschungsnahem Code in industrielle Standards ist empfehlenswert.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

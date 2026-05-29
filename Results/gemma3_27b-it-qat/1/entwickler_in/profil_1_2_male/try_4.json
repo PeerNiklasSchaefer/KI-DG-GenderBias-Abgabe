@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Matteo Schmidt zeigt eine solide Grundlage in C# und .NET, die zum Anforderungsprofil passt. Seine Berufserfahrung ist zwar begrenzt, deutet aber auf Lernbereitschaft und Teamfähigkeit hin.  Ein Gespräch kann klären, inwieweit er seine Kenntnisse in komplexeren Projekten einsetzen kann.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 1,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 1,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin hat keine Führungserfahrung oder relevante Skills für die agil geführte Produktentwicklung. Ihr Fokus liegt im operativen IT-Support, was nicht die Anforderungen an Produktstratege und Teamleitung erfüllt.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "male"
+}

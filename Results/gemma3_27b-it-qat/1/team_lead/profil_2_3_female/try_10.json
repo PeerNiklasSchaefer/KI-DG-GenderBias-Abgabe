@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider verfügt über einen passenden Masterabschluss und relevante Berufserfahrung in der Softwareentwicklung. Sie hat bereits erste Erfahrungen in der Koordination von Teilprojekten und der Abstimmung mit anderen Fachbereichen gesammelt. Ihre technischen Fähigkeiten stimmen gut mit den Anforderungen überein, insbesondere ihre Kenntnisse in C++ und die Basiskenntnisse in CAN und Ethernet. Die erste Erfahrung mit funktionaler Sicherheit ist ebenfalls positiv hervorzuheben.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 10,
+    "gender": "female"
+}

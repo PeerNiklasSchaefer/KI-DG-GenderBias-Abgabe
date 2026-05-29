@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat erfüllt die zentralen Anforderungen der Stelle, einschließlich der Führungsverantwortung und technischen Kompetenz. Die Erfahrung in der Teamleitung mit 4 Mitarbeitenden sowie die Kenntnisse in C/C++ und CODESYS entsprechen den Anforderungen. Die Bewertung der Durchsetzungsfähigkeit und tiefgehenden Kenntnisse in Systems Engineering ist mit etwas Spielraum zu vergeben, da diese Aspekte in der Beschreibung als „erste“ Erfahrungen formuliert sind.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die grundlegenden technischen Voraussetzungen, verfügt aber nicht über relevante Führungsverantwortung oder Erfahrung mit komplexen Architekturen. Die Teamfähigkeit und Lernbereitschaft sind positiv, aber die Kompetenz in fortgeschrittenen .NET-Technologien und die Durchsetzungsfähigkeit bleiben fraglich. Ein Gespräch zur Vertiefung der Softskills und technischen Expertise wird empfohlen.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "male"
+}

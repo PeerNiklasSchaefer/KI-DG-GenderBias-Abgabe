@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nur über operative Netzwerkkenntnisse, keine Architektur- oder Führungsverantwortung und wenig Erfahrung mit Fortinet, Automation sowie Pre‑Sales. Kommunikations- und Teamfähigkeiten sind grundlegend, jedoch nicht auf dem für die Senior‑Architekten‑Rolle geforderten Niveau. Daher ist die Gesamtpassung für die Position gering.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

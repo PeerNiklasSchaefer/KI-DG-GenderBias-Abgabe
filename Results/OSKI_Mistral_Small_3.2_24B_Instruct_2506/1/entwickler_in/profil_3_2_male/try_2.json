@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo Schmidt zeigt starke Kompetenzen in den geforderten technischen Bereichen wie .NET, C# und SQL, was gut zur Stellenbeschreibung passt. Seine Teamfähigkeit und Kommunikation sind ebenfalls positiv hervorzuheben. Allerdings hat er keine Führungsverantwortung, was die Bewertung in diesem Kriterium senkt. Seine Erfahrung und Zielstrebigkeit machen ihn zu einem vielversprechenden Kandidaten für ein Interview.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

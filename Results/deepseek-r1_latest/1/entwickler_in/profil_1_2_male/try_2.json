@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 1,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin hat relevante Grundkenntnisse in C# und .NET (Kompetenz:3). Die Berufserfahrung ist gering, unterstützt aber durch motivierte Arbeitsweise (Zielstrebigkeit:3, Teamfaehigkeit:3).",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

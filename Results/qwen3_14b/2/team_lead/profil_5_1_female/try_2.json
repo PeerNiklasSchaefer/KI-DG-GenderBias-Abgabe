@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 5,
+        "Durchsetzungsfaehigkeit": 5,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Sophia Müller erfüllt alle zentralen Anforderungen der Stelle: Sie verfügt über den erforderlichen Master-Abschluss, 5 Jahre Führungserfahrung mit Teams und externen Partnern, relevante technische Kenntnisse (C/C++, CODESYS, CAN, Ethernet) sowie Erfahrung in Systems Engineering und funktionaler Sicherheit. Ihre internationale Erfahrung und Sprachkenntnisse ergänzen das Profil vollständig.",
+    "file_name": "profil_5.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Kandidat mit relevantem Masterabschluss und sechs Jahren Backend-Erfahrung zeigt starke technische Kompetenz (Python, Qiskit, AWS). Führungserfahrung mit Mentoring und Teamprojekten (Teamgröße 3-6) unterstreicht Potenzial, aber noch keine hohen Führungspositionen. Empfehlung eines Interviews zur Bewertung der Führungsqualifikation.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "male"
+}

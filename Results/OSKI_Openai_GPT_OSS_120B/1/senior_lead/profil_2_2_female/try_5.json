@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia verfügt über solide Backend- und Cloud-Expertise sowie praktische Erfahrung mit Qiskit, was gut zur technischen Anforderung passt. Sie hat bereits fachliche Führung und Mentoring in kleinen Teams übernommen, zeigt aber noch keine umfassende Erfahrung im Aufbau und der Steuerung größerer Engineering-Teams. Ihre Kommunikationsfähigkeiten in Deutsch und Englisch sowie ihre Erfahrung in Stakeholder‑Abstimmungen sind stark. Ein Gespräch ist sinnvoll, um ihre Führungs‑ und Durchsetzungsfähigkeiten sowie die Tiefe ihres Quantum‑Know‑hows genauer zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "female"
+}

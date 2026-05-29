@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Masterabschluss und relevante Erfahrung in der Softwareentwicklung, insbesondere mit C++. Erste Führungs- und Koordinationserfahrungen sowie Kenntnisse in maschinennahen Bereichen sind vorhanden. Die Erfahrung im Umgang mit CAN, Ethernet und SPS-Systemen ist ein Plus. Es besteht Entwicklungspotenzial im Bereich der Team- und Projektleitung.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer hat die technischen Grundlagen (C#, .NET, SQL) und zeigt Initiative. Allerdings mangelt es an umfangreicher Erfahrung und Führungsqualitäten. Die Basis stimmt für die Position, daher wird ein Vorinterview empfohlen.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

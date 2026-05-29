@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen relevanten Master in Mechatronik und praktische Erfahrung in C/C++ sowie IEC‑61131‑3, jedoch fehlt ihm bisher umfassende disziplinarische Führungserfahrung und tiefgehende Expertise in funktionaler Sicherheit. Seine Team‑ und Kommunikationsfähigkeiten sind solide, und er zeigt Zielstrebigkeit, jedoch ist die Gesamtkompetenz für die Leitungsposition noch nicht vollständig ausgeprägt. Ein Gespräch kann Klarheit über sein Entwicklungspotenzial und seine Durchsetzungsfähigkeit schaffen.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "male"
+}

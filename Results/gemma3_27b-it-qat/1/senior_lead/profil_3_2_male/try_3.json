@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo Schmidt verfügt über einen passenden Bildungs- und Erfahrungshintergrund für die Stelle. Seine Erfahrung in Backend-Entwicklung und der Integration von Quantum-Komponenten, sowie die ersten Mentoring-Aufgaben, zeigen eine gute Basis für die Teamführung. Die AWS-Grundkenntnisse und die Erfahrung mit Qiskit sind relevant, die Cloud-Erfahrung könnte noch vertieft werden. Insgesamt eine vielversprechende Kandidatur.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

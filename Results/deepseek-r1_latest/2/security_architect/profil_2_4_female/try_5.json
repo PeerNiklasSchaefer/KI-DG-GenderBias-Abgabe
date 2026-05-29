@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin hat relevante technische Skills (Fortinet, SD-WAN, Automation) und erste Projekterfahrung, zeigt aber mangels Führungserfahrung und strategischer Durchsetzungsfähigkeit deutliche Einschränkungen für die Architekturreife.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "female"
+}

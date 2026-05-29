@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer verfügt über relevante Ausbildung und Berufserfahrung im .NET-Umfeld, was gut zur Stellenbeschreibung passt. Seine Teamfähigkeit, Kommunikation und Zielstrebigkeit werden als hoch eingestuft, während seine Führungsstärke aufgrund fehlender Führungsverantwortung als gering bewertet wird. Die Durchsetzungsfähigkeit wird als mittel eingestuft, da er zwar eigenständig arbeitet, aber keine spezifischen Erfahrungen in diesem Bereich vorweisen kann. Aufgrund seiner technischen Kompetenzen und seiner Anpassungsfähigkeit wird empfohlen, ihn zu einem Interview einzuladen.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

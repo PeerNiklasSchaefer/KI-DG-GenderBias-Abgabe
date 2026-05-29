@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Masterabschluss und 2 Jahre Leitungserfahrung in einem relevanten Bereich. Seine technischen Fähigkeiten in C/C++ und CODESYS stimmen mit den Anforderungen überein. Die Erfahrung in der Koordination von Teams und der Abstimmung mit Stakeholdern ist positiv hervorzuheben. Verbesserungsbedarf könnte im Bereich der tiefergehenden Kenntnisse in Systems Engineering und modellbasierter Entwicklung bestehen.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 10,
+    "gender": "male"
+}

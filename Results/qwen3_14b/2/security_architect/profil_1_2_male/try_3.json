@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt zwar über den notwendigen Hochschulabschluss und grundlegende Netzwerkkenntnisse, fehlt jedoch die erforderliche Architekturerfahrung, Expertise in Fortinet/Cisco/Meraki sowie Kenntnisse in Network Automation. Die Rolle erfordert eine Senior-Position mit strategischem Einfluss, was der Kandidat nicht nachweisen kann.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

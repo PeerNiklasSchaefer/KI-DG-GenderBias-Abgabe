@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller verfügt über einen relevanten Master-Abschluss und 5 Jahre Erfahrung in Backend-Entwicklung, wovon ein Jahr quantencomputing-nah ist. Sie hat bereits Erfahrungen in der Integration von Komponenten in Cloud-Strukturen und in der fachlichen Anleitung von Teams gesammelt. Ihre Kenntnisse in Qiskit und AWS sind ein Plus, ebenso wie ihre Erfahrung in OSS-Governance. Sie besitzt eine hohe Teamfähigkeit und gute Kommunikationsfähigkeiten.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "female"
+}

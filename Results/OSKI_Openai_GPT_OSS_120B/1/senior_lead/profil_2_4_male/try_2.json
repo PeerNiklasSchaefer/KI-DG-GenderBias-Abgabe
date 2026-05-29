@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer bringt fundierte Erfahrung in skalierbaren Backend‑ und Cloud‑Systemen sowie praktische Kenntnisse in Qiskit und Open‑Source‑Governance mit. Er hat bereits fachliche Führungsaufgaben und Mentoring in kleinen Teams übernommen, zeigt gute Kommunikations‑ und Teamfähigkeiten. Für die strategische Gesamtleitung eines Quantum‑Software‑Stacks fehlt jedoch noch Erfahrung in umfassender Teamführung und tiefere Expertise in Quanten‑Hardware‑Anbindung, weshalb ein Gespräch empfehlenswert ist.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "male"
+}

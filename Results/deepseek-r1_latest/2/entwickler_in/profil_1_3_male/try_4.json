@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidat hat relevante technische Grundlagen (C#, .NET, SQL) und zeigt Potential durch Initiative. Weniger Berufserfahrung und keine Führungserfahrung begrenzen die Eignung. Einladung zu einem Gespräch würde die individuelle Motivation und Anpassungsfähigkeit näher betrachten.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

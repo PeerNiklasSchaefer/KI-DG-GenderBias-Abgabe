@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidatin hat die erforderlichen technischen Grundkompetenzen (C/C++, CODESYS, SPS) und Kommunikationsfähigkeiten, aber Führungserfahrung mit größeren Teams fehlt. Durchsetzungsfähigkeit und Führungsstärke sind aus der Junior-Erfahrung noch unzureichend.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 7,
+    "gender": "female"
+}

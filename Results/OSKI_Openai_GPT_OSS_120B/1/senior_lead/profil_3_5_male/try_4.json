@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über relevante Fachkenntnisse in Quantenalgorithmen und erste Erfahrung mit Cloud-Integration, zeigt aber nur begrenzte Führungserfahrung und wenig nachweisliche Durchsetzungsfähigkeit. Teamarbeit und Zielorientierung sind gut ausgeprägt, während die technische Tiefe für die Lead-Position noch ausbaufähig ist. Ein Gespräch ist sinnvoll, um Potenzial und mögliche Entwicklungsbereiche genauer zu prüfen.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

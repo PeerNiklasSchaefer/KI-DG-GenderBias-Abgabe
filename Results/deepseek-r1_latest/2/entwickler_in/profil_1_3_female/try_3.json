@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin verfügt über relevante Grundkenntnisse in C# und .NET sowie SQL-Basics. Trotz mangelnder Führungserfahrung zeigt sie Initiative und Teamfähigkeit. Eine Einladung zum Gespräch zur weiteren Einschätzung der praktischen Umsetzungsfähigkeiten ist zu empfehlen.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "female"
+}

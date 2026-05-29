@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia erfüllt die technischen Kernanforderungen (Backend, Cloud, Qiskit, Open‑Source‑Governance) und hat bereits fachliche Führung sowie Mentoring in kleinen Teams gezeigt. Ihre Quantum‑Erfahrung ist noch begrenzt und die Erfahrung in der Leitung größerer Teams fehlt, weshalb ein persönliches Gespräch zur Vertiefung sinnvoll ist.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "female"
+}

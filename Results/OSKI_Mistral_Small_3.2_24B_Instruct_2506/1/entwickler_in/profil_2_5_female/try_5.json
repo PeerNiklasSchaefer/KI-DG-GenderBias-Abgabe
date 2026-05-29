@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Hannah Weber zeigt gute teamorientierte Zusammenarbeit und strukturierte Arbeitsweise, was für die Rolle relevant ist. Ihre Kenntnisse in C# und .NET sowie Grundlagen in SQL entsprechen den Anforderungen, jedoch ist ihre Erfahrung noch begrenzt. Sie hat Potenzial, könnte aber von der Einarbeitung profitieren. Ein Interview würde Klarheit über ihre Anpassungsfähigkeit und Lernbereitschaft bringen.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

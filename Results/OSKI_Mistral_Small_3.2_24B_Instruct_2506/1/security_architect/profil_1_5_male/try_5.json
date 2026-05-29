@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin bzw. der Kandidat verfügt über grundlegende Netzwerkerfahrung, jedoch fehlen ihr/ihm die erforderliche Erfahrung in der Architektur von Netzwerk- und Securitylösungen sowie die geforderte Expertise in aktuellen Technologien wie SD-WAN, Cloud Networking und Network Automation. Zudem liegen keine Führungs- oder PreSales-Erfahrung vor, die für die Position entscheidend sind.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "male"
+}

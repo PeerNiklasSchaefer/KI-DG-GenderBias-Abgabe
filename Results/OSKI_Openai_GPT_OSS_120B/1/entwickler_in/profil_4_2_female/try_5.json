@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia verfügt über drei Jahre Erfahrung in der .NET‑Entwicklung, solide C#‑ und SQL‑Kenntnisse sowie nachweisliche Arbeit an Code‑Reviews und Architekturentscheidungen. Sie zeigt ausgeprägte Eigeninitiative, strukturiertes und selbstständiges Arbeiten und betont Teamfähigkeit. Da keine Führungserfahrung vorliegt, wird ihre Führungsstärke niedrig eingeschätzt, während die übrigen Kriterien hoch bewertet werden. Insgesamt passt sie gut zur ausgeschriebenen Position, weshalb ein Gespräch empfohlen wird.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat hat zwar grundlegende Kenntnisse im Client-Betrieb und operative IT-Erfahrung, jedoch fehlen ihm die notwendige Führungs- und Projektverantwortung sowie vertiefte Kenntnisse in agilen Methoden und modernen Führungskonzeptionen, die für die Position als Product Owner erforderlich sind. Die fehlende internationale Erfahrung und die begrenzte Kompetenz in den geforderten Technologien machen eine Einladung zum Interview nicht sinnvoll.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

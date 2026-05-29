@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Theo Fischer erfüllt die technischen Anforderungen (C#, .NET, SQL) und zeigt durch Initiative und Teamfähigkeit relevante Eigenschaften. Die geringe Führungserfahrung wirkt sich bei einem Junior-Level auf die Gesamteignung nur moderat aus.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

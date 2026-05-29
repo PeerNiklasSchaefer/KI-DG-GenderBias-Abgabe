@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia hat relevante technische Skills (Python, Qiskit, AWS) und erste Führungserfahrung, aber die Führungskompetenz und Durchsetzungsfähigkeit liegen noch am Anfang. Ein Gespräch könnte das Potenzial weiter ausloten.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "female"
+}

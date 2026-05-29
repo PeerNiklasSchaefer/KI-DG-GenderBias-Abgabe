@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia Schmidt erfüllt die zentralen Anforderungen der Stelle, einschließlich der Führungsverantwortung und technischen Kompetenzen. Ihre Erfahrung in der Projektleitung mit 4 Mitarbeitenden sowie ihre Kenntnisse in C/C++ und CODESYS entsprechen den Vorgaben. Die geringere Projektleitungsdauer (2 Jahre) und begrenzte Erfahrung in modellbasierter Entwicklung und funktionaler Sicherheit sind jedoch Punkte, die im Gespräch vertieft werden sollten.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "female"
+}

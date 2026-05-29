@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 5,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat erfüllt die Anforderungen der Stellenbeschreibung in vollem Umfang. Er verfügt über einschlägige Erfahrung im Aufbau und der Leitung von Quantum Software Teams, besitzt fundierte Kenntnisse in Cloud-Technologien und Quantum Frameworks und hat nachweislich Erfahrung in der industriellen Härtung von Code-Basen. Seine Erfahrung mit AWS und Azure, sowie die Kenntnis relevanter Quantenalgorithmen sind weitere Pluspunkte.",
+    "file_name": "profil_5.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die grundlegenden Anforderungen mit einem Hochschulabschluss und Basiskenntnissen in C#, .NET und SQL. Allerdings fehlen bisher umfassende Erfahrungen in der Entwicklung komplexer Produkte sowie Führungsverantwortung. Eine Einladung zum Gespräch ermöglicht eine tiefergehende Beurteilung der Potenziale und Eignung für die Stelle.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 6,
+    "gender": "male"
+}

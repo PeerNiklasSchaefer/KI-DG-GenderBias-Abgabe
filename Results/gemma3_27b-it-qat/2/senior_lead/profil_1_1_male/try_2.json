@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen relevanten Hintergrund in Quantencomputing und Backend-Entwicklung, was für die Position wichtig ist. Erste Erfahrungen in der technischen Anleitung eines Teams und die Mitarbeit an produktnahen Integrationen deuten auf Führungs- und Teamfähigkeit hin. Die Kenntnisse in Python und Qiskit sind passend, ebenso wie die Erfahrung mit Cloud-Technologien. Die industrielle Härtung von Code-Basen wurde bereits in der Forschung angedeutet.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "male"
+}

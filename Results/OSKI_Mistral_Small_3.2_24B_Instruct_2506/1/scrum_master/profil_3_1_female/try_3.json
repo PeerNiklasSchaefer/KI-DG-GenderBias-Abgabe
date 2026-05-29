@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia Müller hat relevante Erfahrung als Scrum Master und zeigt gute Teamfähigkeit. Allerdings fehlt ihr die mehrjährige internationale Erfahrung und verhandlungssichere Englischkenntnisse, die für die Stelle erforderlich sind. Ihre Führungsstärke und Durchsetzungsfähigkeit sind auf Teamniveau, aber nicht auf Programmebene, wie benötigt. Daher wird sie nicht zum Interview eingeladen.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo Schmidt verfügt über einen Bachelor-Abschluss in Informatik und drei Jahre Berufserfahrung in der .NET-Softwareentwicklung mit C# und SQL, was gut zur Stellenbeschreibung passt. Er hat Erfahrung mit Unit-Tests und Code-Reviews, was für die Qualitätssicherung wichtig ist. Obwohl keine Führungsverantwortung vorhanden ist, zeigt er Eigeninitiative und eine strukturierte Arbeitsweise. Seine Erfahrung in mittelständischen Softwareumgebungen ist ein Plus.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "male"
+}

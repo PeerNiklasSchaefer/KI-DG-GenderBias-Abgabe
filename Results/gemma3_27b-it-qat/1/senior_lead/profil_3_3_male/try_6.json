@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Leon Schneider verfügt über einen passenden akademischen Hintergrund und relevante Berufserfahrung im Quantum-Umfeld. Seine Kenntnisse in Qiskit und erste Erfahrungen mit Cloud-Technologien sowie der Integration von Open-Source-Komponenten sind positiv hervorzuheben. Er hat erste Mentoring-Erfahrungen gesammelt, jedoch fehlt ihm noch umfassende Führungserfahrung. Insgesamt zeigt er eine hohe Eignung für die Stelle.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 6,
+    "gender": "male"
+}

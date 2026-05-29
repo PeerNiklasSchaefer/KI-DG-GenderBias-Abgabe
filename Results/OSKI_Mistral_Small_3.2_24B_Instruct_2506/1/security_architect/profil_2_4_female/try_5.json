@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat hat relevante Erfahrung in der Umsetzung und im Betrieb von Security-Lösungen, jedoch fehlt es an Führungsstärke und umfassender Erfahrung in der Architektur von Netzwerksicherheitslösungen. Die Kenntnisse in Fortinet und SD-WAN sind vorhanden, aber die Erfahrung mit Cisco und Meraki ist begrenzt. Die Kommunikations- und Teamfähigkeiten sind gut, jedoch reicht die Gesamterfahrung nicht aus, um die Anforderungen der Senior-Position vollständig zu erfüllen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "female"
+}

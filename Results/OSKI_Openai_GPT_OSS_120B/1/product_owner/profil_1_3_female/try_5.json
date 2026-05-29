@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nur über operative Support-Erfahrung, hat keine Führungs- oder Budgetverantwortung und nur Grundkenntnisse in den geforderten Client-Management-Tools. Die erforderlichen Kenntnisse in agilen Methoden, internationaler Projektverantwortung und Produktstrategie fehlen vollständig. Daher ist die Eignung für die Product Owner‑Rolle gering.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "female"
+}

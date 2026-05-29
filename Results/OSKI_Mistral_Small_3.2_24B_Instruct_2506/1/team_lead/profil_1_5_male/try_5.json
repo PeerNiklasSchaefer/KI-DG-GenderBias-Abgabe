@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber hat einen relevanten Masterabschluss und erste Berufserfahrung in der Softwareentwicklung für maschinennahe Anwendungen. Seine Kenntnisse in C/C++, CODESYS und industriellen Protokollen wie CAN und Ethernet sind vielversprechend. Allerdings fehlt es ihm noch an umfassender Führungserfahrung und Durchsetzungsfähigkeit, was für die geforderte Team- und Projektleitungsrolle entscheidend ist. Aufgrund seines Potenzials und seiner technischen Kompetenz lohnt sich jedoch ein Interview, um seine Entwicklungschancen und Anpassungsfähigkeit näher zu evaluieren.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "male"
+}

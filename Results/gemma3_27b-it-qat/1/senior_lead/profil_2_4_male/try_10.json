@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über eine sehr hohe fachliche Kompetenz und relevante Erfahrung in Backend-Entwicklung, Cloud-Technologien und Quantum-Computing. Er hat bereits Teams fachlich geführt und Mentoring-Erfahrung. Die Erfahrung in der industriellen Härtung von Code-Basen und die Kenntnisse in Open-Source-Governance passen gut zum Profil. Die Durchsetzungsfähigkeit ist aufgrund der fehlenden umfassenden Führungsrolle etwas schwieriger einzuschätzen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 10,
+    "gender": "male"
+}

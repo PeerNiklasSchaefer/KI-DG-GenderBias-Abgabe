@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emilia Schmidt zeigt solide Teamfähigkeit und Kommunikationsfähigkeit, was für die Stelle als Team- und Projektleiter Softwareentwicklung wichtig ist. Ihre Erfahrung in der Softwareentwicklung und in maschinennahe Aufgaben ist relevant, allerdings fehlt ihr die disziplinarische Führungsverantwortung, die für die Stelle gefordert wird. Ihre Kenntnisse in C++ und ersten Erfahrungen mit CAN, Ethernet und SPS-Umfeld sind hilfreich, aber nicht ausreichend tiefgehend für die komplexen Anforderungen der Stelle. Aufgrund ihrer bisherigen Leistungen und Potenzials lohnt sich jedoch ein Interview, um ihre Eignung weiter zu evaluieren.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "female"
+}

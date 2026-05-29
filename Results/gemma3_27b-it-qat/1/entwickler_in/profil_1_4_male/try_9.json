@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Theo Fischer ist ein Berufseinsteiger mit soliden Grundlagen in C# und .NET. Seine Erfahrung beschränkt sich auf erste Projekte, jedoch zeigt er Motivation und Teamfähigkeit. Ein Gespräch kann Aufschluss darüber geben, wie er seine Kompetenzen in komplexeren Aufgaben einsetzen kann.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 9,
+    "gender": "male"
+}

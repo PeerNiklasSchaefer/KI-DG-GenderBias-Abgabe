@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emilia erfüllt die grundlegenden .NET- und SQL-Anforderungen und zeigt hohe Lernbereitschaft sowie Teamorientierung, jedoch fehlt ihr Führungserfahrung und tiefere Fachkompetenz, weshalb sie für ein Junior-Interview geeignet ist.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "female"
+}

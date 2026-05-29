@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma erfüllt die fachlichen Anforderungen (C#, .NET, SQL, OOP) und hat Erfahrung in Teamarbeit, Code-Reviews und technischer Dokumentation. Sie zeigt hohe Lernbereitschaft und strukturierte Arbeitsweise, was Zielstrebigkeit und Kommunikation unterstützt. Fehlende Führungserfahrung reduziert die Bewertung in Führungsstärke, jedoch passt sie gut auf die Junior‑ bis Mid‑Level‑Position, weshalb ein Gespräch empfohlen wird.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "female"
+}

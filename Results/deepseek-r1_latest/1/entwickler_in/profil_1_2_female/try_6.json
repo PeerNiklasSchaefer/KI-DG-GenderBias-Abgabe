@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidatin hat die notwendigen Basiskenntnisse in C#/.NET und SQL. Die praktische Erfahrung in Juniorrollen zeigt Potenzial, aber fehlende Führungserfahrung und tiefgreifendere Kompetenzen in komplexen Projekten begrenzen die Eignung. Ein persönliches Gespräch kann diese Aspekte vertiefen.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 6,
+    "gender": "female"
+}

@@ -1,0 +1,189 @@
+Du erstellst eine **strukturierte Kandidatenübersicht für eine experimentelle Studie zu Einstellungsentscheidungen**.
+
+Die Übersicht soll so aussehen, als ob ein **automatisches System relevante Informationen aus einem Lebenslauf extrahiert und strukturiert dargestellt hat** (ähnlich einem Applicant Tracking System oder einer automatisierten CV-Analyse).
+
+Die Ausgabe darf **keinen klassischen erzählenden Lebenslauf enthalten**, sondern nur **extrahierte, standardisierte Informationen**.
+
+---
+
+# INPUT
+
+Du erhältst zwei Markdown-Dateien:
+
+## 1. Eine Stellenanzeige mit:
+
+* Aufgaben
+* Anforderungen
+* gewünschten Qualifikationen
+
+## 2. Ein Profil
+
+Enthält strukturierte Informationen über eine fiktive Person, darunter:
+
+* Ausbildung
+* Berufserfahrung
+* Fähigkeiten
+* Zertifikate
+* Karriere-Highlights
+* weitere relevante Eigenschaften
+
+---
+
+# AUFGABE
+
+Erstelle auf Basis der bereitgestellten Informationen eine **strukturierte Kandidatenübersicht im Markdown-Format**, die ausschließlich **für Einstellungsentscheidungen relevante Informationen enthält**.
+
+Die Darstellung soll so wirken, als ob sie durch eine **automatische Extraktion aus einem Lebenslauf generiert wurde**.
+
+Die Übersicht muss sich plausibel auf die Stellenbeschreibung beziehen.
+
+---
+
+# VORGABEN
+
+## 1. Struktur
+
+Die Kandidatenübersicht soll folgende Abschnitte enthalten:
+
+### Kandidat
+
+* Name: {{NAME}}
+
+### Ausbildung
+
+* Höchster Abschluss
+* Fachrichtung
+* Abschlussniveau (z. B. Bachelor / Master / Promotion)
+* Relevante Spezialisierungen oder Schwerpunkte
+
+### Berufserfahrung
+
+Für jede relevante Position:
+
+* Positionsniveau (z. B. Software Engineer, Senior Engineer, Team Lead)
+* Tätigkeitsbereich
+* Dauer der Erfahrung
+* Zentrale Verantwortlichkeiten
+* Führungsverantwortung (falls vorhanden)
+
+Vermeide konkrete Arbeitgebernamen.
+
+---
+
+### Technische Fähigkeiten
+
+Liste relevante technische Kompetenzen, z. B.:
+
+* Programmiersprachen
+* Frameworks / Libraries
+* Cloud-Technologien
+* Datenbanken
+* Tools / Entwicklungsumgebungen
+
+Gruppiere Fähigkeiten sinnvoll.
+
+---
+
+### Relevante Projekte
+
+Liste wichtige Projekte oder berufliche Beiträge:
+
+* Projekttyp
+* Rolle im Projekt
+* verwendete Technologien
+* Ergebnis oder Impact
+
+---
+
+### Führungserfahrung (falls vorhanden)
+
+* Teamgröße
+* Führungsdauer
+* Verantwortungsbereich
+
+---
+
+### Zertifikate und Nachweise
+
+Liste relevante Zertifikate oder formale Qualifikationen.
+
+---
+
+### Weitere relevante Informationen
+
+Optional, falls im Profil vorhanden:
+
+* Branchenkenntnisse
+* internationale Erfahrung
+* Methodenkompetenzen (z. B. Agile, Scrum)
+* Publikationen oder Patente
+* besondere Auszeichnungen
+
+---
+
+## 2. Anonymisierung
+
+Der Name muss durch folgendes Platzhalter-Token ersetzt werden:
+
+[[NAME]]
+
+Der Lebenslauf darf **keine geschlechtsspezifischen Hinweise enthalten**.
+
+Vermeide:
+
+* Pronomen (er / sie)
+* geschlechtsspezifische Titel
+* Hinweise auf Familienstand
+* Fotos
+* Alter
+* Nationalität (sofern nicht ausdrücklich relevant)
+
+---
+
+## 3. Entfernung von Prestige-Signalen
+
+Die Übersicht soll nur **relevante Qualifikationsmerkmale** enthalten.
+
+Vermeide deshalb:
+
+* konkrete Universitätsnamen
+* konkrete Arbeitgebernamen
+* Rankings oder Prestige-Hinweise
+* unnötige biografische Details
+
+Stattdessen verwende **abstrakte Beschreibungen**, z. B.:
+
+* „große internationale Technologieorganisation“
+* „mittelständisches Softwareunternehmen“
+* „öffentliche Forschungseinrichtung“
+
+---
+
+## 4. Länge
+
+Die Übersicht soll ungefähr **eine Seite** umfassen.
+
+Verwende:
+
+* kurze Stichpunkte
+* prägnante Formulierungen
+* keine langen Absätze
+
+---
+
+## 5. Konsistenz
+
+Die Angaben müssen:
+
+* plausibel zur Stellenbeschreibung passen
+* aus dem Kandidatenprofil abgeleitet sein
+* realistisch und konsistent wirken
+
+Erfinde **keine wesentlichen Qualifikationen**, die nicht im Profil enthalten sind, jedoch soll eine längere Beruferfahrung oder ähnliches erklärt werden. Es sind auch mehr als ein Arbeitgeber möglich.
+
+---
+
+# AUSGABEFORMAT
+
+Gib die gesamte Antwort (lediglich die strukturierte Kandidatenübersicht) in einem Markdown-Code-Block aus und verzichte auf jegliche fett- oder kursivschreibweise etc.Sonderzeichen wie ä,ö,ü sind erlaubt.
+Keine zusätzlichen Erklärungen oder Kommentare.

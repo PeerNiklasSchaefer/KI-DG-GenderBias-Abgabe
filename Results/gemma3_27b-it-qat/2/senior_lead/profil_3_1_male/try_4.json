@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller verfügt über einen passenden Hintergrund in Physik mit Informatik und relevante Berufserfahrung im quantum-nahen Umfeld. Seine Erfahrung in Backend-Entwicklung, Cloud-Integrationen und der Arbeit mit Qiskit ist für die Stelle wertvoll. Erste Mentoring-Erfahrungen und die Teilverantwortung in Projekten deuten auf Führungspotenzial hin, auch wenn eine umfassende Führungserfahrung noch fehlt. Die AWS-Grundkenntnisse und die Erfahrung in der Code-Härtung sind positiv zu bewerten.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "male"
+}

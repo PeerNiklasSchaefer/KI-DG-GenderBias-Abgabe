@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Hochschulabschluss und 3 Jahre Berufserfahrung in der .NET-Entwicklung mit C# und SQL, was die fachlichen Anforderungen gut erfüllt. Seine Erfahrungen in der Softwareentwicklung, Code-Reviews und Qualitätssicherung sind relevant. Obwohl keine Führungsverantwortung vorhanden ist, zeigt er Eigeninitiative und eine strukturierte Arbeitsweise. Die Teamfähigkeit wird durch die Beschreibung der Zusammenarbeit mit QA und Produktmanagement hervorgehoben.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "male"
+}

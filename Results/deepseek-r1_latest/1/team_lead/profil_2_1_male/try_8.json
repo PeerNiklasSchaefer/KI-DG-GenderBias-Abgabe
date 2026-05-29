@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat zeigt durch seinen Masterabschluss und technische Kompetenzen in C++ und Architektur eine hohe Eignung (Kompetenz:4). Die Führungserfahrung mit kleinen Teams ist relevant, während umfangreiche Führungspraxis fehlt (Fuehrungsstaerke:3). Die Kommunikationsfähigkeiten und Teamfaehigkeit sind gut ausgeprägt.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 8,
+    "gender": "male"
+}

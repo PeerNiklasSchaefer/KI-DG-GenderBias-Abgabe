@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Matteo Schmidt zeigt mit seinem Informatik-Bachelor eine solide Basis für die Stelle. Seine erste praktische Erfahrung in .NET-Projekten ist positiv, allerdings deutet das Profil auf einen Berufseinstieg hin. Die Teamfähigkeit wird als gut eingeschätzt, Führungsstärke ist noch nicht vorhanden. Ein Gespräch kann klären, inwieweit er die Aufgaben selbstständig bewältigen kann.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 10,
+    "gender": "male"
+}

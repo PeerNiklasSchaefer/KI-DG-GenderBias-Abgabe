@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah Weber verfügt über relevante technische Kompetenzen in Backend-Entwicklung, Cloud-Integration und Quantum-Frameworks sowie Erfahrung in Mentoring und Teamführung. Ihre Kenntnisse in Qiskit und AWS sind nah am Stellenprofil, jedoch fehlt explizit die tiefgehende Erfahrung mit STACKIT und Hardware-Anbindung von QPUs. Eine Vorstellungsgespräch ist empfehlenswert, um die technische Reife und Führungsqualitäten weiter zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "female"
+}

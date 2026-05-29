@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat hat grundlegende Erfahrungen im IT-Projektmanagement, jedoch fehlen ihm Führungs- und Durchsetzungsfähigkeiten sowie spezifische Hardwarekenntnisse. Die Kommunikation und Zielstrebigkeit sind auf einem mittleren Niveau, aber für die Position sind mehr Erfahrung und Kompetenz in der Hard- und Softwareentwicklung erforderlich.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunication": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidat hat die erforderlichen Grundlagen in C#/.NET und SQL, zeigt Initiative und Teamfähigkeit. Fehlt noch Führungspraxis.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 9,
+    "gender": "male"
+}

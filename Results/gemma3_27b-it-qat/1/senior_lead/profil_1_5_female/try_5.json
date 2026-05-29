@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah Weber verfügt über einen passenden Hintergrund in Physik/Informatik mit Quantum-Bezug und mehrjährige Erfahrung in der Quantum-Entwicklung. Sie hat erste Erfahrungen in der technischen Anleitung von Teammitgliedern und bringt Kenntnisse in relevanten Technologien wie Qiskit und Python mit. Ihre Erfahrung im Übergang von Forschung zu Produktentwicklung ist besonders wertvoll. Die Führungsstärke ist noch ausbaufähig, jedoch zeigt sie bereits Potential.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

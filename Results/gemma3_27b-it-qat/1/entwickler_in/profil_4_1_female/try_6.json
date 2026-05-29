@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Sophia Müller verfügt über einen passenden Hochschulabschluss und 3 Jahre Berufserfahrung in der .NET-Entwicklung mit C#, SQL und relevanten Frameworks. Sie hat bereits an produktiven Softwareprojekten mitgewirkt und zeigt Eigeninitiative sowie eine strukturierte Arbeitsweise. Führungsverantwortung hat sie bisher nicht übernommen, was für die Position jedoch nicht zwingend erforderlich ist. Die Erfahrung in mittelständischen Softwareumgebungen ist ein Plus.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 6,
+    "gender": "female"
+}

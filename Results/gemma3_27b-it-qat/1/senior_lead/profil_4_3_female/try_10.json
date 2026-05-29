@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider verfügt über einen passenden Hintergrund in Informatik und relevante Erfahrung in Backend-Entwicklung sowie erste Erfahrungen im Quantencomputing-Bereich. Sie hat bereits Teamleitungsaufgaben übernommen und zeigt Engagement in der Code-Qualität und Governance. Ihre Kenntnisse in Cloud-Technologien und Qiskit sind für die Stelle relevant. Die bisherige Führungsverantwortung ist noch nicht umfassend, passt aber zum Ausbau der Teamleitung.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 10,
+    "gender": "female"
+}

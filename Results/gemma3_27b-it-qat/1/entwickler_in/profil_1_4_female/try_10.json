@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Mia Fischer ist eine motivierte Absolventin mit soliden Grundlagen in C# und .NET. Ihre Berufserfahrung ist noch begrenzt, aber sie scheint schnell zu lernen und sich gut in Teams einzufügen. Ein Gespräch kann klären, ob ihre Entwicklungspotenziale zur Stelle passen.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 10,
+    "gender": "female"
+}

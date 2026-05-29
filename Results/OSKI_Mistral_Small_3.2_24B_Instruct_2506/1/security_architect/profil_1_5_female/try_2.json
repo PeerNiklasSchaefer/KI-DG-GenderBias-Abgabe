@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat hat zwar grundlegende Kenntnisse im Netzwerkbetrieb, jedoch fehlen ihm die erforderliche Erfahrung in der Architektur von Netzwerk- und Securitylösungen sowie die notwendige Expertise in den geforderten Technologien wie SD-WAN, Cloud Networking und Network Automation. Zudem hat er keine Führungs- oder PreSales-Erfahrung, die für die Position entscheidend wären. Daher ist die Eignung für die Stelle als Senior Network & Security Solutions Architect gering.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat hat zwar eine relevante Ausbildung und erste Berufserfahrung im Netzwerkbetrieb, jedoch fehlen ihm die notwendige Erfahrung in der Architektur und Konzeption von Netzwerksicherheitslösungen sowie die geforderten Kenntnisse in Fortinet, Cisco und Meraki. Zudem hat er keine Führungs- oder PreSales-Erfahrung, die für die Position entscheidend wären.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 3,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah Weber hat relevante Erfahrung in Softwareentwicklung und erste Führungskompetenzen. Sie verfügt über die nötige technische Expertise, aber vertiefte Kenntnisse in spezifischen Bereichen wie IEC 61131-3 fehlen.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "female"
+}

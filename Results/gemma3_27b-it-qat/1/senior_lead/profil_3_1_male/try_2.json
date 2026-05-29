@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller verfügt über einen passenden Masterabschluss und vier Jahre Erfahrung im quantum-nahen Umfeld. Seine Expertise in Qiskit und erste Erfahrungen mit Cloud-Plattformen (AWS) sind relevant. Er hat erste Mentoring-Erfahrungen gesammelt und zeigt Engagement in der Code-Qualität und der industriellen Härtung von Code-Basen. Die Führungsverantwortung ist bisher auf kleinere Arbeitspakete beschränkt, was im Gespräch weiter vertieft werden sollte.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "male"
+}

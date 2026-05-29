@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller verfügt über einen passenden Hintergrund in Informatik und relevante Erfahrung in Backend-Entwicklung und Cloud-Technologien. Ihre ersten Lead-Anteile und die Mitarbeit an Architekturentscheidungen sind positiv hervorzuheben. Die Erfahrung mit Qiskit und AWS sowie die Kenntnisse in OSS-Governance sind für die Stelle relevant. Die Führungsverantwortung ist bisher auf die fachliche Anleitung kleiner Teams beschränkt, was im Gespräch weiter erfragt werden sollte.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 10,
+    "gender": "female"
+}

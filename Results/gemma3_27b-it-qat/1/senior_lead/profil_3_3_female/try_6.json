@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider verfügt über einen passenden Hintergrund und relevante Berufserfahrung in der Backend-Entwicklung und im Quantum-Bereich. Sie hat bereits erste Erfahrungen im Team führen und Mentoring gesammelt und kennt sich mit Qiskit aus. Ihre AWS-Grundkenntnisse und die Erfahrung in der industriellen Härtung von Code-Basen sind ebenfalls positiv hervorzuheben.  Es ist jedoch zu beachten, dass ihre Führungserfahrung noch begrenzt ist.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 6,
+    "gender": "female"
+}

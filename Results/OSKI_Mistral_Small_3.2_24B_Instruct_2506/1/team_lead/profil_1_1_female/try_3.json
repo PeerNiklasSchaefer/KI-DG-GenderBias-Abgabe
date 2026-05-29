@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia Müller hat einen relevanten Master-Abschluss in Automatisierungstechnik und erste Berufserfahrung in der Softwareentwicklung für maschinenbezogene Anwendungen. Sie zeigt Teamfähigkeit und Kommunikation auf mittlerem Niveau, jedoch noch begrenzte Führungsstärke und Durchsetzungsfähigkeit aufgrund ihrer kurzen Berufserfahrung. Ihre Kompetenz in relevanten Programmiersprachen und Systemen ist gut, aber noch nicht auf hohem Niveau. Aufgrund ihres Potenzials und ihrer bisherigen Leistungen ist sie eine vielversprechende Kandidatin für ein Vorstellungsgespräch.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "female"
+}

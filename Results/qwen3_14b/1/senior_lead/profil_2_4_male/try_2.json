@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo verfügt über relevante technische Kompetenzen, Erfahrung mit Qiskit und Cloud-Integration sowie Mentoring-Erfahrung. Die Führungsstärke ist moderat, da er kleinere Teams geleitet hat, aber nicht eine vollständige Engineering-Abteilung. Eine Vorstellungsgespräch ist sinnvoll, um die Führungs- und Skalierbarkeitskompetenzen genauer zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "male"
+}

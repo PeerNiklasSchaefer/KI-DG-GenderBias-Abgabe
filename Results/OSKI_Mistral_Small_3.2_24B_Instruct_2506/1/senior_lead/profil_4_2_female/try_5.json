@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia Schmidt weist eine solide technische Kompetenz in den relevanten Bereichen auf, insbesondere in Backend-Engineering und Cloud-Anwendungen. Ihre Erfahrung mit Qiskit und AWS sowie ihre bisherigen Führungsaufgaben machen sie zu einer starken Kandidatin. Allerdings hat sie bisher nur begrenzte Erfahrung mit der industriellen Härtung von Open-Source-Code und der Anbindung von Quantenhardware. Ihre Teamfähigkeit und Kommunikationsfähigkeit sind gut dokumentiert, und ihre Zielstrebigkeit zeigt sich in ihren bisherigen Projekten.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Masterabschluss und relevante Berufserfahrung in der Maschinensoftwareentwicklung. Seine Kenntnisse in C/C++ und IEC 61131-3 sowie erste Erfahrungen mit CAN und Ethernet sind vorteilhaft. Die bisherige Koordinationserfahrung deutet auf Entwicklungspotenzial in der Teamleitung hin. Die Team- und Kommunikationsfähigkeit werden durch die Projektarbeit und Abstimmung mit anderen Teams unterstrichen.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 10,
+    "gender": "male"
+}

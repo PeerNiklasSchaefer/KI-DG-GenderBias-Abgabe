@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Bachelorabschluss und 3 Jahre Berufserfahrung in .NET/C#-Entwicklung. Seine Kenntnisse in SQL, OOP und Unit-Testing stimmen mit den Anforderungen überein. Er zeigt Initiative und eine strukturierte Arbeitsweise, was in der Beschreibung gefordert wird. Es fehlen jedoch Hinweise auf Führungsstärke, da er bisher keine Führungsverantwortung übernommen hat.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "male"
+}

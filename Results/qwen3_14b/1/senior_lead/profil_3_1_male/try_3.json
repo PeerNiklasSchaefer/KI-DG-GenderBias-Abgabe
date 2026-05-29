@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kompetenzen und Erfahrung in Quanten-Softwareentwicklung sowie cloud-naher Integration. Die Führungserfahrung ist jedoch begrenzt, und die Sprachkenntnisse in Englisch (B2) sowie die Cloud-Expertise (AWS-Grundkenntnisse) liegen unter dem idealen Niveau. Eine Vertiefung im Gespräch ist empfehlenswert.",
+    "file_name": "profil_3.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

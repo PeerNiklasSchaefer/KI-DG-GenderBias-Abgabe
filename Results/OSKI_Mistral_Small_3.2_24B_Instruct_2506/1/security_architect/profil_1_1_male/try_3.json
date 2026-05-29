@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat weist zwar grundlegende Netzwerkkentnisse auf, hat jedoch keine ausreichende Erfahrung in der Architektur von Netzwerk- und Securitylösungen. Die fehlende PreSales-Erfahrung und die mangelnde Expertise in relevanten Technologien wie Fortinet, Cisco und Meraki machen ihn für die Position des Senior Network & Security Solutions Architect nicht geeignet. Zudem fehlt es an Führungs- und internationalen Erfahrungen, die für die Rolle relevant wären.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

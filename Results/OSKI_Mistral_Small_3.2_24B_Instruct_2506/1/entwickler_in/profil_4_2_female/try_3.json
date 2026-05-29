@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia Schmidt zeigt starke technische Kompetenzen in den geforderten Bereichen C#, .NET und SQL, die gut zur Stellenbeschreibung passen. Ihre Erfahrung in der Softwareentwicklung und ihre Fähigkeit zur selbstständigen und strukturierten Arbeit sind hervorzuheben. Sie hat nachweislich in Teamumgebungen erfolgreich gearbeitet und bringt Eigeninitiative mit. Aufgrund ihrer fehlenden Führungsverantwortung und der geringeren Durchsetzungsfähigkeit erhält sie in diesen Bereichen niedrigere Bewertungen. Insgesamt ist sie jedoch eine vielversprechende Kandidatin für die Position.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "female"
+}

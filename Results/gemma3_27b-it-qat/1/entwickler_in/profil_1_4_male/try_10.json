@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Theo Fischer zeigt die notwendigen Grundlagen in C# und .NET, jedoch fehlt ihm bisher die Berufserfahrung. Seine Motivation und Teamfähigkeit sind positiv hervorzuheben. Ein Gespräch kann klären, inwieweit er sich schnell in die komplexeren Aufgaben einarbeiten kann.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 10,
+    "gender": "male"
+}

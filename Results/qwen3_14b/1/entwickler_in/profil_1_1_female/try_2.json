@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia erfüllt die grundlegenden Anforderungen der Stelle, besitzt jedoch nur Grundkenntnisse in .NET und C#. Sie verfügt über keine Führungsverantwortung und zeigt zwar Teamfähigkeit, aber ihre technischen Fähigkeiten liegen aktuell am unteren Ende der geforderten Kompetenz. Ein Gespräch zur weiteren Beurteilung ihrer Entwicklungspotenziale ist sinnvoll.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "female"
+}

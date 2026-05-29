@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt nicht über die erforderliche Architekturverantwortung, Fortinet-Expertise oder Erfahrung mit komplexen Sicherheitskonzepten. Seine technischen Fähigkeiten sind auf operativen Betrieb begrenzt, was die Anforderungen der Senior-Rolle nicht erfüllt.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nur über grundlegende Client‑Support‑Kenntnisse, keine Führungserfahrung und keine Budget‑ oder internationale Projektverantwortung, die für die Product‑Owner‑Rolle zentral sind. Technische Tiefe und Erfahrung mit agilen Methoden sind ebenfalls begrenzt. Daher ist die Eignung für die ausgeschriebene Position gering.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "female"
+}

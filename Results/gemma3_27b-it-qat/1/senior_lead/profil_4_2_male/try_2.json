@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo Schmidt verfügt über eine solide Grundlage im Backend-Engineering und Cloud-Umfeld, die für die Position relevant ist. Seine Erfahrung mit Qiskit und ersten Lead-Anteilen in quantum-nahen Projekten ist positiv hervorzuheben. Obwohl seine Führungsverantwortung bisher auf fachliche Anleitung beschränkt war, zeigt er Potenzial, ein Team zu steuern. Die vorhandenen Kenntnisse in OSS-Governance sind ein weiterer Pluspunkt.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

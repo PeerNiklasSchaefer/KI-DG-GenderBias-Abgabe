@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 1,
+        "Teamfaehigkeit": 2,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nur über 2‑3 Jahre operativen Netzwerkbetrieb ohne Architektur- oder Führungsverantwortung. Tiefgehende Fachkenntnisse in Fortinet, SASE, Zero Trust und Pre‑Sales‑Kompetenz fehlen, ebenso wie internationale Erfahrung und fortgeschrittene Automatisierungsfähigkeiten. Damit entspricht das Profil nicht den Kernanforderungen der Senior‑Architect‑Position.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 4,
+    "gender": "female"
+}

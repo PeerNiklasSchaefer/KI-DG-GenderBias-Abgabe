@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer verfügt über einen relevanten Hintergrund in Informatik und mehrjährige Erfahrung in Backend-Entwicklung und Cloud-Technologien. Ihre ersten Lead-Anteile und die Mitarbeit an Architekturentscheidungen sind positiv hervorzuheben. Die Erfahrung mit Qiskit und der Integration von Forschungscode in Cloud-Umgebungen passt gut zum Profil. Die Führungsstärke ist noch ausbaufähig, jedoch zeigt sie Bereitschaft und Erfahrung in der fachlichen Anleitung.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 9,
+    "gender": "female"
+}

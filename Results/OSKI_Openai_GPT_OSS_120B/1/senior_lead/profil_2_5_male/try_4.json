@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Luca verfügt über solide Backend- und Cloud-Erfahrung sowie erste praktische Kenntnisse in Quantum-Frameworks, jedoch fehlt ihm tiefgehende Erfahrung in der vollständigen Architektur und industriellen Härtung von Quantum-Stacks. Seine bisherige Führungsrolle beschränkt sich auf fachliche Leitung kleiner Arbeitspakete, was für die geforderte Gesamtverantwortung noch ausbaufähig ist. Dennoch zeigen seine technischen Fähigkeiten und Kommunikationsstärke Potenzial, das im Gespräch genauer geprüft werden sollte.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

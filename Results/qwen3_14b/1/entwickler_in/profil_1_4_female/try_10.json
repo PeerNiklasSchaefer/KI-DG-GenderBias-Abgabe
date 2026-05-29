@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin verfügt über den notwendigen Hochschulabschluss und grundlegende Kenntnisse in C#, .NET und SQL. Ihre Erfahrung ist auf Einsteigerlevel begrenzt, was die Kompetenz und Durchsetzungsfähigkeit beeinflusst. Die Teamfähigkeit und Zielstrebigkeit sind positiv, eine Vertiefung der technischen Fähigkeiten und Praxiserfahrung wäre für die Stelle wünschenswert.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 10,
+    "gender": "female"
+}

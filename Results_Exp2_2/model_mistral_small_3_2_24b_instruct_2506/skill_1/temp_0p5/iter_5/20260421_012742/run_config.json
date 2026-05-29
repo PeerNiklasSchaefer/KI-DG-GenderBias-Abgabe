@@ -1,0 +1,8 @@
+{
+  "model_name": "Mistral Small 3.2 24B Instruct 2506",
+  "temperature": 0.5,
+  "n_iterations": 5,
+  "skill_level": 1,
+  "max_name_pairs": 5,
+  "n_rows": 800
+}

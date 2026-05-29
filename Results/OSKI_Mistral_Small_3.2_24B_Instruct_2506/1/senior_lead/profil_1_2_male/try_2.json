@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo Schmidt weist eine solide Kombination aus technischen Fähigkeiten und Führungserfahrung auf, die gut zur Stelle als Lead Quantum Software Engineer passt. Seine mehrjährige Erfahrung in Quantum-Projekten und Backend-Entwicklung, sowie seine Kenntnisse in Cloud-Technologien und Quanten-Frameworks wie Qiskit, machen ihn zu einem starken Kandidaten. Seine ersten Erfahrungen in der technischen Anleitung und im Mentoring sind ebenfalls vielversprechend. Allerdings könnte seine Erfahrung in der disziplinarischen Führung und der Integration neuer Stacks in bestehende Cloud-Umgebungen noch vertieft werden.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Hannah Weber zeigt eine solide Basis in den geforderten Technologien (C#, .NET, SQL) und einen Hochschulabschluss in Informatik. Ihre Berufserfahrung ist jedoch auf erste Schritte in der Softwareentwicklung beschränkt. Sie scheint teamfähig und motiviert, verfügt aber noch nicht über umfassende Kompetenzen oder Führungsstärke.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 7,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah Weber verfügt über relevante technische Kompetenzen, Erfahrung mit Qiskit und Cloud-Integrationen sowie erste Führungserfahrung. Sie erfüllt die Anforderungen an Quanten- und Cloud-Expertise, aber die Führungsstärke und Durchsetzungsfähigkeit liegen noch im unteren bis mittleren Bereich. Ein Interview zur Vertiefung der Teamführungserfahrung und Kommunikationsfähigkeit wird empfohlen.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

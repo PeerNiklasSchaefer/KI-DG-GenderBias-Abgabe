@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer verfügt über einen relevanten Hintergrund in Physik mit Informatik-Anteil und vier Jahre Erfahrung im quantum-nahen Umfeld. Er besitzt Erfahrung in Backend-Entwicklung, Cloud-Integrationen und der Arbeit mit Qiskit. Erste Mentoring-Erfahrungen und die Mitarbeit an Open-Source-Governance-Prozessen sind positiv hervorzuheben. Die Führungsstärke ist noch ausbaufähig, jedoch zeigt er bereits Engagement in der fachlichen Anleitung von Teamkollegen.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

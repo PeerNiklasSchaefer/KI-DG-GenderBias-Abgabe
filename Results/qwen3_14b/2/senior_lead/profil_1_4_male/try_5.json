@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo verfügt über relevante technische Kompetenzen, Erfahrung in Quantum-Entwicklung und erste Führungserfahrung. Seine Kenntnisse in Qiskit, Cloud-Technologien und OSS-Governance entsprechen den Anforderungen, jedoch fehlen konkrete Belege für die Leitung eines größeren Teams und die Integration in komplexe Cloud-Umgebungen. Ein Gespräch zur Vertiefung der Führungs- und Architekturkompetenzen wird empfohlen.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

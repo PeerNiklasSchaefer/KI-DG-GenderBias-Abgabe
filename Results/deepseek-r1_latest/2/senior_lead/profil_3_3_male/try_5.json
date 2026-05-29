@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Kandidat zeigt durch Teamleitung und Mentoring erste Führungsqualitäten (3). Durchsetzungsfähigkeit und Teamfähigkeit sind durch Koordination und Code-Reviews gut ausgebildet (4). Kompetenz in Quantum-Computing und Engineering ist sehr hoch (5).",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "male"
+}

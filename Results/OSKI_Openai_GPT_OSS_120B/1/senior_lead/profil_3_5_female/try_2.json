@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Hannah verfügt über fundierte Kenntnisse in Quantenalgorithmen und erste Erfahrung mit Cloud-Integration, jedoch fehlt ihr tiefergehendes Cloud-Platform-Expertise und umfangreiche Führungsverantwortung. Ihre bisherigen Mentoring‑ und Koordinationsaufgaben zeigen Teamfähigkeit und Zielstrebigkeit, jedoch sind die Anforderungen an Architekturdesign und Open‑Source‑Governance noch nicht vollständig erfüllt. Ein Interview kann klären, ob ihr Potenzial für die Lead‑Rolle ausgebaut werden kann.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 2,
+    "gender": "female"
+}

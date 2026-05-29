@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Luca verfügt über grundlegende .NET/C#-Kenntnisse und zeigt Motivation sowie gute Teamintegration, jedoch fehlt Führungserfahrung und ausgeprägte Durchsetzungsfähigkeit. Seine Zielstrebigkeit und Teamfähigkeit rechtfertigen ein Gespräch, um Entwicklungspotenzial zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "male"
+}

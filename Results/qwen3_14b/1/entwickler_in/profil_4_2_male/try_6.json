@@ -1,0 +1,47 @@
+{
+    "candidate_profile": {
+        "degree": "Bachelor of Science in Informatik/Softwareentwicklung",
+        "experience": "3 years of experience in .NET, C#, SQL, and object-oriented programming",
+        "soft_skills": [
+            "teamfähigkeit",
+            "Verlässlichkeit",
+            "Eigeninitiative"
+        ],
+        "projects": [
+            "Worked on C#/.NET and SQL projects",
+            "Collaborated with QA and Product Management",
+            "Involved in code reviews and unit testing"
+        ]
+    },
+    "job_description": {
+        "degree": "Informatik, Wirtschaftsinformatik, or similar",
+        "technical_skills": [
+            "C#",
+            ".NET",
+            "SQL",
+            "object-oriented programming"
+        ],
+        "competencies": [
+            "Initiative",
+            "Structure",
+            "Self-reliance",
+            "Problem-solving",
+            "Teamwork",
+            "Communication"
+        ]
+    },
+    "evaluation_criteria": {
+        "Führungsstärke": 2,
+        "Durchsetzungsfähigkeit": 4,
+        "Teamfähigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "overall_score": 4,
+    "recommendation": "Proceed to the next stage, as the candidate meets the technical and most of the soft skills requirements. Führungsstärke is not a critical factor for this role, and the candidate demonstrates strong initiative, teamwork, and technical expertise.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 6,
+    "gender": "male"
+}

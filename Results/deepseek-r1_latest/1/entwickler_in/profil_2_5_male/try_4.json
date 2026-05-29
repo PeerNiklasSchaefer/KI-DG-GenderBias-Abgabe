@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat hat relevante technische Kenntnisse in C#/.NET und SQL, passt durch seine strukturierte Arbeitsweise und Lernbereitschaft zum Profil eines Junior-Entwicklers. Die mangelnde Führungserfahrung und Durchsetzungsfähigkeit bei Junior-Niveau begrenzen die volle Eignung.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "male"
+}

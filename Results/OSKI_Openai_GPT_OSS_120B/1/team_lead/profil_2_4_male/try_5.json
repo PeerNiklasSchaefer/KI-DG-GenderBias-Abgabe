@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die fachlichen Grundvoraussetzungen (Master, C++, Grundkenntnisse in CAN/Ethernet und SPS) und zeigt gute Kommunikations- sowie Teamfähigkeiten. Führungserfahrung ist jedoch nur begrenzt und nicht disziplinarisch, weshalb die Führungsstärke niedrig bewertet wird. Ein Interview ist sinnvoll, um das Potenzial für die Projekt‑ und Teamleitung genauer zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

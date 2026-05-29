@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma verfügt über fundierte Backend- und Cloud-Erfahrung sowie erste Praxis mit Qiskit und Code-Härtungsprozessen, was für die technische Ausrichtung wichtig ist. Ihre Führungserfahrung beschränkt sich auf fachliche Leitung kleiner Arbeitspakete und Mentoring, wodurch die Führungsstärke und Durchsetzungsfähigkeit nur mittelmäßig bewertet werden. Kommunikations- und Teamfähigkeiten sind gut ausgeprägt, doch fehlt nachweislich Erfahrung in großflächiger Architektur und Hardware‑Abstraktion, weshalb die Gesamtbewertung moderat bleibt.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "female"
+}

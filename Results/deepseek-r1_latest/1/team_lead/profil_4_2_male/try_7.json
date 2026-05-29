@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Matteo hat relevante Führungserfahrung mit einem 4er-Team und technische Kompetenzen in C/C++, Systems Engineering und CAN/Ethernet. Die begrenzte Erfahrung in modellbasierter Entwicklung und Embedded Security könnte im Gespräch näher erläutert werden.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 7,
+    "gender": "male"
+}

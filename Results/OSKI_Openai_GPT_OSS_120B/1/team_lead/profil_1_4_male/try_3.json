@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt über einen relevanten Masterabschluss, jedoch nur ein Jahr Berufserfahrung und keine nachweisbare disziplinarische Führung von mehr als drei Teammitgliedern. Seine technischen Kenntnisse entsprechen Grundlagenniveau, während die Stelle tiefgehende Expertise in Software-Architektur, Systems Engineering und funktionaler Sicherheit verlangt. Trotz guter Motivation und solider Kommunikationsfähigkeiten ist die Gesamtpassung für die Leitungsposition gering.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nur über 2‑3 Jahre operativen Netzwerkbetrieb ohne Architektur- oder Führungsverantwortung und hat keine nachweisbare Fortinet‑Expertise, Automation‑Kenntnisse oder Pre‑Sales‑Erfahrung. Kommunikationsfähigkeiten sind begrenzt (Englisch B2) und internationale Erfahrung fehlt. Damit entspricht das Profil nicht den Anforderungen einer Senior Network & Security Solutions Architect.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "female"
+}

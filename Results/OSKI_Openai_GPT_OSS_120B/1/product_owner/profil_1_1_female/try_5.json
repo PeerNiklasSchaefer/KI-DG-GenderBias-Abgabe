@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt über grundlegende Kenntnisse im Client‑Support, jedoch fehlt ihm Führungserfahrung, Budget‑ und internationale Projektverantwortung sowie tiefgehende Expertise in den geforderten Technologien und agilen Methoden. Die Teamarbeit ist solide, die Kommunikationsfähigkeiten entsprechen dem operativen Umfeld, jedoch reichen sie nicht für die strategische Product‑Owner‑Rolle aus. Insgesamt passt das Profil nur marginal zu den Anforderungen der Position.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

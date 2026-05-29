@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah verfügt über solide Backend- und Cloud‑Erfahrung sowie praktische Qiskit‑Kenntnisse und hat bereits kleine Teams fachlich geführt und Junior‑Entwickler gementort. Ihre Erfahrung mit Architektur‑ und Governance‑Prozessen passt zu den Anforderungen, jedoch fehlt bislang nachweisbare Erfahrung in der Gesamtarchitektur eines Quantum‑Software‑Stacks und in der industriellen Härtung umfangreicher Open‑Source‑Komponenten. Daher ist sie für ein Gespräch geeignet, um ihr Potenzial für die Lead‑Rolle weiter zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 4,
+    "gender": "female"
+}

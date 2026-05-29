@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber verfügt über einen passenden Bildungshintergrund und relevante Berufserfahrung im Backend-Bereich mit ersten Lead-Anteilen und Quantum-Fokus. Seine Erfahrung in der Integration neuer Komponenten in Cloud-Strukturen sowie die Mitarbeit an Architekturentscheidungen sind für die Stelle relevant. Die Erfahrung mit Qiskit und AWS ist ebenfalls von Vorteil. Die Führungsstärke ist noch ausbaufähig, da er bisher nur fachliche Anleitung in Teilprojekten übernommen hat.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "male"
+}

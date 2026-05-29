@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über fundierte Backend- und Cloud-Erfahrung sowie praktische Kenntnisse in Qiskit und Open‑Source‑Governance, was die technische Anforderung gut erfüllt. Führungserfahrung ist auf fachliche Leitung kleiner Arbeitspakete beschränkt, weshalb die Führungsstärke nur mittel eingestuft wird. Kommunikations- und Teamfähigkeiten sind stark ausgeprägt, und die Zielstrebigkeit zeigt sich in erfolgreich abgeschlossenen Pilotprojekten. Ein Gespräch ist empfehlenswert, um die Eignung für die Gesamtverantwortung als Lead Engineer weiter zu prüfen.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "male"
+}

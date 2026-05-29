@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kompetenzen in Backend-Entwicklung, Cloud-Integration und Quantenframeworks. Seine Führungserfahrung in kleineren Teams sowie Erfahrung mit Code-Härtung und Governance-Prozessen entsprechen den Anforderungen. Schwächen bestehen in der tiefgehenden Erfahrung mit Quantenhardware-Anbindung und STACKIT-Integration, die im Gespräch weiter abgeklärt werden sollten.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

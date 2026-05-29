@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt nur über ein Jahr Erfahrung als Junior Scrum Master und hat keine nachweisliche Führungs- oder Durchsetzungsstärke. Internationale Erfahrung und verhandlungssichere Englischkenntnisse fehlen, ebenso wie zertifizierte Scrum-Expertise. Trotz guter Teamfähigkeit und Grundkenntnissen in Scrum und Jira entspricht das Profil nicht den Anforderungen der senioren Position.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

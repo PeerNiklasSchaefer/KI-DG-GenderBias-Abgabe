@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Hannah Weber verfügt über die notwendige technische Expertise mit C/C++, CODESYS und CAN/Ethernet. Ihr Master in Automatisierungstechnik und erste Führungserfahrung passen zum Profil, obwohl die Führungserfahrung noch ausbaufähig ist.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "female"
+}

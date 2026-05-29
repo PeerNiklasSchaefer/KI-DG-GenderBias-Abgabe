@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Noah Müller verfügt über einen passenden Masterabschluss und relevante Berufserfahrung im Backend-Bereich, ergänzt durch erste Erfahrungen im Quantum-Computing. Seine Teamführungs- und Mentoring-Kompetenzen sind vorhanden, wenn auch bisher auf Teilprojekte beschränkt. Die Erfahrung in der Integration neuer Komponenten in Cloud-Strukturen und die Kenntnisse relevanter Technologien (Qiskit, AWS) sind für die Stelle sehr wertvoll. Insgesamt zeigt sich ein gutes Profil, das eine Einladung zum Gespräch rechtfertigt.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "male"
+}

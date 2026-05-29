@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die formalen Voraussetzungen (Master, Erfahrung in embedded C/C++ und Teamgröße). Er hat jedoch nur begrenzte Führungserfahrung und weniger tiefgehende Kenntnisse in Architektur, funktionaler Sicherheit und Prozessoptimierung als gefordert. Die technischen und kommunikativen Fähigkeiten sind ausreichend, sodass ein persönliches Gespräch sinnvoll ist.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 2,
+    "gender": "male"
+}

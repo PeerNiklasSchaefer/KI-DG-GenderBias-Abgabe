@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emma Schneider zeigt eine starke technische Kompetenz in relevanten Bereichen wie Backend-Engineering und Cloud-Anwendungen, was gut zur Stellenbeschreibung passt. Ihre Erfahrung in der Integration neuer Komponenten in bestehende Cloud-Strukturen und ihre ersten Lead-Anteile sind vielversprechend. Sie hat auch nachgewiesene Fähigkeiten in der technischen Anleitung kleiner Teams und in der Durchführung von Code-Reviews, was für die Rolle als Lead Quantum Software Engineer wichtig ist. Allerdings hat sie noch nicht umfangreiche Erfahrung in der Führung größerer Teams oder in der strategischen Überführung von forschungsnahem Open-Source-Code in industriellen Standard, was Raum für Entwicklung lässt.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "female"
+}

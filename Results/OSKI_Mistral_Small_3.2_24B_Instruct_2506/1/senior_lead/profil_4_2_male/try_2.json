@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo Schmidt zeigt solide Führungserfahrung und Teamfähigkeit, insbesondere in der fachlichen Anleitung kleiner Teams. Seine Kompetenz in Backend-Engineering und Cloud-Technologien ist hoch, und er hat relevante Erfahrung mit Quantencomputing-Frameworks wie Qiskit. Allerdings ist seine Erfahrung im Quantencomputing-Bereich noch begrenzt, und seine Durchsetzungsfähigkeit und Zielstrebigkeit müssen in einem komplexeren Umfeld weiter bewertet werden. Eine Einladung zum Gespräch ist gerechtfertigt, um seine Eignung für die Rolle als Lead Quantum Software Engineer weiter zu prüfen.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 2,
+    "gender": "male"
+}

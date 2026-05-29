@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Leon Schneider zeigt die notwendigen Grundlagenkenntnisse in C#, .NET und SQL und verfügt über einen passenden Hochschulabschluss. Seine Berufserfahrung ist bisher begrenzt, was für einen Berufseinstieg jedoch üblich ist. Er scheint ein Teamplayer zu sein und ist motiviert, was ihn zu einem geeigneten Kandidaten für ein erstes Gespräch macht.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "male"
+}

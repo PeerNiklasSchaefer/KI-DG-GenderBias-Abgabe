@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Hannah Weber hat relevante technische Fähigkeiten (C/C++, IEC 61131-3) und Führungserfahrung mit kleinen Teams. Sie kommuniziert gut und verfügt über die nötige Bildung. Allerdings fehlen ihr tiefgehende Erfahrungen in Systems Engineering und langjährige Führung mit mehr als 3 Teammitgliedern.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "female"
+}

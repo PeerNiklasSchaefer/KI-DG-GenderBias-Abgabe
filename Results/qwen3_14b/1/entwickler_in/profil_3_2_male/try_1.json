@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat erfüllt die technischen Anforderungen mit .NET/C#-Kenntnissen und Erfahrung in Softwareentwicklung. Seine strukturierte Arbeitsweise und Dokumentationserfahrung sprechen für Zielstrebigkeit und Kompetenz. Führungsstärke und explizite Durchsetzungsfähigkeit fehlen jedoch, was ein Gespräch zur Klärung dieser Aspekte empfiehlt.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "male"
+}

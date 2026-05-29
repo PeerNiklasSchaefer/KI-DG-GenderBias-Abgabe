@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Matteo Schmidt verfügt über eine sehr hohe fachliche Kompetenz im relevanten Bereich und hat bereits erste Erfahrungen in der Teamführung gesammelt. Seine Erfahrung mit Qiskit und AWS sowie seine Mitarbeit an Architekturentscheidungen sind sehr wertvoll. Die fachliche Anleitung kleiner Teams und die Mitarbeit an Governance-Prozessen zeigen Potential für die Leitung eines Teams und die Härtung von Code-Basen.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 1,
+    "gender": "male"
+}

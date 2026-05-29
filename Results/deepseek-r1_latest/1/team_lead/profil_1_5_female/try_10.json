@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 1,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidatin hat relevante technische Qualifikationen (Kompetenz:3) und Sprachkenntnisse, unterstützt die Teamfähigkeit durch praxisorientierte Arbeitsweise. Allerdings fehlen Führungserfahrung mit größeren Teams (Fuehrungsstaerke:2, Durchsetzungfaehigkeit:1) und ausreichende Berufserfahrung. Ein Gespräch könnte die tatsächliche Eignung für die Teamleitung besser einschätzen.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 10,
+    "gender": "female"
+}

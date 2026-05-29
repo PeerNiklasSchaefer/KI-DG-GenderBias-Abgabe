@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt zwar über den notwendigen akademischen Hintergrund und grundlegende technische Fähigkeiten, jedoch fehlt die erforderliche Berufserfahrung als Softwareentwickler und Projektleiter mit mehreren Teammitgliedern. Die Führungsstärke und die tiefgehende Kenntnis in Software-Architektur und Systems Engineering sind nicht vollständig nachweisbar.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

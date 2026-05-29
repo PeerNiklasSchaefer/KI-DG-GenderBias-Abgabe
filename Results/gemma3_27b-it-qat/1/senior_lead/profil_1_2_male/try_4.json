@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Hintergrund in Physik/Informatik mit Quantum-Bezug und mehrjährige Erfahrung in der Quantum-Entwicklung. Er besitzt bereits Erfahrung mit der Integration von Quantum-Komponenten in produktnahe Umgebungen und erste Führungserfahrung durch Mentoring. Die Kompetenz im Backend-Bereich und die Cloud-Kenntnisse sind vorhanden, jedoch noch nicht auf einem sehr tiefen Niveau. Insgesamt zeigt das Profil eine gute Eignung für die Position.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "male"
+}

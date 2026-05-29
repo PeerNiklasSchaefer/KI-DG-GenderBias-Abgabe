@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen relevanten Hochschulabschluss und 4 Jahre Erfahrung im Bereich Security. Er hat bereits mit Fortinet gearbeitet und erste Erfahrungen in der Implementierung von Firewalls und SD-WAN gesammelt. Die Führungsstärke ist jedoch noch gering ausgeprägt, während die Team- und Kommunikationsfähigkeit positiv hervorzuheben sind. Ein Gespräch kann klären, ob die vorhandenen Kompetenzen für die anspruchsvollen Aufgaben ausreichen.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "female"
+}

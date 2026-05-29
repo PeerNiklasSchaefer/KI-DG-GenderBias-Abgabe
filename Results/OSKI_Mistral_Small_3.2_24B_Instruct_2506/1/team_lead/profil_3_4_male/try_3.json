@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo Fischer hat relevante Erfahrung in der Softwareentwicklung für maschinennahe Anwendungen und zeigt gute Teamfähigkeit. Seine Führungsstärke ist noch begrenzt, da er bisher nur informelle Leitung kleiner Arbeitspakete übernommen hat. Seine Kompetenz in den benötigten Programmiersprachen und Grundkenntnisse in Systems Engineering sind jedoch vielversprechend. Ein Interview würde weitere Einblicke in seine Durchsetzungsfähigkeit und Zielstrebigkeit geben.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

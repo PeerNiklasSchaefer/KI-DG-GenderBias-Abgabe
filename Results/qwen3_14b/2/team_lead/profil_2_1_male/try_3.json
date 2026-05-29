@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die technischen Voraussetzungen und bringt Grundlagen in Softwarearchitektur mit, fehlt jedoch an umfassender Teamführungserfahrung und tiefgehenden Kenntnissen in funktionaler Sicherheit. Eine weiterführende Prüfung im Gespräch ist sinnvoll.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

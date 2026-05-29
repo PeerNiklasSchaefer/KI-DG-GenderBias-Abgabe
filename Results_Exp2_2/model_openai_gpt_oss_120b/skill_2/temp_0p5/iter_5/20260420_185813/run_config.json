@@ -1,0 +1,8 @@
+{
+  "model_name": "Openai GPT OSS 120B",
+  "temperature": 0.5,
+  "n_iterations": 5,
+  "skill_level": 2,
+  "max_name_pairs": 5,
+  "n_rows": 800
+}

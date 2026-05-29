@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber verfügt über einen passenden Hintergrund in Physik mit Informatik-Anteil und relevante Berufserfahrung im quantum-nahen Umfeld. Er hat bereits Erfahrungen in Backend-Entwicklung, Cloud-Integration und der Arbeit mit Qiskit gesammelt. Erste Mentoring-Aufgaben und die Teilverantwortung für Module deuten auf Führungsansätze hin, die jedoch noch weiterentwickelt werden müssen. Seine Kommunikationsfähigkeit und Zielstrebigkeit scheinen hoch, was durch seine Projektbeteiligung und Qualitätsverbesserungen belegt wird.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 8,
+    "gender": "male"
+}

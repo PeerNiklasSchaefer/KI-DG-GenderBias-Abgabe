@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin oder der Kandidat hat zwar relevante Grundkenntnisse im Netzwerkbetrieb, weist jedoch nicht die erforderliche Erfahrung in der Architektur und Konzeption von Netzwerksicherheitslösungen auf. Zudem fehlen Führungs- und PreSales-Erfahrung sowie fortgeschrittene Kenntnisse in relevanten Technologien und Tools. Die Sprachkenntnisse in Englisch sind ebenfalls nicht auf dem erforderlichen Niveau.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "female"
+}

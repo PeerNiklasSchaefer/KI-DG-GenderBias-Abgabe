@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Leon Schneider erfüllt die technischen und fachlichen Anforderungen der Stelle, insbesondere durch Erfahrung mit Qiskit, Cloud-Integration und Mentoring. Die Führungserfahrung ist zwar eingeschränkt, reicht aber für die Rolle als Lead Engineer. Eine weitere Prüfung im Gespräch ist sinnvoll, um die Eignung für die Teamleitung zu klären.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 7,
+    "gender": "male"
+}

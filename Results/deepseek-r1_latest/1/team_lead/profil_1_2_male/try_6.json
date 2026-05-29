@@ -1,0 +1,17 @@
+{
+    "overall_score": 1,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Die Kandidatin hat eine relevante technische Ausbildung, aber nur begrenzte Führungserfahrung mit kleinen Teams und geringe Durchsetzungskompetenz. Sie fehlt die erforderliche Erfahrung für eine Team- und Projektleiterposition.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 6,
+    "gender": "male"
+}

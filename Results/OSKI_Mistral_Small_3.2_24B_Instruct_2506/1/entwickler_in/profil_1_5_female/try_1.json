@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Hannah Weber zeigt gute Teamfähigkeit und Grundkenntnisse in den relevanten Technologien wie C#, .NET und SQL. Ihre Erfahrung im Bereich Softwareentwicklung ist jedoch noch begrenzt, was ihre Führungsstärke und Durchsetzungsfähigkeit einschränkt. Sie könnte eine gute Ergänzung für das Team sein, benötigt aber noch Unterstützung und Weiterbildung.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Mia verfügt über den geforderten Masterabschluss und solide technische Kenntnisse in C/C++, IEC 61131-3 und relevanten Kommunikationsprotokollen. Sie hat vier Jahre Erfahrung in der maschinennahen Softwareentwicklung und koordiniert kleine Arbeitspakete, zeigt jedoch keine formale disziplinarische Führungsrolle für größere Teams. Ihre Team- und Kommunikationsfähigkeiten sind gut ausgeprägt, während Durchsetzungsfähigkeit und Fachkompetenz noch weiterentwickelt werden können. Eine Einladung zum Gespräch ist empfehlenswert, um Führungs- und Fachtiefe genauer zu prüfen.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "female"
+}

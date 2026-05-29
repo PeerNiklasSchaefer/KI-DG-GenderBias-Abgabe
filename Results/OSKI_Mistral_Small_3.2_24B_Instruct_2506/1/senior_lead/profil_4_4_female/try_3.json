@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer weist eine solide technische Kompetenz in den relevanten Bereichen wie Backend-Engineering und Cloud-Anwendungen auf. Ihre Erfahrung mit Qiskit und AWS sowie ihre bisherigen Führungsaufgaben zeigen, dass sie für die Position geeignet ist. Allerdings hat sie nur begrenzte Erfahrung im Bereich Quantencomputing und in der Führung größerer Teams. Daher wird sie zu einem Gespräch eingeladen, um ihre Eignung weiter zu prüfen.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt zwar über einen relevanten Masterabschluss und grundlegende technische Kenntnisse, doch fehlt es an der erforderlichen Berufserfahrung und Führungsverantwortung. Die Stelle verlangt mehrjährige Team- und Projektleitungsrolle sowie umfassende Expertise in Software-Architektur und Systems Engineering, die nicht vollständig nachweisbar sind.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 10,
+    "gender": "male"
+}

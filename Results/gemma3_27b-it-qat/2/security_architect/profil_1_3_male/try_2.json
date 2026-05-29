@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Bildungsabschluss und solide Grundlagen im Netzwerkbetrieb. Es fehlt jedoch an Erfahrung in der Konzeption und Architektur von Netzwerksicherheitslösungen, wie in der Stellenbeschreibung gefordert. Auch die Erfahrung mit Fortinet, Cisco oder Meraki ist nicht gegeben. Die fehlende Führungsverantwortung und PreSales-Erfahrung sowie die Basiskenntnisse in Automation schränken die Eignung für die Senior-Position ein.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "male"
+}

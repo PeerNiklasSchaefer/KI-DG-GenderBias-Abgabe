@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kompetenzen und Erfahrung in Security-Implementierungen, sowie Kenntnisse in SD-WAN und Fortinet. Die fehlende Führungsverantwortung und begrenzte Herstellerkenntnisse (Cisco/Meraki) sind jedoch Punkte, die im Gespräch weiter abgeklärt werden sollten.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "female"
+}

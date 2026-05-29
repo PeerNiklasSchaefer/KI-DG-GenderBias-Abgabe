@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat hat grundlegende Kenntnisse im Client-Betrieb und operativen IT-Support, jedoch fehlt ihm die erforderliche Erfahrung in der Produktsteuerung und agilen Methoden im Produktkontext. Zudem fehlt es an Führungs- und internationalen Projekterfahrungen, die für die Position als Product Owner entscheidend sind.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "female"
+}

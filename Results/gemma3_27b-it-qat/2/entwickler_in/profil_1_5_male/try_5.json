@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Luca Weber zeigt die notwendigen Grundlagen in C# und .NET, was für einen Berufseinstieg passend ist. Seine Erfahrung ist bisher begrenzt, aber er scheint motiviert und teamfähig. Ein Gespräch kann klären, ob er die Aufgaben schnell erlernen und eigenständig bearbeiten kann.",
+    "file_name": "profil_1.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "male"
+}

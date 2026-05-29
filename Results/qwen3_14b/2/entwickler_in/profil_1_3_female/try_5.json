@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma erfüllt die grundlegenden Anforderungen durch ihren Hochschulabschluss und erste praktische Erfahrungen in .NET/C#-Projekten. Ihre Teamfähigkeit und Kommunikation sind positiv bewertet, jedoch fehlen konkrete Belege für Führungsverantwortung oder Durchsetzungsfähigkeit. Die Kompetenz ist auf Grundlageniveau, was für eine Einstiegsposition angemessen, aber für die Stelle als Entwickler:in mit Verantwortung weiter zu entwickeln ist.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "female"
+}

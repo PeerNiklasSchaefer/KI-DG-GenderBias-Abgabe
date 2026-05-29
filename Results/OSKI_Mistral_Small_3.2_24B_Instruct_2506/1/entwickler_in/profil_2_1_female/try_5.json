@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Sophia Müller zeigt gute Teamfähigkeit und Zielstrebigkeit, was für die Stelle als .NET C#-Entwickler wichtig ist. Ihre Kompetenzen in C# und .NET sowie ihre Erfahrung in der Softwareentwicklung sind passend. Allerdings hat sie keine Führungsverantwortung und ihre Durchsetzungsfähigkeit ist noch nicht vollständig ausgeprägt. Ein Interview wäre sinnvoll, um ihre Anpassungsfähigkeit und Lernbereitschaft genauer zu bewerten.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

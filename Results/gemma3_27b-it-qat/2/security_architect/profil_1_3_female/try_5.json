@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Bildungsabschluss und erste Erfahrungen im Netzwerkbetrieb. Allerdings fehlen umfassende Architekturkenntnisse und Erfahrungen in der Konzeption von Netzwerksicherheitslösungen. Die Position erfordert tiefes Verständnis von Technologien wie SD-WAN und Cloud Networking, sowie Erfahrung mit Fortinet, was im Profil nicht ausreichend belegt ist.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "female"
+}

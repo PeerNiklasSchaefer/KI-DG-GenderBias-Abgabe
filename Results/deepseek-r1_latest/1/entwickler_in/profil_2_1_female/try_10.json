@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller erfüllt die technischen Anforderungen (C#, .NET, SQL) und zeigt Teamfähigkeit sowie Lernbereitschaft. Ihre Erfahrung als Junior-Entwicklerin passt zur Stelle, ergänzt werden sollte durch ein Vorstellungsgespräch.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 10,
+    "gender": "female"
+}

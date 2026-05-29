@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin verfügt über relevante technische Grundlagen (Firewalls, SD-WAN, Fortinet) und erste Erfahrungen in Automatisierung und Kundenkommunikation. Allerdings fehlt eine Führungserfahrung und eine tiefergehende Expertise in strategischer Architektur sowie der Umgang mit Herstellern und komplexen Projekten ist begrenzt.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

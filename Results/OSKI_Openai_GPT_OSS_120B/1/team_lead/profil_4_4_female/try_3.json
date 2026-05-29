@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Mia verfügt über einschlägige Erfahrung in der fachlichen Leitung eines 4‑köpfigen Teams sowie über solide technische Kenntnisse in C/C++ und Embedded‑Entwicklung. Ihre Kommunikationsfähigkeiten in Deutsch und Englisch sowie ihre Zielstrebigkeit zeigen sich in erfolgreichen Release‑ und Stakeholder‑Koordinationen. Fehlende disziplinarische Führungsverantwortung und noch ausbaufähige Expertise in Architektur und funktionaler Sicherheit mindern die Passgenauigkeit, rechtfertigen jedoch ein persönliches Gespräch.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia verfügt über die geforderten .NET‑Kenntnisse und praktische Erfahrung in objektorientierter Entwicklung, Unit‑Tests und Code‑Reviews, was ihre fachliche Kompetenz hoch einschätzt. Sie arbeitet seit zwei Jahren im Team und zeigt gute Kommunikations- und Teamfähigkeiten. Da sie keine Führungserfahrung hat, wird ihre Führungsstärke als gering bewertet, während Zielstrebigkeit und Lernbereitschaft als hoch gelten. Insgesamt passt sie gut zur Position, ein Gespräch ist empfehlenswert.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "female"
+}

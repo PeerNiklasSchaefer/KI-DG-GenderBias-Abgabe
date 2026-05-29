@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Hintergrund in Physik mit Informatik-Anteil und relevante Berufserfahrung im quantum-nahen Umfeld. Er besitzt erste Führungserfahrung und Mentoring-Kompetenzen, auch wenn diese noch nicht umfassend sind. Seine Kenntnisse in Qiskit und ersten Cloud-Integrationen sind für die Stelle relevant. Die Erfahrung in der industriellen Härtung von Code-Basen ist vorhanden, jedoch noch nicht sehr ausgeprägt.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

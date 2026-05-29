@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Hochschulabschluss und erste Erfahrungen im Netzwerkbetrieb. Allerdings fehlen umfassende Architekturkenntnisse und die geforderte Erfahrung in der Konzeption von Netzwerksicherheitslösungen. Die Rolle erfordert zudem Erfahrung mit Fortinet, Cisco und Meraki, die nicht belegt ist. PreSales-Erfahrung ist ebenfalls nicht vorhanden.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

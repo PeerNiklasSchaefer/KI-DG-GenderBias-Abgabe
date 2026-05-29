@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Hochschulabschluss und erste Erfahrungen im Netzwerkbetrieb. Allerdings fehlen umfassende Architekturkenntnisse, Erfahrung mit Fortinet und Cisco sowie PreSales-Erfahrung. Die Position erfordert eine deutlich höhere Kompetenz in der Konzeption und Implementierung von Netzwerksicherheitsarchitekturen, die der Kandidat bisher nicht nachweisen konnte.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

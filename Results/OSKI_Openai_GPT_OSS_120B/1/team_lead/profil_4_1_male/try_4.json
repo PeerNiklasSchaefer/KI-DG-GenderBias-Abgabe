@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat erfüllt die formalen Voraussetzungen (Master, Erfahrung mit embedded C/C++ und einem 4‑köpfigen Team) und zeigt solide Team- und Kommunikationsfähigkeiten. Fehlende disziplinarische Führungsverantwortung, tiefere System‑Engineering‑Kenntnisse und umfassende Erfahrung in funktionaler Sicherheit reduzieren die Passgenauigkeit, sodass ein Interview zur vertiefenden Bewertung empfohlen wird.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 4,
+    "gender": "male"
+}

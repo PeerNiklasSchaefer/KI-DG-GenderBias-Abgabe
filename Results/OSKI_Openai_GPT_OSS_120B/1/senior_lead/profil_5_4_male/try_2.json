@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 5,
+        "Durchsetzungsfaehigkeit": 5,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 5,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über nachweisliche Erfahrung in der technischen Gesamtleitung und dem Aufbau von Quantum-Software-Teams, kombiniert mit tiefgehender Cloud- und OSS-Governance-Expertise. Seine bisherigen Projekte zeigen erfolgreiche Architektur- und Integrationsleistungen sowie robuste QPU-Anbindung. Kommunikations- und Sprachfähigkeiten entsprechen den Anforderungen, und die Zielstrebigkeit wird durch die schnelle Produktreife seiner Lösungen belegt.",
+    "file_name": "profil_5.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "male"
+}

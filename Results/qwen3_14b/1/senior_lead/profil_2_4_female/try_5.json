@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Mia verfügt über relevante technische Kompetenzen in Cloud-Plattformen, Qiskit und skalierbaren Backend-Systemen. Sie hat Erfahrung in Mentoring und fachlicher Führung kleiner Teams. Ihre Kenntnisse in Open-Source-Governance und hybriden Algorithmen entsprechen den Anforderungen. Die Führungsstärke und Kommunikation sind gut, jedoch fehlen konkrete Belege für die Leitung eines vollständigen Engineering-Teams.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "female"
+}

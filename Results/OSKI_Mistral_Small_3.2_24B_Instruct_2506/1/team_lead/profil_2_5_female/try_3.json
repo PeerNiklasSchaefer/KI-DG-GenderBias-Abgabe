@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Hannah Weber hat relevante Erfahrung in der Softwareentwicklung und erste Führungsanteile in Teilprojekten. Ihre Kenntnisse in C++ und Basiswissen in CAN, Ethernet und SPS-Umfeld sind für die Stelle relevant. Sie zeigt Teamfähigkeit und gute Kommunikationsfähigkeiten. Allerdings fehlt ihr die Erfahrung in disziplinarischer Führungsverantwortung und die umfassende Kenntnis von Systems Engineering und modellbasierten Entwicklungsmethoden. Ein Interview wäre sinnvoll, um ihre Eignung weiter zu evaluieren.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 3,
+    "gender": "female"
+}

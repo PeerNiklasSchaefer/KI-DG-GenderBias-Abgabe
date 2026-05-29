@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Emma Schneider ist eine motivierte Absolventin der Informatik mit ersten Erfahrungen in der .NET-Entwicklung. Ihre Kompetenzen in C# und SQL sind noch auf Grundlagen-Niveau, was für einen Berufseinstieg jedoch passend ist. Sie scheint eine gute Teamplayerin zu sein und könnte durch die Unterstützung von erfahrenen Entwicklern schnell wachsen.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 7,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Leon Schneider weist relevante Erfahrungen in der Softwareentwicklung für maschinennahe Anwendungen auf und hat erste Führungserfahrung. Seine Kenntnisse in C/C++ und IEC 61131-3 sowie Grundlagen im Systems Engineering und in der modellbasierten Entwicklung sind vielversprechend. Allerdings fehlt es ihm an disziplinarischer Führungsverantwortung und an fortgeschrittenen Kenntnissen in funktionaler Sicherheit und Embedded Security. Seine Sprachkenntnisse in Englisch sind ausreichend, aber nicht auf dem Niveau von diskussionsfesten Sprachkenntnissen. Insgesamt scheint er ein vielversprechender Kandidat für ein Vorstellungsgespräch zu sein.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 1,
+    "gender": "male"
+}

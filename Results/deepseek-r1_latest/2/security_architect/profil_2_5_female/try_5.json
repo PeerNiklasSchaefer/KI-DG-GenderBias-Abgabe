@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat hat relevante technische Kenntnisse (Fortinet, SD-WAN) und Projeterfahrung, zeigt aber keine Führungserfahrung. Die mangelnde Führungsqualifikation und begrenzte Herstellerkenntnisse (Cisco/Meraki) begrenzen die Eignung.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

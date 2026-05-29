@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat verfügt nicht über die erforderliche Berufserfahrung (mindestens 5 Jahre vs. 2 Jahre), fehlende Expertise in Arbeitsrecht und Verhandlungen mit Betriebsräten sowie keine Kenntnisse in SAP-HR/Workday. Die Qualifikation und Erfahrung entsprechen nicht den Anforderungen der Stelle.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "female"
+}

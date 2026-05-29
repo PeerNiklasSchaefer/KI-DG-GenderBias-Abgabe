@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia verfügt über relevante technische Kompetenzen und Führungserfahrung mit einem 4-köpfigen Team. Sie hat Erfahrung in der Anforderungsabstimmung und Releaseplanung, was auf Durchsetzungsfähigkeit hindeutet. Die technischen Kenntnisse entsprechen den Anforderungen, aber tiefere Expertise in funktionale Sicherheit und Embedded Security fehlt. Ein Interview zur Vertiefung der Softskills und technischen Relevanz wird empfohlen.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "female"
+}

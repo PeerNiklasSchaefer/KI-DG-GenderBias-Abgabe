@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 2,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kenntnisse und Erfahrungen in Quantencomputing sowie Cloud-Integration, jedoch fehlen tiefgehende Cloud-Plattformkenntnisse und sehr gute Englischkenntnisse. Die Führungserfahrung ist begrenzt, aber potenziell weiterentwicklbar.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

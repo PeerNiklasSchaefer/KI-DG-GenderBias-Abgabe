@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Der Kandidat verfügt über eine sehr hohe fachliche Kompetenz im Bereich Backend-Entwicklung und erste Erfahrungen im Quantencomputing, insbesondere mit Qiskit. Seine Erfahrung in der Integration neuer Services und der Härtung von Code-Basen ist relevant. Die bisherige Führungsrolle war fachlicher Natur, was für die Leitung eines Teams ausreichend sein sollte. Die sehr guten Deutsch- und Englischkenntnisse sind ein Plus.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "male"
+}

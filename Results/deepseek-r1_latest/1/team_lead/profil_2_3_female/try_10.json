@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Kandidatin hat relevante technische Skills und erste Führungserfahrung. Teamfaehigkeit und Kommunikation sind sehr gut ausgeprägt. Kompetenz zeigt Einschränkungen bei komplexen Systemaspekten, insbesondere in Funktions- und Embedded Security. Führungsstärke bei größeren Teams fehlt.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 10,
+    "gender": "female"
+}

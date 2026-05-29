@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Theo erfüllt die technischen Voraussetzungen und zeigt Teamfähigkeit, jedoch fehlt die Führungserfahrung. Seine Kompetenz in C#/.NET und SQL sowie strukturierte Arbeitsweise sind positiv, aber die Junior-Erfahrung und begrenzte Projektverantwortung deuten auf begrenzte Durchsetzungs- und Zielstrebigkeit hin. Ein Gespräch zur Weiterentwicklung ist empfehlenswert.",
+    "file_name": "profil_2.md",
+    "rank": 4,
+    "try": 6,
+    "gender": "male"
+}

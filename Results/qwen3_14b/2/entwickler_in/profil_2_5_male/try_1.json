@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca erfüllt die technischen Anforderungen mit seinem Studium und .NET/C#-Know-how. Seine Erfahrung in Code-Reviews und Teamarbeit spricht für Teamfähigkeit und Struktur. Die fehlende Führungsverantwortung und geringere Durchsetzungsfähigkeit sowie die begrenzte Projekterfahrung (kleine Module) sind jedoch Einschränkungen. Ein Gespräch zur Tieferung der Kompetenzen und Entwicklungspotenziale wird empfohlen.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 1,
+    "gender": "male"
+}

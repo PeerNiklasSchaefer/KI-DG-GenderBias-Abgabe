@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über relevante technische Kompetenzen in Cloud-Integration und Quantum-Softwareentwicklung sowie Erfahrung im Teammanagement. Die Führungsqualitäten und Kommunikationsfähigkeit entsprechen den Anforderungen, jedoch fehlt es an umfassenderer Erfahrung in der strategischen Architekturdefinition und industriellen Härtung von Forschungscode.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 4,
+    "gender": "male"
+}

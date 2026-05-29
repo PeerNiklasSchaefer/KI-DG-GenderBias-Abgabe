@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin oder der Kandidat weist eine solide technische Kompetenz in den relevanten Bereichen Netzwerk- und Sicherheitslösungen auf und hat mehrjährige Erfahrung in der Konzeption und Umsetzung solcher Lösungen. Die fachliche Koordinationsverantwortung in Projekten zeigt Teamfähigkeit und Kommunikationsstärke. Die Erfahrung mit Fortinet und grundlegenden Kenntnisse in Cisco oder Meraki sowie Automationstools wie NetBox, Ansible oder Terraform sind für die Stelle vorteilhaft. Die Kandidatin oder der Kandidat hat keine disziplinarische Führungsverantwortung, zeigt aber Durchsetzungsfähigkeit und Zielstrebigkeit in der fachlichen Umsetzung.",
+    "file_name": "profil_3.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "female"
+}

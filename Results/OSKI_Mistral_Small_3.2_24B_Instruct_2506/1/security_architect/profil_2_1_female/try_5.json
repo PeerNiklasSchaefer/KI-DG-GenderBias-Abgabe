@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat hat relevante Berufserfahrung in Netzwerk- und Security-Lösungen, jedoch fehlt es an Führungs- und Architekturverantwortung. Die technischen Fähigkeiten und die Kommunikation sind gut, aber die Erfahrung mit Cisco oder Meraki ist begrenzt. Der Kandidat könnte für die Position geeignet sein, benötigt jedoch weitere Schulung und Erfahrung in bestimmten Bereichen.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

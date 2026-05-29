@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Hannah Weber verfügt über relevante technische Kompetenz, Cloud-Erfahrung und Mentoring-Erfahrung. Ihre Führungsrolle in kleineren Teams und Erfahrung mit Qiskit sowie Open-Source-Governance sind passend. Die strategische Leitung eines Core Engineering Teams und die Integration in eine Cloud-Umgebung erfordern jedoch weitere Prüfung im Gespräch.",
+    "file_name": "profil_2.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

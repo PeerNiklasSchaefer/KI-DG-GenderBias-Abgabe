@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia Schmidt verfügt über relevante Ausbildung und Berufserfahrung in der Softwareentwicklung und Projektleitung. Ihre Erfahrung in der Koordination von Teams und Projekten sowie ihre technischen Fähigkeiten in C/C++, CODESYS, CAN und Ethernet machen sie zu einer starken Kandidatin. Allerdings hat sie nur begrenzte Führungserfahrung und keine disziplinarische Führungsverantwortung, was ihre Führungsstärke und Durchsetzungsfähigkeit etwas einschränkt.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 5,
+    "gender": "female"
+}

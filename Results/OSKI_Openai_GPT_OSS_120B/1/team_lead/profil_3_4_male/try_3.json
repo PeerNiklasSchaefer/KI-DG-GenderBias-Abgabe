@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Theo Fischer besitzt den geforderten Masterabschluss und vier Jahre Erfahrung in maschinennaher Softwareentwicklung, inkl. Grundkenntnissen in C/C++ und IEC‑61131‑3. Er hat bereits informell kleine Arbeitspakete (2‑3 Personen) koordiniert, zeigt damit Team‑ und Kommunikationsfähigkeit, jedoch fehlt ihm nachweisbare disziplinarische Führungs‑ und Durchsetzungs‑erfahrung. Seine technischen Kenntnisse entsprechen den Basisanforderungen, sind jedoch nicht tief genug für die geforderte Expertise in Systemarchitektur und funktionaler Sicherheit. Daher empfehlen wir ein Gespräch, um Potenzial und mögliche Entwicklungsbereiche zu prüfen.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

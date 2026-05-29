@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Matteo bringt solide Erfahrung in skalierbaren Backend‑Systemen und Cloud‑Integration sowie praktische Kenntnisse mit Qiskit und ersten hardware‑nahen Quantum‑Projekten mit. Seine bisherige fachliche Führung kleiner Arbeitspakete und das Mentoring von Junior‑Entwicklern zeigen Team‑ und Kommunikationsfähigkeit, jedoch fehlt bislang Erfahrung in der Gesamtleitung eines größeren Engineering‑Teams. Die technische Kompetenz ist hoch, die spezifische Erfahrung im Quantum‑Stack‑Design und in der Open‑Source‑Härtung ist jedoch noch begrenzt.",
+    "file_name": "profil_2.md",
+    "rank": 2,
+    "try": 3,
+    "gender": "male"
+}

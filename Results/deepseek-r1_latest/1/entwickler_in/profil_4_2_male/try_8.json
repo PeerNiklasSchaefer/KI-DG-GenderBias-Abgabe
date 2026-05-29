@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Matteo Schmidt erfüllt die technischen Anforderungen (C#, .NET, SQL) und zeigte Initiative und Selbstständigkeit. Die Teamfähigkeit ist vorhanden, Führungsstärke fehlt. Daher wird ein Gesamtscore von 5 vergeben.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 8,
+    "gender": "male"
+}

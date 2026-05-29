@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah erfüllt die fachlichen Anforderungen (C#, .NET, SQL, OOP) und hat bereits Erfahrung in eigenständiger Feature-Entwicklung und Code-Reviews. Sie arbeitet strukturiert, zeigt hohe Lernbereitschaft und ist ein bewährter Teamplayer. Führungserfahrung und Durchsetzungsstärke werden nicht nachgewiesen, weshalb diese Kriterien niedriger bewertet werden.",
+    "file_name": "profil_3.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

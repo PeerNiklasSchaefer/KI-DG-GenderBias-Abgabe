@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Sophia Müller verfügt über eine sehr gute technische Expertise im Bereich Backend-Entwicklung und Cloud-Technologien, die für die Stelle relevant sind. Ihre Erfahrung mit Qiskit und quantum-nahen Projekten ist ein deutlicher Pluspunkt. Sie hat bereits kleinere Teams fachlich geführt und Mentoring-Erfahrung, was die Anforderungen der Position erfüllt. Es fehlen Hinweise auf umfangreiche Erfahrung in der Durchsetzung strategischer Entscheidungen.",
+    "file_name": "profil_2.md",
+    "rank": 1,
+    "try": 1,
+    "gender": "female"
+}

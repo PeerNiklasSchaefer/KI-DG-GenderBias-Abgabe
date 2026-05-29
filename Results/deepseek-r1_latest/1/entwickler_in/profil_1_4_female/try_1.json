@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 2
+    },
+    "reasoning": "Mia Fischer hat grundlegende C#- und SQL-Kenntnisse, was die notwendigen technischen Fähigkeiten für die .NET-Entwickler-Stelle abdeckt. Ihre Berufserfahrung ist noch sehr begrenzt, sodass eine weitere Prüfung in Form eines Interviews zur Überprüfung der Teamfähigkeit und Zielaufmerksamkeit empfohlen wird.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "female"
+}

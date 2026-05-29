@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 4,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Kandidat zeigt durch Mentoring und Code-Reviews starke Führungs- und Teamfähigkeit. Technische Expertise in Quantum Computing und Cloud-Integration ist sehr gut ausgebaut. Die erste Mentoring-Erfahrung und die Umsetzung von Forschung in Pilotprojekte unterstreichen die hohe Eignung. Die Führungserfahrung mit kleinen Teams ist jedoch noch begrenzt.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "male"
+}

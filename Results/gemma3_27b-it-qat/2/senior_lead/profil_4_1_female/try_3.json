@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Sophia Müller verfügt über einen passenden Hintergrund in Informatik und relevante Erfahrung im Backend-Engineering und Cloud-Technologien. Ihre ersten Lead-Anteile und die Erfahrung in der Integration von Komponenten in Cloud-Strukturen sind wertvoll. Die Quantencomputing-Kenntnisse (Qiskit) sind vorhanden und sie hat bereits an einem quantum-nahen Projekt mitgearbeitet. Ihre Führungsstärke ist noch ausbaufähig, jedoch zeigt sie Bereitschaft und Erfahrung in der fachlichen Anleitung von Teams.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 3,
+    "gender": "female"
+}

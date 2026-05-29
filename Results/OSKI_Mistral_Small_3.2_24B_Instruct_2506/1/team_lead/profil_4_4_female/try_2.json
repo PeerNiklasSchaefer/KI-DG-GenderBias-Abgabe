@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer weist relevante Erfahrungen in der Softwareentwicklung und Projektleitung auf, die für die Stelle geeignet sind. Ihre Führungserfahrung von 2 Jahren mit einem 4-köpfigen Team ist jedoch noch begrenzt. Ihre technischen Kompetenzen in C/C++, CODESYS und den relevanten Protokollen wie CAN und Ethernet sind gut, aber ihre Kenntnisse in funktionaler Sicherheit und Embedded Security sind noch grundlegend. Ihre Teamfähigkeit und Kommunikation wurden positiv hervorgehoben, was für die Rolle wichtig ist. Insgesamt erscheint sie als eine vielversprechende Kandidatin, die ein Gespräch wert ist, um ihre Eignung weiter zu bewerten.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 2,
+    "gender": "female"
+}

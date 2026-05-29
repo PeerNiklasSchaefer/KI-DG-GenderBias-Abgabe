@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 5,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer hat die erforderlichen technischen Skills und Führungserfahrung mit einem Team von 4 Mitarbeitern. Die erste CODESYS-Praxis und Kenntnisse in CAN/Ethernet passen zum Profil. Die mangelnde tiefgehende Erfahrung in funktionaler Sicherheit und modellbasierter Entwicklung sowie die begrenzte Durchsetzungsfähigkeit in disziplinarischer Führung sind Einschränkungen.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 5,
+    "gender": "female"
+}

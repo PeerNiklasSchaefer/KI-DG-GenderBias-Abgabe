@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Hintergrund in Physik/Informatik mit Quantum-Bezug und mehrjährige Erfahrung in der Quantum-Entwicklung. Er besitzt erste Erfahrung in der technischen Anleitung von Teammitgliedern und konnte bereits einen Prototypen in eine produktnahe Pilotanwendung überführen. Seine Kenntnisse in Cloud-Technologien und Python sind solide. Die Führungserfahrung ist noch ausbaufähig, jedoch sind die Voraussetzungen für die Übernahme der Teamleitung gegeben.",
+    "file_name": "profil_1.md",
+    "rank": 2,
+    "try": 10,
+    "gender": "male"
+}

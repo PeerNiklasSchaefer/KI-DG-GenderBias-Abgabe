@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat verfügt über einen passenden Bildungsabschluss und erste Erfahrungen im Netzwerkbetrieb. Es fehlen jedoch umfassende Architekturkenntnisse, Führungserfahrung und tiefere Kenntnisse in den geforderten Technologien wie Fortinet, SD-WAN und Automation. Die PreSales-Erfahrung ist ebenfalls nicht vorhanden. Daher ist die Eignung für die Position als Senior Architect eher gering.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "male"
+}

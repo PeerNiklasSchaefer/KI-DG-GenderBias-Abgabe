@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Emilia Schmidt weist eine starke technische Expertise in den relevanten Bereichen auf, insbesondere in Backend-Engineering und Cloud-Anwendungen. Ihre Erfahrung in der Integration neuer Komponenten in bestehende Cloud-Strukturen und ihre Kenntnisse in Quantencomputing (Qiskit) sind für die Stelle als Lead Quantum Software Engineer sehr relevant. Sie hat nachgewiesene Teamführungs- und Mentoring-Kompetenz, was für die Position wichtig ist. Ihre Sprachkenntnisse in Deutsch und Englisch entsprechen den Anforderungen. Die Bewertung ist leicht nach unten angepasst, da ihre Erfahrung im Quantencomputing noch begrenzt ist und sie möglicherweise noch nicht die volle Bandbreite der erforderlichen Durchsetzungsfähigkeit aufweist.",
+    "file_name": "profil_4.md",
+    "rank": 2,
+    "try": 4,
+    "gender": "female"
+}

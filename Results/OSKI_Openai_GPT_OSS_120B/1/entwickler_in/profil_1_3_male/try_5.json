@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Der Kandidat zeigt Motivation, Teamfähigkeit und Zielstrebigkeit, verfügt jedoch nur über Grundlagenkenntnisse in C#/.NET und keine Führungserfahrung. Die fachliche Tiefe und Durchsetzungsstärke reichen für die ausgeschriebene Position nicht aus.",
+    "file_name": "profil_1.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "male"
+}

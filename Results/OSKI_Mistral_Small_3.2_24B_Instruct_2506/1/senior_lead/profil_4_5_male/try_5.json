@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 4,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Luca Weber weist umfangreiche Erfahrung in der Backend- und Plattformentwicklung auf und hat bereits erste Lead-Anteile sowie fachliche Anleitung in Teilbereichen übernommen. Seine Expertise in Cloud-Technologien und Quantencomputing-Frameworks wie Qiskit macht ihn zu einem starken Kandidaten. Die Erfahrung in der Integration neuer Komponenten in bestehende Cloud-Strukturen und die Fähigkeit zur technischen Anleitung kleiner Teams sprechen für seine Eignung. Allerdings fehlt ihm möglicherweise die Erfahrung in der disziplinarischen Führung größerer Teams und in der strategischen Überführung von forschungsnahem Open-Source-Code in industriellen Standard.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "male"
+}

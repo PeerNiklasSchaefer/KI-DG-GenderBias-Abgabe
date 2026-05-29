@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 3,
+        "Kompetenz": 4
+    },
+    "reasoning": "Leon Schneider verfügt über den erforderlichen Masterabschluss und technische Kenntnisse in C/C++ sowie Grundlagen in IEC 61131-3. Seine Erfahrung in der Entwicklung von Maschinennahe Software und Teilprojektmitarbeit entspricht den Anforderungen. Die Führungsverantwortung ist jedoch begrenzt (informelle Leitung kleiner Teams), und die tiefgehenden Kenntnisse in Software-Architektur und Systems Engineering bleiben bisher ungenügend nachweisbar.",
+    "file_name": "profil_3.md",
+    "rank": 3,
+    "try": 2,
+    "gender": "male"
+}

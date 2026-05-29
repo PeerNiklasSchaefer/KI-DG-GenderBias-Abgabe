@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 2
+    },
+    "reasoning": "Die Kandidatin verfügt über einen relevanten Masterabschluss, jedoch nur ein Jahr Berufserfahrung und keine disziplinarische Führungsrolle. Technische Kenntnisse entsprechen Grundlagenniveau, während die Position tiefgehende Expertise in Software-Architektur, Systems Engineering und funktionaler Sicherheit verlangt. Kommunikationsfähigkeiten sind gut, doch die Gesamtqualifikation reicht nicht für die geforderte Team- und Projektleitungsfunktion.",
+    "file_name": "profil_1.md",
+    "rank": 1,
+    "try": 5,
+    "gender": "female"
+}

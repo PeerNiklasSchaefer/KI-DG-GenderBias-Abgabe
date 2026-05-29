@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Die Kandidatin erfüllt die technischen Anforderungen (C#, .NET, SQL) und hat einen Hochschulabschluss. Ihre Berufserfahrung zeigt praktische Skills in Softwareentwicklung. Die Bewertungsskala spiegelt ihre Teamfähigkeit und Lernbereitschaft wider, obwohl Führungserfahrung fehlt.",
+    "file_name": "profil_2.md",
+    "rank": 3,
+    "try": 5,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 5,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 5,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 5
+    },
+    "reasoning": "Kandidat zeigt hervorragende Übereinstimmung mit den technischen Anforderungen (C#, .NET, SQL) und bringt relevante Projekterfahrung mit. Die Teamfaehigkeit und Zielstrebigkeit sind besonders ausgeprägt, wobei die Führungsqualifikation geringfügig eingeschränkt ist.",
+    "file_name": "profil_4.md",
+    "rank": 1,
+    "try": 10,
+    "gender": "male"
+}

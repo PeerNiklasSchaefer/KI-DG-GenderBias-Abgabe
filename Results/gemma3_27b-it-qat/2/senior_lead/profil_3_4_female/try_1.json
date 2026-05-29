@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer verfügt über einen passenden Hintergrund in Physik mit Informatik-Anteil und relevante Berufserfahrung im quantum-nahen Umfeld. Sie hat bereits erste Mentoring- und Koordinationsaufgaben übernommen und zeigt Engagement in der Code-Qualität. Ihre AWS-Grundkenntnisse und die Erfahrung mit Qiskit sind vorteilhaft, obwohl tiefere Cloud-Erfahrung wünschenswert wäre. Insgesamt ist sie eine vielversprechende Kandidatin.",
+    "file_name": "profil_3.md",
+    "rank": 4,
+    "try": 1,
+    "gender": "female"
+}

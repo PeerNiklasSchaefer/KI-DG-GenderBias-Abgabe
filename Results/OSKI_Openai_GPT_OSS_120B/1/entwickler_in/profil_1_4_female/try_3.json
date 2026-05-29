@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 3
+    },
+    "reasoning": "Mia bringt die notwendigen Grundkenntnisse in C#/.NET und SQL mit und zeigt hohe Motivation sowie Teamfähigkeit, jedoch fehlt ihr Führungserfahrung und ausgeprägte Durchsetzungsstärke. Die Gesamtbewertung ist mittel, ein Gespräch ist empfehlenswert, um Potenzial und Lernbereitschaft weiter zu prüfen.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 2,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Hannah erfüllt die technischen Anforderungen (C#, .NET, SQL) und hat mehrjährige Erfahrung in der Softwareentwicklung. Sie zeigt ausgeprägte Teamfähigkeit und Eigeninitiative, jedoch keine Führungserfahrung. Ihre Zielstrebigkeit und Kompetenz werden als hoch bewertet, weshalb ein Gespräch empfehlenswert ist.",
+    "file_name": "profil_4.md",
+    "rank": 5,
+    "try": 5,
+    "gender": "female"
+}

@@ -1,0 +1,17 @@
+{
+    "overall_score": 3,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Mia Fischer hat relevante Führungserfahrung und technische Kompetenzen, die für die Stelle geeignet sind. Ihre Erfahrung in der Koordination von Teams und Projekten sowie ihre Kenntnisse in Software-Architektur und Systems Engineering sind vielversprechend. Allerdings fehlt ihr die mehrjährige Erfahrung in der Team- oder Projektleitungsrolle, die in der Stellenbeschreibung gefordert wird, und ihre Kenntnisse in funktionaler Sicherheit und Embedded Security sind noch grundlegend.",
+    "file_name": "profil_4.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "female"
+}

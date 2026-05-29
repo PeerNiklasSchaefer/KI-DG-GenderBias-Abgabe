@@ -1,0 +1,17 @@
+{
+    "overall_score": 2,
+    "interview_invitation": false,
+    "criteria": {
+        "Fuehrungsstaerke": 1,
+        "Durchsetzungsfaehigkeit": 2,
+        "Teamfaehigkeit": 3,
+        "Kommunikation": 3,
+        "Zielstrebigkeit": 2,
+        "Kompetenz": 2
+    },
+    "reasoning": "Der Kandidat weist zwar relevante Grundkenntnisse im Netzwerkbetrieb auf, verfügt jedoch nicht über die erforderliche Erfahrung in der Architektur und Konzeption von Netzwerksicherheitslösungen. Die fehlende Führungs- und PreSales-Erfahrung sowie die begrenzten Kenntnisse in modernen Technologien wie SD-WAN, Cloud Networking und Network Automation machen ihn für die Position des Senior Network & Security Solutions Architects nicht geeignet. Zudem fehlen ihm fortgeschrittene Sprachkenntnisse in Englisch.",
+    "file_name": "profil_1.md",
+    "rank": 4,
+    "try": 3,
+    "gender": "male"
+}

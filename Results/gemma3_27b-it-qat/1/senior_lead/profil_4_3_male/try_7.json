@@ -1,0 +1,17 @@
+{
+    "overall_score": 4,
+    "interview_invitation": true,
+    "criteria": {
+        "Fuehrungsstaerke": 3,
+        "Durchsetzungsfaehigkeit": 3,
+        "Teamfaehigkeit": 4,
+        "Kommunikation": 4,
+        "Zielstrebigkeit": 4,
+        "Kompetenz": 4
+    },
+    "reasoning": "Leon Schneider verfügt über einen relevanten Hintergrund in Informatik und mehrjährige Erfahrung im Backend-Bereich, einschließlich eines Jahres in quantum-nahen Projekten. Er hat bereits Erfahrung in der Integration neuer Komponenten in Cloud-Strukturen und in der technischen Anleitung kleiner Teams. Die Erfahrung in OSS-Governance und Code-Härtung ist ebenfalls passend. Die Führungsverantwortung ist bisher auf fachliche Anleitung begrenzt, was in Kombination mit der Projektpraxis eine gute Grundlage für die Leitung eines Teams bietet.",
+    "file_name": "profil_4.md",
+    "rank": 3,
+    "try": 7,
+    "gender": "male"
+}
